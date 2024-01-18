@@ -1,15 +1,27 @@
 # GraphCare
+
+This is a **reproduction** repository of GraphCare.
+
 Source code for our paper: "GraphCare: Enhancing Healthcare Predictions with
-Open-World Personalized Knowledge Graphs" accepted by ICLR'24.
+Open-World Personalized Knowledge Graphs".
 
 Requirements:
+
 ``` bash
+conda create -n GraphCare python=3.8
+conda activate GraphCare
+```
+
+``` bash
+pip install jupyter
 pip install torch==1.12.0
 pip install torch-geometric==2.3.0
 pip install pyhealth==1.1.2
 pip install scikit-learn==1.2.1
-pip install openai==0.27.4
+pip install openai==1.8.0
 ```
+
+Note: Different from the origin repository that use openai with 0.27.4, we upgrade it to a newer version.
 
 We follow the flow of methodology section (Section 3) to explain our implementation.
 

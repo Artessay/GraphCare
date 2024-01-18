@@ -1,3 +1,6 @@
+__pycache__
+*.env
+
 /graphs
 /play
 /ehr_training_result
@@ -6,7 +9,6 @@
 /clinical_notes
 .ipynb_checkpoints
 /resources/openai.key
-.__pycache__
 .output
 .neptune
 .ipynb_checkpoints
