@@ -1,11 +1,10 @@
-import json
-import numpy as np
 import pickle as pkl
 import random
 from collections import defaultdict
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
 
+# 加载pickle数据
 def load_data(filename):
     with open(filename, 'rb') as f:
         return pkl.load(f)

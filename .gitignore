@@ -1,10 +1,10 @@
 __pycache__
 *.env
+exp_data
 
 /graphs
 /play
 /ehr_training_result
-.exp_data
 /output
 /clinical_notes
 .ipynb_checkpoints

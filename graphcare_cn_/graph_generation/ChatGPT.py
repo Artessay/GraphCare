@@ -8,12 +8,12 @@ class ChatGPT:
     def __init__(self):
         self.client = OpenAI(
             api_key=os.environ.get("OPENAI_API_KEY"),
-            base_url="https://api.chatanywhere.com.cn/v1"
+            base_url="https://api.chatanywhere.com.cn/v1" # "https://api.openai.com/v1"
         )
 
     def chat(self, message):
         chat_completion = self.client.chat.completions.create(
-            model="gpt-3.5-turbo-1106",
+            model="gpt-3.5-turbo",
             messages=[
                 {
                     "role": "user",
