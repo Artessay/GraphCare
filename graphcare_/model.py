@@ -163,8 +163,6 @@ class GraphCare(nn.Module):
             elif self.gnn == "GIN":
                 self.conv[str(layer)] = GINConv(nn.Linear(hidden_dim, hidden_dim))
 
-            # self.bn_gnn[str(layer)] = nn.BatchNorm1d(hidden_dim)
-
 
         if self.patient_mode == "joint":
             self.MLP = nn.Linear(hidden_dim * 2, out_channels)

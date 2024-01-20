@@ -372,7 +372,7 @@ def construct_args():
     parser.add_argument('--num_layers', type=int, default=3)
     parser.add_argument('--decay_rate', type=float, default=0.01)
     parser.add_argument('--freeze_emb', type=str, default="False")
-    parser.add_argument('--device', type=int, default=1)
+    parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--patient_mode', type=str, default='joint', choices=['joint', 'graph', 'node'])
     parser.add_argument('--alpha', type=str, default="True", choices=["True", "False"])
     parser.add_argument('--beta', type=str, default="True", choices=["True", "False"])
@@ -492,7 +492,6 @@ def single_run(args, params):
         use_beta=False if beta == "True" else False,
         use_edge_attn=True if edge_attn == "True" else False,
         gnn=gnn,
-        # gnn="GIN",
         freeze=True if freeze == "True" else False,
         attn_init=attn_weights if attn_init == "True" else None,
         drop_rate=in_drop_rate,
@@ -500,12 +499,10 @@ def single_run(args, params):
     model.to(device)
 
     total_params = sum(
-	param.numel() for param in model.parameters()
+	    param.numel() for param in model.parameters()
     )
 
     print("total params:", total_params)
-
-
     # print(model)
 
     # train
