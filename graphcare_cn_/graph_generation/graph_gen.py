@@ -197,6 +197,10 @@ for key in tqdm(drug_dict.keys()):
         outfile.write(outstr)
 
 # %%
+dir_path = '../../graphs/drug/ATC3/'
+if not os.path.exists(dir_path):
+    os.makedirs(dir_path)
+
 for key in tqdm(drug_dict.keys()):
     file = f'../../graphs/drug/ATC3/{key}.txt'
     if os.path.exists(file):
