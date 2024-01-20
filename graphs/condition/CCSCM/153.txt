@@ -1,0 +1,26 @@
+gastrointestinal hemorrhage	is a	medical emergency
+gastrointestinal hemorrhage	can lead to	anemia
+endoscopy	is used for	diagnosing gastrointestinal hemorrhage
+gastrointestinal hemorrhage	is treated with	blood transfusion
+pantoprazole	is used to	manage gastrointestinal hemorrhage
+gastrointestinal hemorrhage	increases the risk of	mortality
+gastrointestinal hemorrhage	is a complication of	peptic ulcer disease
+gastrointestinal hemorrhage	may result from	NSAID use
+gastrointestinal hemorrhage	is associated with	hospital readmission
+gastrointestinal hemorrhage	can be caused by	liver cirrhosis
+gastrointestinal hemorrhage	requires	close monitoring
+gastrointestinal hemorrhage	is a common reason for	intensive care unit admission
+gastrointestinal hemorrhage	is often characterized by	black tarry stools
+gastrointestinal hemorrhage	can lead to	hypovolemic shock
+gastrointestinal hemorrhage	is managed with	endoscopic therapy
+gastrointestinal hemorrhage	is a major cause of	morbidity
+gastrointestinal hemorrhage	often presents with	hematemesis
+gastrointestinal hemorrhage	may be caused by	arteriovenous malformations
+gastrointestinal hemorrhage	is linked to	coagulopathy
+gastrointestinal hemorrhage	increases the risk of	rebleeding
+gastrointestinal hemorrhage	can result from	trauma
+gastrointestinal hemorrhage	is associated with	prolonged hospital stay
+gastrointestinal hemorrhage	is sometimes caused by	gastric cancer
+gastrointestinal hemorrhage	is a known complication of	chronic kidney disease
+gastrointestinal hemorrhage	is exacerbated by	alcohol consumption
+gastrointestinal hemorrhage	is a common problem in	elderly population

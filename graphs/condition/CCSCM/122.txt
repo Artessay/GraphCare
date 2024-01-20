@@ -1,0 +1,15 @@
+pneumonia	is an	infection
+pneumonia	can cause	fever
+bacterial pneumonia	is treated with	antibiotics
+pneumonia	may lead to	respiratory failure
+elderly	are at higher risk for	pneumonia
+pneumonia	can be caused by	aspiration
+pneumonia	is diagnosed with	chest x-ray
+pneumonia	can result in	sepsis
+community-acquired pneumonia	is common in	outpatient setting
+pneumonia	is a complication of	influenza
+pneumonia	is preventable with	vaccination
+ventilator-associated pneumonia	occurs in	hospitalized patients
+pneumonia	increases the risk of	mortality
+pneumonia	is often accompanied by	cough
+pneumonia	is more severe in	immunocompromised patients

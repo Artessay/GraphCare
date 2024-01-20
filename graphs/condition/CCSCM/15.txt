@@ -1,0 +1,99 @@
+cancer of rectum and anus	is a	malignant tumor
+rectal bleeding	is a symptom of	cancer of rectum and anus
+colonoscopy	is a diagnostic procedure for	cancer of rectum and anus
+chemotherapy	is a treatment for	cancer of rectum and anus
+radiation therapy	is a treatment for	cancer of rectum and anus
+metastasis	can occur in	cancer of rectum and anus
+surgery	is a treatment for	cancer of rectum and anus
+colostomy	may be necessary after	surgery for cancer of rectum and anus
+familial adenomatous polyposis	is a risk factor for	cancer of rectum and anus
+age	is a risk factor for	cancer of rectum and anus
+gender	may affect the treatment of	cancer of rectum and anus
+immunotherapy	is a treatment for	cancer of rectum and anus
+survival rate	is a measure of the prognosis of	cancer of rectum and anus
+rectal cancer	may be a more specific term for	cancer of rectum and anus
+anal cancer	may be a more specific term for	cancer of rectum and anus
+rectum	is the location of	cancer of rectum and anus
+anus	is the location of	cancer of rectum and anus
+proctectomy	is a surgical procedure for	cancer of rectum and anus
+adjuvant therapy	is a treatment option after	surgery for cancer of rectum and anus
+nutrition	is important for managing	cancer of rectum and anus
+anaemia	can be a complication of	cancer of rectum and anus
+staging	is important in determining the extent of	cancer of rectum and anus
+genetic testing	can help assess the risk of	cancer of rectum and anus
+chemoradiotherapy	is a combined treatment for	cancer of rectum and anus
+rectal polyps	may be a precursor to	cancer of rectum and anus
+physical activity	is important for preventing	cancer of rectum and anus
+carcinogens	may contribute to the development of	cancer of rectum and anus
+incontinence	may be a side effect of treatment for	cancer of rectum and anus
+pain	can be managed in patients with	cancer of rectum and anus
+tumor size	affects the prognosis of	cancer of rectum and anus
+lymph node involvement	is important in staging	cancer of rectum and anus
+histopathology	is used to confirm the diagnosis of	cancer of rectum and anus
+immunosuppression	may be necessary after	treatment for cancer of rectum and anus
+HER2 status	may affect the choice of treatment for	cancer of rectum and anus
+geographic location	may affect the incidence of	cancer of rectum and anus
+vaccination	may prevent certain types of	cancer of rectum and anus
+cancer screening	can detect	cancer of rectum and anus
+mortality	is a concern in patients with	cancer of rectum and anus
+quality of life	can be affected by	cancer of rectum and anus
+surveillance	is necessary after treatment for	cancer of rectum and anus
+family history	is important in assessing the risk of	cancer of rectum and anus
+prognostic factors	can help predict the outcome of	cancer of rectum and anus
+treatment response	is important in managing	cancer of rectum and anus
+hormone therapy	is not usually indicated for	cancer of rectum and anus
+smoking	is a risk factor for	cancer of rectum and anus
+alcohol consumption	may affect the risk of	cancer of rectum and anus
+immune system	can affect the progression of	cancer of rectum and anus
+cancer registry	collects data on	cancer of rectum and anus
+patient education	is important for those with	cancer of rectum and anus
+support groups	can provide emotional help for those with	cancer of rectum and anus
+palliative care	may be necessary in advanced	cancer of rectum and anus
+clinical trials	may offer new treatments for	cancer of rectum and anus
+viral infections	have been linked to some cases of	cancer of rectum and anus
+ethnicity	may affect the incidence of	cancer of rectum and anus
+colorectal cancer	may have similar symptoms to	cancer of rectum and anus
+T stage	is important in determining the extent of	cancer of rectum and anus
+N stage	is important in determining the extent of	cancer of rectum and anus
+M stage	is important in determining the extent of	cancer of rectum and anus
+synchronous tumors	may occur in patients with	cancer of rectum and anus
+pain management	is essential for patients with	cancer of rectum and anus
+sexual function	may be affected by	cancer of rectum and anus
+intestinal obstruction	is a potential complication of	cancer of rectum and anus
+fever	can be a symptom of	cancer of rectum and anus
+diarrhea	may be a side effect of treatment for	cancer of rectum and anus
+constipation	may be a side effect of treatment for	cancer of rectum and anus
+lifestyle modifications	can improve outcomes for	cancer of rectum and anus
+malnutrition	can occur in patients with	cancer of rectum and anus
+counseling	is important for patients with	cancer of rectum and anus
+psychosocial support	is important for patients with	cancer of rectum and anus
+tumor markers	can be used for monitoring	cancer of rectum and anus
+carcinoma in situ	is a precursor to	cancer of rectum and anus
+tumor grading	is important in determining the aggressiveness of	cancer of rectum and anus
+radiological imaging	is used for staging	cancer of rectum and anus
+pain medication	may be prescribed for	cancer of rectum and anus
+infection	is a risk in patients with	cancer of rectum and anus
+genetic counseling	may be necessary for those with	cancer of rectum and anus
+barium enema	is a diagnostic test for	cancer of rectum and anus
+fistula	can be a complication of	cancer of rectum and anus
+preoperative chemotherapy	may be used for	cancer of rectum and anus
+postoperative complications	may occur in patients with	cancer of rectum and anus
+respiratory problems	can occur in patients with	cancer of rectum and anus
+colorectal surgeon	is a specialist who may treat	cancer of rectum and anus
+digital rectal examination	is a diagnostic test for	cancer of rectum and anus
+genetic mutations	can increase the risk of	cancer of rectum and anus
+cognitive impairment	may be a side effect of treatment for	cancer of rectum and anus
+tissue biopsy	is used to confirm the diagnosis of	cancer of rectum and anus
+radiation oncologist	may be involved in the treatment of	cancer of rectum and anus
+tumor board	discusses the best treatment options for	cancer of rectum and anus
+epigenetics	may play a role in the development of	cancer of rectum and anus
+rehabilitation	is important after treatment for	cancer of rectum and anus
+anticoagulation therapy	may be necessary for those with	cancer of rectum and anus
+metastatic disease	affects the prognosis of	cancer of rectum and anus
+chemoprevention	may be an option for those at high risk of	cancer of rectum and anus
+acute care	may be necessary for complications of	cancer of rectum and anus
+medical history	is important in the assessment of	cancer of rectum and anus
+return to work	may be a goal for patients with	cancer of rectum and anus
+physical therapy	may be necessary after treatment for	cancer of rectum and anus
+medical imaging	is used for monitoring	cancer of rectum and anus
+tumor recurrence	can occur in patients with	cancer of rectum and anus

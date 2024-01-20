@@ -1,0 +1,79 @@
+intracranial injury	is a type of	head injury
+intracranial injury	can lead to	brain swelling
+intracranial pressure monitoring	is used to monitor	intracranial injury
+intracranial injury	may cause	cerebral contusion
+intracranial injury	is diagnosed with	CT scan
+intracranial injury	is managed with	neurosurgery
+intracranial injury	can result in	seizures
+intracranial injury	sometimes requires	intubation
+intracranial injury	can lead to	cognitive impairment
+intracranial injury	may lead to	coma
+intracranial injury	can cause	hemorrhage
+intracranial injury	can result in	herniation
+intracranial injury	may require	rehabilitation
+intracranial injury	is associated with	increased intracranial pressure
+intracranial injury	may lead to	hydrocephalus
+intracranial injury	can result in	permanent disability
+intracranial injury	is linked to	skull fracture
+intracranial injury	can cause	intracerebral hemorrhage
+intracranial injury	may require	ventriculostomy
+intracranial injury	may lead to	neurologic deficits
+intracranial injury	is a risk factor for	meningitis
+intracranial injury	is associated with	traumatic brain injury
+intracranial injury	may lead to	respiratory compromise
+intracranial injury	is a cause of	increased intracranial pressure
+intracranial injury	can result in	cognitive deficits
+intracranial injury	can cause	cerebral edema
+intracranial injury	is often caused by	trauma
+intracranial injury	is a type of	closed head injury
+intracranial injury	can result in	hematoma
+intracranial injury	may require	pharmacological therapy
+intracranial injury	is a leading cause of	death in trauma patients
+intracranial injury	is commonly seen in	car accidents
+intracranial injury	can lead to	vision problems
+intracranial injury	is a risk factor for	intracranial hypotension
+intracranial injury	can result in	neurocognitive impairment
+intracranial injury	may require	monitoring in the ICU
+intracranial injury	can lead to	changes in behavior
+intracranial injury	is a risk factor for	subdural hematoma
+intracranial injury	can result in	loss of consciousness
+intracranial injury	is linked to	contrecoup injury
+intracranial injury	may lead to	skull base fracture
+intracranial injury	can cause	post-traumatic amnesia
+intracranial injury	is associated with	diffuse axonal injury
+intracranial injury	is a risk factor for	post-concussion syndrome
+intracranial injury	may lead to	impaired executive function
+intracranial injury	is linked to	head trauma
+intracranial injury	can result in	anosmia
+intracranial injury	may cause	depression
+intracranial injury	can lead to	difficulty speaking
+intracranial injury	is a risk factor for	memory problems
+intracranial injury	can result in	sensory deficits
+intracranial injury	may lead to	personality changes
+intracranial injury	is associated with	coup injury
+intracranial injury	can cause	impaired motor function
+intracranial injury	is a risk factor for	post-traumatic stress disorder
+intracranial injury	is linked to	acceleration-deceleration injury
+intracranial injury	can result in	post-traumatic headache
+intracranial injury	is associated with	blow to the head
+intracranial injury	may lead to	auditory deficits
+intracranial injury	can cause	difficulty concentrating
+intracranial injury	is a risk factor for	difficulties with problem-solving
+intracranial injury	can result in	language impairment
+intracranial injury	may lead to	sensory processing issues
+intracranial injury	is associated with	damage to brain tissue
+intracranial injury	can cause	lack of coordination
+intracranial injury	is a risk factor for	mood disorders
+intracranial injury	can result in	impulsivity
+intracranial injury	may lead to	self-regulation difficulties
+intracranial injury	is linked to	injury to the frontal lobe
+intracranial injury	can cause	fatigue
+intracranial injury	may result in	altered consciousness
+intracranial injury	is a risk factor for	emotional dysregulation
+intracranial injury	can lead to	executive function deficits
+intracranial injury	is associated with	behavioral changes
+intracranial injury	can cause	social cognition impairment
+intracranial injury	may lead to	sleep disturbances
+intracranial injury	is a risk factor for	attention deficits
+intracranial injury	can result in	decreased processing speed
+intracranial injury	may cause	impulsive behavior

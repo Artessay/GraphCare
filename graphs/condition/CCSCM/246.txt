@@ -1,0 +1,66 @@
+fever of unknown origin	is a	medical condition
+fever of unknown origin	can be caused by	infection
+cancer	is a potential cause of	fever of unknown origin
+fever of unknown origin	requires	extensive diagnostic workup
+blood cultures	are obtained to diagnose	fever of unknown origin
+fever of unknown origin	may lead to	hospitalization
+fever of unknown origin	can be treated with	antibiotics
+bacterial infection	can be treated with	antibiotics
+antibiotics	can lead to	drug resistance
+fever of unknown origin	may result in	mortality
+mortality	can be predicted by	severity of underlying illness
+fever of unknown origin	increases the risk of	readmission
+readmission	can be reduced by	proper management
+fever of unknown origin	is associated with	elevated inflammatory markers
+elevated inflammatory markers	may indicate	infection
+fever of unknown origin	may be a sign of	underlying malignancy
+underlying malignancy	requires	oncology consultation
+oncology consultation	can lead to	biopsy
+biopsy	is necessary to confirm	malignancy
+fever of unknown origin	has a differential diagnosis that includes	inflammatory diseases
+inflammatory diseases	can be diagnosed with	laboratory tests
+laboratory tests	include	complete blood count
+complete blood count	measures	white blood cells
+white blood cells	can indicate	infection
+fever of unknown origin	may be caused by	autoimmune disorders
+autoimmune disorders	require	immunosuppressive therapy
+immunosuppressive therapy	increases the risk of	infection
+fever of unknown origin	may be a manifestation of	HIV infection
+HIV infection	requires	HIV testing
+HIV testing	is necessary for	diagnosis
+fever of unknown origin	can lead to	sepsis
+sepsis	requires	immediate medical attention
+fever of unknown origin	requires	close monitoring
+close monitoring	helps in	early detection of complications
+fever of unknown origin	can result in	multi-organ failure
+multi-organ failure	has a high	mortality rate
+fever of unknown origin	may present with	non-specific symptoms
+non-specific symptoms	make	diagnosis challenging
+fever of unknown origin	needs	specialist consultation
+specialist consultation	is important for	appropriate management
+fever of unknown origin	may lead to	prolonged hospital stay
+prolonged hospital stay	increases the risk of	complications
+fever of unknown origin	can cause	psychological distress
+psychological distress	can impact	quality of life
+fever of unknown origin	may be associated with	travel history
+travel history	can reveal	exposure to endemic diseases
+fever of unknown origin	may require	imaging studies
+imaging studies	can detect	abscesses
+abscesses	may require	drainage
+fever of unknown origin	needs	interdisciplinary approach
+interdisciplinary approach	involves	multiple healthcare providers
+healthcare providers	collaborate to	optimize patient care
+fever of unknown origin	can be complicated by	antibiotic resistance
+antibiotic resistance	requires	alternative treatment options
+fever of unknown origin	may be a result of	medication side effects
+medication side effects	can mimic	infectious symptoms
+fever of unknown origin	can be a manifestation of	systemic inflammatory response syndrome (SIRS)
+systemic inflammatory response syndrome (SIRS)	can progress to	sepsis
+fever of unknown origin	is a reason for	urgent medical evaluation
+urgent medical evaluation	is crucial for	early diagnosis
+fever of unknown origin	can lead to	economic burden on healthcare system
+economic burden on healthcare system	can be reduced by	early diagnosis and appropriate management
+fever of unknown origin	may require	hospitalization for diagnosis
+hospitalization for diagnosis	is necessary for	extensive workup
+fever of unknown origin	is defined as	above 3 weeks of fever
+above 3 weeks of fever	warrants	investigation for underlying cause

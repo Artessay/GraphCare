@@ -1,0 +1,106 @@
+inflammation	can cause	redness
+redness	is a symptom of	infection of eye
+infection of eye	can lead to	vision loss
+vision loss	is associated with	inflammation
+inflammation	can result in	pain
+pain	can be caused by	infection of eye
+infection of eye	may require	antibiotic eye drops
+antibiotic eye drops	are used to treat	infection of eye
+infection of eye	can be caused by	bacteria
+bacteria	can result in	inflammation
+inflammation	can lead to	swelling
+swelling	is a sign of	infection of eye
+infection of eye	can be diagnosed by	ophthalmologist
+ophthalmologist	specializes in	infection of eye
+infection of eye	can be exacerbated by	poor hygiene
+poor hygiene	can lead to	inflammation
+inflammation	can be treated with	anti-inflammatory drugs
+anti-inflammatory drugs	can reduce	inflammation
+inflammation	is a response to	infection of eye
+infection of eye	can be prevented by	good hygiene
+good hygiene	reduces the risk of	infection of eye
+infection of eye	is often accompanied by	discharge
+discharge	can indicate	infection of eye
+infection of eye	can lead to	corneal damage
+corneal damage	can be caused by	infection of eye
+infection of eye	is treated with	antiviral medication
+antiviral medication	is used to treat	infection of eye
+infection of eye	can result in	sensitivity to light
+sensitivity to light	is a symptom of	infection of eye
+infection of eye	can be a complication of	surgery
+surgery	can lead to	inflammation
+inflammation	can be a sign of	infection of eye
+infection of eye	can be caused by	virus
+virus	can lead to	inflammation
+inflammation	can be a result of	infection of eye
+infection of eye	can be exacerbated by	contact lens use
+contact lens use	increases the risk of	infection of eye
+infection of eye	can be transmitted through	contaminated water
+contaminated water	is a source of	infection of eye
+infection of eye	can be a complication of	autoimmune diseases
+autoimmune diseases	can lead to	inflammation
+inflammation	is associated with	infection of eye
+infection of eye	can result in	blurred vision
+blurred vision	is a symptom of	infection of eye
+infection of eye	can be diagnosed with	eye swab culture
+eye swab culture	is used to detect	infection of eye
+infection of eye	is more common in	contact lens wearers
+contact lens wearers	are at higher risk for	infection of eye
+infection of eye	is linked to	poor immune function
+poor immune function	can lead to	infection of eye
+infection of eye	may require	surgical intervention
+surgical intervention	can be necessary for	infection of eye
+infection of eye	can cause	conjunctivitis
+conjunctivitis	is a type of	infection of eye
+infection of eye	can result in	itching
+itching	is a symptom of	infection of eye
+infection of eye	can lead to	discharge from the eye
+discharge from the eye	can be a sign of	infection of eye
+infection of eye	can be caused by	fungi
+fungi	can result in	inflammation
+inflammation	is a response to	infection of eye
+infection of eye	can be prevented by	proper contact lens care
+proper contact lens care	reduces the risk of	infection of eye
+infection of eye	can be a complication of	diabetes
+diabetes	can lead to	inflammation
+inflammation	can be a sign of	infection of eye
+infection of eye	can result in	eye pain
+eye pain	is a symptom of	infection of eye
+infection of eye	can be treated with	steroid eye drops
+steroid eye drops	are used to treat	infection of eye
+infection of eye	can be exacerbated by	environmental allergens
+environmental allergens	can lead to	inflammation
+inflammation	can be a sign of	infection of eye
+infection of eye	can lead to	scarring of the cornea
+scarring of the cornea	can be caused by	infection of eye
+infection of eye	can result in	photophobia
+photophobia	is a symptom of	infection of eye
+infection of eye	can be transmitted through	contaminated contact lenses
+contaminated contact lenses	can lead to	infection of eye
+infection of eye	can be a complication of	HIV/AIDS
+HIV/AIDS	can lead to	inflammation
+inflammation	can be associated with	infection of eye
+infection of eye	can result in	decreased visual acuity
+decreased visual acuity	is a symptom of	infection of eye
+infection of eye	can be diagnosed with	slit lamp examination
+slit lamp examination	is used to detect	infection of eye
+infection of eye	is more common in	older adults
+older adults	are at higher risk for	infection of eye
+infection of eye	is linked to	exposure to chemicals
+exposure to chemicals	can lead to	inflammation
+inflammation	can be a sign of	infection of eye
+infection of eye	may require	hospitalization
+hospitalization	may be necessary for	infection of eye
+infection of eye	can cause	dry eyes
+dry eyes	can be a symptom of	infection of eye
+infection of eye	can be treated with	antifungal medication
+antifungal medication	is used to treat	infection of eye
+infection of eye	can be exacerbated by	wearing expired contact lenses
+wearing expired contact lenses	increases the risk of	infection of eye
+infection of eye	can be transmitted through	poor hand hygiene
+poor hand hygiene	is a cause of	infection of eye
+infection of eye	can be a complication of	rheumatoid arthritis
+rheumatoid arthritis	can lead to	inflammation
+inflammation	is associated with	infection of eye
+infection of eye	can result in	excessive tearing
+excessive tearing	is a symptom of	infection of eye

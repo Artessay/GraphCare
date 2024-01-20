@@ -1,0 +1,111 @@
+other CNS infection	can lead to	encephalitis
+poliomyelitis	is caused by	poliovirus
+poliomyelitis	can result in	paralysis
+acute flaccid paralysis	is a symptom of	poliomyelitis
+poliomyelitis	can be prevented by	vaccination
+polio vaccine	is administered to prevent	poliomyelitis
+other CNS infection	can be diagnosed using	MRI
+poliomyelitis	can be diagnosed with	PCR test
+poliomyelitis	can lead to	post-polio syndrome
+post-polio syndrome	is a complication of	poliomyelitis
+post-polio syndrome	can cause	muscle weakness
+muscle weakness	is a symptom of	post-polio syndrome
+other CNS infection	can result in	meningitis
+poliovirus	is transmitted through	contaminated food or water
+poliomyelitis	can lead to	respiratory failure
+respiratory failure	is a complication of	poliomyelitis
+other CNS infection	is treated with	antibiotics
+poliomyelitis	has been eradicated in	many countries
+poliomyelitis	can cause	permanent disability
+poliomyelitis	can cause	muscle atrophy
+muscle atrophy	is a result of	poliomyelitis
+post-polio syndrome	is managed with	physical therapy
+poliomyelitis	can lead to	scoliosis
+scoliosis	is a complication of	poliomyelitis
+post-polio syndrome	can result in	fatigue
+fatigue	is a symptom of	post-polio syndrome
+post-polio syndrome	can cause	joint pain
+joint pain	is a symptom of	post-polio syndrome
+post-polio syndrome	can lead to	osteoporosis
+osteoporosis	is a complication of	post-polio syndrome
+other CNS infection	can cause	seizures
+seizures	are a symptom of	other CNS infection
+seizures	can be managed with	anti-seizure medication
+poliomyelitis	can lead to	scarring of the muscles
+muscle scarring	is a complication of	poliomyelitis
+post-polio syndrome	is diagnosed based on	clinical symptoms
+post-polio syndrome	can be diagnosed with	electromyography
+poliomyelitis	can cause	difficulty breathing
+difficulty breathing	is a symptom of	poliomyelitis
+post-polio syndrome	is a late complication of	poliomyelitis
+post-polio syndrome	can lead to	muscle fatigue
+muscle fatigue	is a symptom of	post-polio syndrome
+post-polio syndrome	can result in	sleep apnea
+sleep apnea	is a complication of	post-polio syndrome
+post-polio syndrome	can cause	swallowing difficulties
+swallowing difficulties	are a symptom of	post-polio syndrome
+post-polio syndrome	can lead to	respiratory insufficiency
+respiratory insufficiency	is a complication of	post-polio syndrome
+post-polio syndrome	can result in	heart problems
+heart problems	are a complication of	post-polio syndrome
+post-polio syndrome	can cause	muscle cramps
+muscle cramps	are a symptom of	post-polio syndrome
+post-polio syndrome	can lead to	joint stiffness
+joint stiffness	is a complication of	post-polio syndrome
+poliomyelitis	can lead to	fatigue
+fatigue	is a symptom of	poliomyelitis
+other CNS infection	can lead to	hydrocephalus
+hydrocephalus	is a complication of	other CNS infection
+other CNS infection	can cause	cognitive impairment
+cognitive impairment	is a symptom of	other CNS infection
+cognitive impairment	is a result of	other CNS infection
+other CNS infection	can result in	brain abscess
+brain abscess	is a complication of	other CNS infection
+poliomyelitis	can affect	the spinal cord
+other CNS infection	can be caused by	bacteria
+poliomyelitis	can affect	the central nervous system
+poliomyelitis	can result in	muscle weakness
+poliomyelitis	can be transmitted through	close contact
+other CNS infection	can be caused by	viruses
+poliomyelitis	can be diagnosed by	testing throat swab samples
+other CNS infection	can be prevented by	good hygiene
+poliomyelitis	can lead to	deformities
+deformities	are a complication of	poliomyelitis
+poliomyelitis	can be prevented through	sanitation
+other CNS infection	can result in	ischemic stroke
+ischemic stroke	is a complication of	other CNS infection
+poliomyelitis	can lead to	muscle wasting
+muscle wasting	is a result of	poliomyelitis
+other CNS infection	can cause	abscess in the brain
+abscess in the brain	is a complication of	other CNS infection
+other CNS infection	can lead to	coma
+coma	is a complication of	other CNS infection
+poliomyelitis	can lead to	muscle pain
+muscle pain	is a symptom of	poliomyelitis
+poliomyelitis	can be transmitted through	contaminated surfaces
+other CNS infection	can result in	seizures
+poliomyelitis	can cause	nerve damage
+nerve damage	is a result of	poliomyelitis
+other CNS infection	can lead to	memory loss
+memory loss	is a symptom of	other CNS infection
+memory loss	can result from	other CNS infection
+poliomyelitis	can lead to	muscle stiffness
+muscle stiffness	is a symptom of	poliomyelitis
+other CNS infection	can lead to	numbness in extremities
+numbness in extremities	is a symptom of	other CNS infection
+numbness in extremities	can result from	other CNS infection
+poliomyelitis	can cause	fever
+fever	is a symptom of	poliomyelitis
+fever	can result from	poliomyelitis
+other CNS infection	can lead to	delirium
+delirium	is a complication of	other CNS infection
+poliomyelitis	can result in	muscle cramping
+muscle cramping	is a symptom of	poliomyelitis
+other CNS infection	can lead to	speech difficulties
+speech difficulties	are a symptom of	other CNS infection
+speech difficulties	can result from	other CNS infection
+poliomyelitis	can lead to	muscle fatigue
+muscle fatigue	is a symptom of	poliomyelitis
+other CNS infection	can result in	balance problems
+balance problems	are a symptom of	other CNS infection
+balance problems	can result from	other CNS infection

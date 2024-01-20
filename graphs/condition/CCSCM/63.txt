@@ -1,0 +1,22 @@
+Diseases of white blood cells	include	leukemia
+leukemia	is a type of	blood cancer
+lymphoma	is a type of	white blood cell cancer
+Diseases of white blood cells	can cause	immunodeficiency
+immunodeficiency	increases the risk of	infections
+HIV	is a cause of	immunodeficiency
+Diseases of white blood cells	may lead to	anemia
+anemia	is a condition of	low red blood cell count
+iron deficiency	can cause	anemia
+Diseases of white blood cells	are diagnosed using	blood tests
+complete blood count	is a type of	blood test
+Diseases of white blood cells	are treated with	chemotherapy
+chemotherapy	is a type of	cancer treatment
+stem cell transplant	is a type of	treatment for white blood cell diseases
+Diseases of white blood cells	may require	bone marrow biopsy
+bone marrow biopsy	is a procedure to	examine the bone marrow
+autoimmune disorders	are linked to	diseases of white blood cells
+rheumatoid arthritis	is an example of	autoimmune disorder
+Diseases of white blood cells	can cause	enlarged lymph nodes
+enlarged lymph nodes	may indicate	lymphoma
+Diseases of white blood cells	can lead to	spleen enlargement
+splenomegaly	is the medical term for	spleen enlargement

@@ -1,0 +1,92 @@
+hypertension	can lead to	heart disease
+hypertension	is a risk factor for	stroke
+diuretics	are used to treat	hypertension
+secondary hypertension	is caused by	another medical condition
+kidney disease	can cause	secondary hypertension
+hypertension	can result in	vision problems
+hypertension	is managed with	lifestyle changes
+hypertension	is a risk factor for	diabetes
+hypertension	can lead to	cognitive decline
+hypertension	is linked to	obesity
+hypertension	increases the risk of	cardiovascular disease
+hypertension	is associated with	high cholesterol
+hypertension	can result in	kidney failure
+hypertension	is a risk factor for	peripheral artery disease
+hypertension	can cause	erectile dysfunction
+hypertension	is a risk factor for	dementia
+hypertension	is managed with	medication
+hypertension	is a risk factor for	aneurysm
+hypertension	can lead to	aortic dissection
+hypertension	is associated with	sleep apnea
+hypertension	increases the risk of	metabolic syndrome
+hypertension	is linked to	excessive alcohol consumption
+hypertension	is a risk factor for	chronic kidney disease
+hypertension	can result in	retinopathy
+hypertension	is a risk factor for	pulmonary hypertension
+hypertension	is managed with	antihypertensive drugs
+hypertension	can lead to	heart failure
+hypertension	is associated with	smoking
+hypertension	increases the risk of	atrial fibrillation
+hypertension	is a risk factor for	obstructive sleep apnea
+hypertension	can cause	abdominal aortic aneurysm
+hypertension	is a risk factor for	hypertensive retinopathy
+hypertension	is linked to	stress
+hypertension	is associated with	poor diet
+hypertension	is a risk factor for	chronic obstructive pulmonary disease
+hypertension	can result in	hypertensive crisis
+hypertension	is managed with	regular exercise
+hypertension	is a risk factor for	heart attack
+hypertension	can lead to	kidney damage
+hypertension	is associated with	family history of high blood pressure
+hypertension	increases the risk of	peripheral vascular disease
+hypertension	is linked to	lack of physical activity
+hypertension	is a risk factor for	preeclampsia
+hypertension	is managed with	weight loss
+hypertension	is a risk factor for	deep vein thrombosis
+hypertension	can cause	intracerebral hemorrhage
+hypertension	is associated with	age
+hypertension	is a risk factor for	renal artery stenosis
+hypertension	increases the risk of	angina
+hypertension	is linked to	genetics
+hypertension	is managed with	stress reduction techniques
+hypertension	is a risk factor for	sudden cardiac death
+hypertension	can lead to	hypertensive heart disease
+hypertension	is associated with	high salt intake
+hypertension	increases the risk of	stroke in young adults
+hypertension	is linked to	sleep disorders
+hypertension	is a risk factor for	end-stage renal disease
+hypertension	can cause	renovascular hypertension
+hypertension	is a risk factor for	myocardial infarction
+hypertension	is managed with	dietary changes
+hypertension	is a risk factor for	atherosclerosis
+hypertension	increases the risk of	transient ischemic attack
+hypertension	is linked to	hormone imbalances
+hypertension	is associated with	salt sensitivity
+hypertension	is a risk factor for	stroke in women
+hypertension	can cause	gestational hypertension
+hypertension	is a risk factor for	left ventricular hypertrophy
+hypertension	is managed with	blood pressure monitoring
+hypertension	is a risk factor for	peripheral neuropathy
+hypertension	can lead to	immune system dysfunction
+hypertension	is associated with	obstructive sleep apnea syndrome
+hypertension	increases the risk of	transient global amnesia
+hypertension	is linked to	cognitive impairment
+hypertension	is a risk factor for	chronic heart failure
+hypertension	can cause	hyperaldosteronism
+hypertension	is a risk factor for	resistant hypertension
+hypertension	is managed with	regular medical check-ups
+hypertension	is a risk factor for	cataracts
+hypertension	is associated with	polymorphisms in certain genes
+hypertension	increases the risk of	cardiac arrhythmias
+hypertension	is linked to	hormonal changes
+hypertension	is a risk factor for	ischemic stroke
+hypertension	can cause	acute kidney injury
+hypertension	is a risk factor for	subarachnoid hemorrhage
+hypertension	is managed with	relaxation techniques
+hypertension	is a risk factor for	congenital heart disease
+hypertension	is associated with	hyperinsulinemia
+hypertension	increases the risk of	coronary artery disease
+hypertension	is linked to	inflammation
+hypertension	is a risk factor for	basilar artery migraine
+hypertension	can lead to	peripheral arterial disease
+hypertension	is a risk factor for	hypertensive nephropathy

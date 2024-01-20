@@ -1,0 +1,22 @@
+other aftercare	includes	follow-up appointments
+patient	should receive	instructions for aftercare
+other aftercare	may involve	physical therapy
+other aftercare	is important for	recovery
+other aftercare	reduces	risk of complications
+patient	needs	support for other aftercare
+other aftercare	helps	prevent readmission
+other aftercare	improves	patient outcomes
+other aftercare	should be customized for	each patient
+other aftercare	is provided by	healthcare professionals
+patient	should adhere to	instructions for other aftercare
+other aftercare	may require	home health services
+other aftercare	can impact	quality of life
+other aftercare	involves	monitoring and support
+other aftercare	plays a role in	rehabilitation
+patient	must understand	importance of other aftercare
+other aftercare	contributes to	long-term health
+other aftercare	is part of	comprehensive treatment
+other aftercare	helps	prevent complications
+patient	may need	assistance for other aftercare
+...
+...

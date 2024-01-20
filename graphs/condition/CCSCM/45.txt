@@ -1,0 +1,23 @@
+maintenance chemotherapy	is a treatment for	cancer
+cancer	may require	radiotherapy
+maintenance chemotherapy	is often used in	conjunction with radiotherapy
+radiotherapy	can cause	skin irritation
+maintenance chemotherapy	may lead to	fatigue
+fatigue	can be managed with	exercise
+exercise	is recommended during	maintenance chemotherapy
+maintenance chemotherapy	may result in	nausea
+nausea	can be alleviated with	antiemetics
+antiemetics	are commonly prescribed during	maintenance chemotherapy
+maintenance chemotherapy	is associated with	hair loss
+hair loss	may be temporary in	maintenance chemotherapy
+maintenance chemotherapy	can lead to	decreased blood cell counts
+decreased blood cell counts	require	regular monitoring
+regular monitoring of blood cell counts	is important during	maintenance chemotherapy
+maintenance chemotherapy	may cause	neuropathy
+neuropathy	can manifest as	tingling or numbness
+tingling or numbness	may improve after	maintenance chemotherapy
+maintenance chemotherapy	is linked to	increased risk of infection
+increased risk of infection	necessitates	precautions
+precautions	are essential during	maintenance chemotherapy
+maintenance chemotherapy	requires	close medical supervision
+close medical supervision	ensures	proper management of side effects

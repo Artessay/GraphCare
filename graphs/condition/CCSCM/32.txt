@@ -1,0 +1,23 @@
+cancer of bladder	is a	malignant condition
+smoking	is a risk factor for	cancer of bladder
+hematuria	is a symptom of	cancer of bladder
+cystectomy	is a treatment for	cancer of bladder
+chemotherapy	is used to treat	cancer of bladder
+bladder preservation	is a treatment strategy for	cancer of bladder
+invasive carcinoma	is a type of	cancer of bladder
+immunotherapy	is a treatment option for	cancer of bladder
+carcinoma in situ	is a precursor of	cancer of bladder
+urothelial carcinoma	is the most common type of	cancer of bladder
+tumor grade	is a prognostic indicator for	cancer of bladder
+cystoscopy	is a diagnostic tool for	cancer of bladder
+neoadjuvant chemotherapy	is used before surgery for	cancer of bladder
+metastasis	is a concern in	cancer of bladder
+BCG therapy	is a type of immunotherapy for	cancer of bladder
+recurrence	is a common issue in	cancer of bladder
+gene mutations	can contribute to	cancer of bladder
+BCG vaccine	is used in the treatment of	cancer of bladder
+gender	may influence the risk of	cancer of bladder
+radiation therapy	may be used in combination with other treatments for	cancer of bladder
+renal pelvis	is a possible location for	cancer of bladder
+lymph node involvement	is an important factor in staging	cancer of bladder
+bladder irrigation	is used after BCG therapy for	cancer of bladder

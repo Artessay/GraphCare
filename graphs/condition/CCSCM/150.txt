@@ -1,0 +1,97 @@
+liver disease	is a	medical condition
+alcohol	is a major cause of	liver disease
+liver disease	can lead to	cirrhosis
+cirrhosis	increases the risk of	liver cancer
+liver disease	is diagnosed through	liver function tests
+liver transplantation	is a treatment for	end-stage liver disease
+alcohol counseling	is recommended for	patients with alcohol-related liver disease
+liver disease	can cause	jaundice
+ascites	is a complication of	liver disease
+liver disease	increases the risk of	gastrointestinal bleeding
+cirrhosis	is associated with	portal hypertension
+liver disease	may require	dietary changes
+liver disease	is a risk factor for	hepatic encephalopathy
+hepatitis C	is a common cause of	liver disease
+liver disease	is linked to	malnutrition
+liver disease	is a leading cause of	mortality worldwide
+liver disease	can lead to	liver failure
+liver disease	is managed with	medication
+liver disease	is a contraindication for	certain medications
+liver disease	can result in	hepatic coma
+liver disease	is often accompanied by	fatigue
+liver disease	may require	regular monitoring
+liver disease	can be a cause of	portal vein thrombosis
+liver disease	is associated with	impaired clotting factors
+liver disease	can lead to	hepatic encephalopathy
+liver disease	is a risk factor for	hepatorenal syndrome
+liver disease	can be a cause of	ascites
+liver disease	is a cause of	hepatic steatosis
+liver disease	is associated with	elevated liver enzymes
+liver disease	can lead to	hepatic encephalopathy
+liver disease	is a risk factor for	liver cancer
+liver disease	may require	liver biopsy
+liver disease	can result in	hepatocellular carcinoma
+liver disease	is linked to	portal hypertension
+liver disease	can lead to	hepatic encephalopathy
+liver disease	is associated with	liver fibrosis
+liver disease	is linked to	alcoholic hepatitis
+liver disease	can be a cause of	liver cirrhosis
+liver disease	is a risk factor for	liver transplantation
+liver disease	can result in	liver failure
+liver disease	is a cause of	jaundice
+liver disease	can lead to	pruritus
+liver disease	may require	lifestyle modifications
+liver disease	can cause	hepatic encephalopathy
+liver disease	is associated with	impaired liver function
+liver disease	is a risk factor for	portal vein thrombosis
+liver disease	may require	dietary adjustments
+liver disease	is linked to	hepatic coma
+liver disease	can lead to	coagulopathy
+liver disease	is associated with	liver inflammation
+liver disease	is often accompanied by	anemia
+liver disease	may require	liver transplant evaluation
+liver disease	is linked to	hepatic encephalopathy
+liver disease	is a risk factor for	hepatorenal syndrome
+liver disease	can be a cause of	ascites
+liver disease	is a risk factor for	hepatocellular carcinoma
+liver disease	is a leading cause of	mortality
+liver disease	can result in	liver fibrosis
+liver disease	is associated with	hepatic steatosis
+liver disease	is linked to	elevated liver enzymes
+liver disease	is a risk factor for	alcoholic hepatitis
+liver disease	is a cause of	liver cirrhosis
+liver disease	can lead to	hepatitis C
+liver disease	may require	liver biopsy
+liver disease	is linked to	liver transplantation
+liver disease	can result in	portal hypertension
+liver disease	is a cause of	liver cancer
+liver disease	is associated with	liver failure
+liver disease	can lead to	hepatocellular carcinoma
+liver disease	may require	liver transplant surgery
+liver disease	is linked to	hepatic encephalopathy
+liver disease	is a risk factor for	coagulopathy
+liver disease	is associated with	anemia
+liver disease	can be a cause of	hepatic coma
+liver disease	is a leading cause of	liver inflammation
+liver disease	is linked to	portal vein thrombosis
+liver disease	may require	liver transplant evaluation
+liver disease	can result in	hepatorenal syndrome
+liver disease	is a cause of	liver steatosis
+liver disease	is associated with	elevated bilirubin levels
+liver disease	is a risk factor for	pruritus
+liver disease	is a contraindication for	certain surgical procedures
+liver disease	is often accompanied by	hepatic encephalopathy
+liver disease	may require	frequent hospitalizations
+liver disease	is linked to	hepatocellular carcinoma
+liver disease	is a risk factor for	hepatic coma
+liver disease	can be a cause of	liver fibrosis
+liver disease	is a risk factor for	liver transplantation
+liver disease	can lead to	anemia
+liver disease	may require	regular blood transfusions
+liver disease	is associated with	impaired liver function
+liver disease	is a leading cause of	portal vein thrombosis
+liver disease	can result in	liver cancer
+liver disease	is a cause of	liver failure
+liver disease	is linked to	malnutrition
+liver disease	is a risk factor for	ascites
+liver disease	can be a cause of	hepatic steatosis

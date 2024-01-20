@@ -1,0 +1,76 @@
+malignant neoplasm without specification of site	is a	cancer
+cancer	can result in	metastasis
+malignant neoplasm without specification of site	is diagnosed using	biopsy
+surgery	is a treatment for	malignant neoplasm without specification of site
+chemotherapy	is a treatment for	malignant neoplasm without specification of site
+radiation therapy	is a treatment for	malignant neoplasm without specification of site
+malignant neoplasm without specification of site	has a risk of	recurrence
+cancer	has a survival rate of	5 years
+malignant neoplasm without specification of site	is often associated with	pain
+palliative care	is provided for	malignant neoplasm without specification of site
+malignant neoplasm without specification of site	can lead to	organ failure
+malignant neoplasm without specification of site	may be caused by	genetic mutations
+malignant neoplasm without specification of site	can be classified as	stage I	II	III	or IV
+malignant neoplasm without specification of site	may require	hospice care
+malignant neoplasm without specification of site	can lead to	weight loss
+cancer	is often associated with	fatigue
+malignant neoplasm without specification of site	may spread to	lymph nodes
+malignant neoplasm without specification of site	can be treated with	immunotherapy
+malignant neoplasm without specification of site	may cause	anemia
+malignant neoplasm without specification of site	can affect	quality of life
+malignant neoplasm without specification of site	can lead to	cachexia
+malignant neoplasm without specification of site	is related to	smoking
+malignant neoplasm without specification of site	is diagnosed through	imaging tests
+cancer	may require	dietary changes
+malignant neoplasm without specification of site	can cause	lymphedema
+malignant neoplasm without specification of site	is associated with	depression
+cancer	may be treated with	targeted therapy
+malignant neoplasm without specification of site	may result in	hair loss
+malignant neoplasm without specification of site	is often managed with	pain medication
+malignant neoplasm without specification of site	is linked to	environmental factors
+malignant neoplasm without specification of site	can lead to	respiratory problems
+cancer	can be detected through	screening tests
+malignant neoplasm without specification of site	may impact	emotional well-being
+malignant neoplasm without specification of site	has a risk of	developing blood clots
+cancer	can be influenced by	hormone levels
+malignant neoplasm without specification of site	can result in	infertility
+malignant neoplasm without specification of site	is associated with	aging
+malignant neoplasm without specification of site	can affect	cognition
+malignant neoplasm without specification of site	may require	nutritional support
+malignant neoplasm without specification of site	may cause	neuropathy
+malignant neoplasm without specification of site	may have	familial predisposition
+malignant neoplasm without specification of site	can result in	skin changes
+malignant neoplasm without specification of site	may be influenced by	exercise levels
+malignant neoplasm without specification of site	is often managed with	physical therapy
+malignant neoplasm without specification of site	is associated with	inflammation
+cancer	can be affected by	stress levels
+malignant neoplasm without specification of site	is connected to	immune system function
+malignant neoplasm without specification of site	may require	support from caregivers
+malignant neoplasm without specification of site	has a risk of	developing secondary cancers
+malignant neoplasm without specification of site	is influenced by	alcohol consumption
+malignant neoplasm without specification of site	may impact	sleep patterns
+malignant neoplasm without specification of site	can result in	sexual dysfunction
+malignant neoplasm without specification of site	is linked to	chronic pain
+cancer	can lead to	financial strain
+malignant neoplasm without specification of site	may require	alternative medicine
+malignant neoplasm without specification of site	is associated with	immune suppression
+malignant neoplasm without specification of site	may have	dietary restrictions
+malignant neoplasm without specification of site	can affect	relationships
+cancer	is impacted by	social support
+malignant neoplasm without specification of site	may lead to	mobility issues
+malignant neoplasm without specification of site	is related to	environmental pollution
+malignant neoplasm without specification of site	may be influenced by	sleep quality
+malignant neoplasm without specification of site	is connected to	hormone imbalances
+malignant neoplasm without specification of site	is affected by	medication side effects
+malignant neoplasm without specification of site	can lead to	gastrointestinal problems
+malignant neoplasm without specification of site	may require	spiritual or religious support
+malignant neoplasm without specification of site	is associated with	end-of-life care
+malignant neoplasm without specification of site	can result in	cognitive decline
+malignant neoplasm without specification of site	may depend on	access to healthcare
+malignant neoplasm without specification of site	is connected to	social determinants of health
+cancer	can be affected by	mental health conditions
+malignant neoplasm without specification of site	may require	assistive devices
+malignant neoplasm without specification of site	may have	treatment-related complications
+malignant neoplasm without specification of site	is associated with	body image issues
+malignant neoplasm without specification of site	can lead to	communication difficulties
+malignant neoplasm without specification of site	may impact	daily activities

@@ -1,0 +1,98 @@
+short gestation	is a risk factor for	low birth weight
+maternal smoking	is a cause of	fetal growth retardation
+low birth weight	is associated with	developmental delays
+fetal growth retardation	can lead to	preterm labor
+prenatal vitamins	can improve	fetal growth
+premature birth	increases the risk of	respiratory problems
+low birth weight	is correlated with	increased risk of infections
+fetal growth retardation	may result in	long-term health issues
+maternal age	is linked to	short gestation
+fetal growth retardation	can be detected by	ultrasound
+smoking during pregnancy	is a risk factor for	low birth weight
+poor maternal nutrition	is a cause of	fetal growth retardation
+low birth weight	is a predictor of	neonatal mortality
+adequate prenatal care	is important for preventing	low birth weight
+fetal growth retardation	is a potential complication of	preeclampsia
+fetal growth restriction	is another term for	fetal growth retardation
+intrauterine growth restriction	is a synonym for	fetal growth retardation
+short gestation	can lead to	developmental delays
+fetal growth retardation	can result from	placental insufficiency
+low birth weight	increases the likelihood of	cognitive impairments
+fetal growth retardation	may require	neonatal intensive care
+fetal growth retardation	is a type of	intrauterine growth restriction
+short gestation	increases the risk of	respiratory distress syndrome
+fetal growth retardation	is a risk factor for	long-term neurological deficits
+low birth weight	may require	incubator care
+maternal hypertension	is associated with	fetal growth retardation
+fetal growth retardation	may lead to	low Apgar score
+low birth weight	can result from	multiple gestation
+fetal growth retardation	is a result of	inadequate placental function
+short gestation	can lead to	increased risk of infections
+fetal growth retardation	increases the likelihood of	hypoglycemia
+low birth weight	is often a consequence of	preterm labor
+fetal growth retardation	can be caused by	chromosomal abnormalities
+intrauterine growth restriction	is a condition of	impaired fetal growth
+fetal growth retardation	is an indicator of	maternal malnutrition
+low birth weight	is related to	increased risk of long-term disabilities
+fetal growth retardation	can result in	poor respiratory function
+placental abnormalities	are a common cause of	fetal growth retardation
+low birth weight	is a risk factor for	metabolic syndrome later in life
+fetal growth retardation	can lead to	stillbirth
+adolescent pregnancy	is a risk factor for	short gestation
+fetal growth retardation	may require	early delivery
+maternal stress	is associated with	fetal growth retardation
+fetal growth retardation	is a concern in	post-term pregnancies
+gender of the fetus	can influence	fetal growth
+fetal growth retardation	is more common in	female fetuses
+short gestation	increases the likelihood of	low Apgar score
+fetal growth retardation	is associated with	poor maternal weight gain
+fetal growth retardation	is correlated with	increased risk of developmental delays
+poor fetal growth	can be detected by	serial ultrasounds
+low birth weight	is a consequence of	poor prenatal nutrition
+fetal growth retardation	is more common in	pregnancies with placental abnormalities
+maternal infections	can lead to	fetal growth retardation
+fetal growth retardation	may result in	increased risk of cerebral palsy
+low birth weight	is a predictor of	cardiovascular disease in adulthood
+fetal growth retardation	can be caused by	maternal smoking
+fetal growth retardation	is a concern in	pregnancies with diabetic mothers
+fetal growth retardation	can lead to	increased risk of metabolic syndrome
+low birth weight	increases the likelihood of	difficulty in regulating body temperature
+fetal growth retardation	is associated with	increased risk of SIDS
+fetal growth retardation	may require	special neonatal care
+fetal growth retardation	can result from	placental abnormalities
+low birth weight	is correlated with	increased risk of asthma
+fetal growth retardation	may lead to	long-term growth impairments
+fetal growth retardation	is more common in	first pregnancies
+fetal growth retardation	is associated with	increased risk of neurodevelopmental disorders
+low birth weight	increases the likelihood of	feeding difficulties
+fetal growth retardation	is a consequence of	maternal drug use
+fetal growth retardation	may result in	increased risk of hypertension later in life
+poor maternal weight gain	is a risk factor for	fetal growth retardation
+fetal growth retardation	may lead to	increased risk of type 2 diabetes
+genetic factors	can contribute to	poor fetal growth
+fetal growth retardation	is more common in	advanced maternal age
+fetal growth retardation	is associated with	increased risk of attention deficit disorders
+fetal growth retardation	can result in	long-term cognitive impairments
+low birth weight	is associated with	increased risk of infections in infancy
+fetal growth retardation	can be caused by	maternal malnutrition
+fetal growth retardation	may require	neonatal respiratory support
+fetal growth retardation	is a risk factor for	long-term respiratory issues
+fetal growth retardation	may lead to	need for special education services
+fetal growth retardation	is associated with	increased risk of behavioral problems
+fetal growth retardation	can result in	long-term neurological deficits
+fetal growth retardation	is more common in	pregnancies with hypertensive disorders
+fetal growth retardation	is correlated with	increased risk of hearing impairments
+fetal growth retardation	can be caused by	maternal undernutrition
+fetal growth retardation	is more common in	pregnancies with maternal anemia
+fetal growth retardation	is associated with	increased risk of learning disabilities
+fetal growth retardation	may lead to	need for early intervention services
+fetal growth retardation	is correlated with	increased risk of emotional disorders
+fetal growth retardation	is more common in	pregnancies with poor weight gain
+fetal growth retardation	may result in	need for long-term pediatric care
+fetal growth retardation	can be caused by	placental insufficiency
+fetal growth retardation	may lead to	increased risk of depression later in life
+fetal growth retardation	is correlated with	increased risk of anxiety disorders
+fetal growth retardation	is more common in	pregnancies with maternal hypertension
+fetal growth retardation	is associated with	increased risk of autism spectrum disorders
+fetal growth retardation	can result in	long-term social impairments
+fetal growth retardation	is correlated with	increased risk of cognitive impairments

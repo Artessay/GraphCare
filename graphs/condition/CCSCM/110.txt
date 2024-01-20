@@ -1,0 +1,7 @@
+occlusion of precerebral arteries	can lead to	ischemic stroke
+carotid endarterectomy	is a treatment for	stenosis of precerebral arteries
+aspirin	is prescribed for	patients with occlusion or stenosis of precerebral arteries
+severe carotid stenosis	can be detected by	carotid ultrasound
+patients with occlusion or stenosis of precerebral arteries	have an increased risk of	transient ischemic attack
+angioplasty	may be performed to treat	stenosis of precerebral arteries
+statins	are prescribed to manage	occlusion or stenosis of precerebral arteries

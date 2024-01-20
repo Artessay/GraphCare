@@ -1,0 +1,17 @@
+pancreatic disorders	can lead to	pancreatitis
+pancreatitis	can cause	abdominal pain
+abdominal pain	may require	imaging studies
+imaging studies	can detect	pancreatic cysts
+pancreatic cysts	can be a sign of	pancreatic cancer
+pancreatic cancer	is treated with	chemotherapy
+chemotherapy	can cause	hair loss
+hair loss	can lead to	psychological distress
+psychological distress	may need	counseling
+counseling	can help with	coping strategies
+coping strategies	are important for	mental health
+mental health	is linked to	overall well-being
+overall well-being	can affect	treatment outcomes
+treatment outcomes	are important for	patient prognosis
+patient prognosis	influences	long-term survival
+long-term survival	is a factor in	mortality prediction
+mortality prediction	is important for	healthcare planning

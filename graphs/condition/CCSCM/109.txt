@@ -1,0 +1,103 @@
+acute cerebrovascular disease	is a type of	stroke
+hypertension	is a risk factor for	acute cerebrovascular disease
+acute cerebrovascular disease	can lead to	permanent disability
+thrombolytic therapy	is used to	treat acute cerebrovascular disease
+aspirin	is a	thrombolytic agent
+acute cerebrovascular disease	increases the risk of	recurrent stroke
+anticoagulants	are used to	prevent recurrent stroke
+aneurysm	is a complication of	acute cerebrovascular disease
+aneurysm clipping	is a surgical treatment for	aneurysm
+stroke rehabilitation	is important for	recovery from acute cerebrovascular disease
+physical therapy	is a component of	stroke rehabilitation
+acute cerebrovascular disease	can result in	cognitive impairment
+neurological assessment	is important for	detecting cognitive impairment in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	high mortality rate
+hypotension	can be a complication of	acute cerebrovascular disease
+intracerebral hemorrhage	is a type of	acute cerebrovascular disease
+aneurysm rupture	can lead to	intracerebral hemorrhage
+patients with acute cerebrovascular disease	are at risk for	deep vein thrombosis
+blood thinners	are prescribed to	prevent deep vein thrombosis in acute cerebrovascular disease patients
+acute cerebrovascular disease	increases the risk of	pneumonia
+pulmonary hygiene	is important for	preventing pneumonia in acute cerebrovascular disease patients
+aspiration	is a risk in	acute cerebrovascular disease patients with dysphagia
+speech therapy	is important for	managing dysphagia in acute cerebrovascular disease patients
+acute cerebrovascular disease	can lead to	depression
+psychological counseling	is important for	managing depression in acute cerebrovascular disease patients
+acute cerebrovascular disease	increases the risk of	falls
+fall risk assessment	is important for	preventing falls in acute cerebrovascular disease patients
+plaque buildup	is a cause of	acute cerebrovascular disease
+carotid endarterectomy	is a surgical treatment for	plaque buildup in the carotid artery
+acute cerebrovascular disease	is associated with	atrial fibrillation
+antiarrhythmic drugs	are prescribed to	manage atrial fibrillation in acute cerebrovascular disease patients
+acute cerebrovascular disease	may lead to	communication difficulties
+occupational therapy	is important for	managing communication difficulties in acute cerebrovascular disease patients
+acute cerebrovascular disease	increases the risk of	sleep disorders
+sleep hygiene	is important for	managing sleep disorders in acute cerebrovascular disease patients
+acute cerebrovascular disease	can result in	limb weakness
+physical rehabilitation	is important for	improving limb weakness in acute cerebrovascular disease patients
+diabetes	is a risk factor for	acute cerebrovascular disease
+blood sugar control	is important for	managing diabetes in acute cerebrovascular disease patients
+acute cerebrovascular disease	can lead to	visual impairment
+visual therapy	is important for	managing visual impairment in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	increased risk of heart disease
+cardiac screening	is important for	detecting heart disease in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	depression
+mental health counseling	is important for	managing depression in acute cerebrovascular disease patients
+acute cerebrovascular disease	increases the risk of	anxiety
+anxiety management	is important for	managing anxiety in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	increased risk of fractures
+bone density testing	is important for	detecting fractures in acute cerebrovascular disease patients
+acute cerebrovascular disease	can lead to	difficulty in swallowing
+nutrition therapy	is important for	managing difficulty in swallowing in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	increased risk of infections
+infection control measures	are important for	preventing infections in acute cerebrovascular disease patients
+acute cerebrovascular disease	can result in	speech impairment
+speech therapy	is important for	managing speech impairment in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	higher risk of urinary incontinence
+bladder training	is important for	managing urinary incontinence in acute cerebrovascular disease patients
+acute cerebrovascular disease	increases the risk of	pressure ulcers
+skin assessment	is important for	preventing pressure ulcers in acute cerebrovascular disease patients
+acute cerebrovascular disease	can lead to	emotional lability
+psychological support	is important for	managing emotional lability in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	increased risk of deep vein thrombosis
+compression stockings	are used to	prevent deep vein thrombosis in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	higher risk of malnutrition
+nutritional support	is important for	managing malnutrition in acute cerebrovascular disease patients
+acute cerebrovascular disease	may lead to	loss of independence
+rehabilitation therapy	is important for	maintaining independence in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	increased risk of delirium
+delirium prevention strategies	are important for	preventing delirium in acute cerebrovascular disease patients
+acute cerebrovascular disease	can result in	visual field deficits
+visual field testing	is important for	managing visual field deficits in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	increased risk of gastrointestinal bleeding
+monitoring for signs of bleeding	is important for	preventing gastrointestinal bleeding in acute cerebrovascular disease patients
+acute cerebrovascular disease	may lead to	increased risk of suicide
+mental health assessment	is important for	preventing suicide in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	higher risk of osteoporosis
+bone health screening	is important for	managing osteoporosis in acute cerebrovascular disease patients
+acute cerebrovascular disease	may affect	memory
+cognitive training	is important for	managing memory impairment in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	increased risk of post-stroke seizures
+seizure management	is important for	preventing post-stroke seizures in acute cerebrovascular disease patients
+acute cerebrovascular disease	may lead to	difficulty in speaking
+speech therapy	is important for	managing difficulty in speaking in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	higher risk of post-stroke depression
+mental health support	is important for	managing post-stroke depression in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	increased risk of post-stroke anxiety
+anxiety management	is important for	managing post-stroke anxiety in acute cerebrovascular disease patients
+acute cerebrovascular disease	may result in	gait disturbances
+physical therapy	is important for	managing gait disturbances in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	higher risk of post-stroke fatigue
+fatigue management	is important for	managing post-stroke fatigue in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	increased risk of post-stroke pain
+pain management	is important for	managing post-stroke pain in acute cerebrovascular disease patients
+acute cerebrovascular disease	may lead to	difficulty in concentration
+cognitive exercises	are important for	managing difficulty in concentration in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	higher risk of post-stroke sleep disturbances
+sleep hygiene	is important for	managing post-stroke sleep disturbances in acute cerebrovascular disease patients
+acute cerebrovascular disease	is associated with	increased risk of post-stroke emotional changes
+emotional support	is important for	managing post-stroke emotional changes in acute cerebrovascular disease patients
+acute cerebrovascular disease	may result in	difficulty in reasoning
+occupational therapy	is important for	managing difficulty in reasoning in acute cerebrovascular disease patients
+acute cerebrovascular disease	is linked to	higher risk of post-stroke communication difficulties
+speech therapy	is important for	managing post-stroke communication difficulties in acute cerebrovascular disease patients

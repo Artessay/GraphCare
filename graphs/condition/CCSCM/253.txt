@@ -1,0 +1,13 @@
+allergic reactions	are caused by	allergens
+antihistamines	are used to treat	allergic reactions
+allergic reactions	can result in	anaphylaxis
+epinephrine	is used to treat	anaphylaxis
+food allergies	can cause	allergic reactions
+allergic reactions	can lead to	hives
+topical corticosteroids	are used to reduce	skin inflammation in allergic reactions
+allergic reactions	can be triggered by	medications
+allergic reactions	may be tested using	allergy skin tests
+allergic reactions	can result in	breathing difficulties
+asthma	can be triggered by	allergic reactions
+immunotherapy	is used to desensitize	patients with allergic reactions
+allergic reactions	may lead to	itching and swelling

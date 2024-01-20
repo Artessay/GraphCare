@@ -1,0 +1,79 @@
+essential hypertension	is a type of	high blood pressure
+essential hypertension	can lead to	heart disease
+angiotensin converting enzyme inhibitors	are used to treat	essential hypertension
+diuretics	are used to treat	essential hypertension
+essential hypertension	is a risk factor for	stroke
+smoking	can worsen	essential hypertension
+essential hypertension	is often managed with	lifestyle changes
+obesity	is a risk factor for	essential hypertension
+essential hypertension	is associated with	increased risk of kidney disease
+beta blockers	are used to treat	essential hypertension
+essential hypertension	can cause	vision problems
+essential hypertension	is a risk factor for	dementia
+essential hypertension	can lead to	aneurysms
+essential hypertension	is a risk factor for	peripheral artery disease
+essential hypertension	is a risk factor for	erectile dysfunction
+essential hypertension	can lead to	heart failure
+essential hypertension	is linked to	sleep apnea
+essential hypertension	can cause	cognitive decline
+essential hypertension	is associated with	metabolic syndrome
+essential hypertension	is a risk factor for	aortic dissection
+essential hypertension	is correlated with	increased risk of pregnancy complications
+essential hypertension	can lead to	arrhythmias
+essential hypertension	is associated with	increased risk of dementia
+essential hypertension	can cause	damage to blood vessels
+essential hypertension	is linked to	anxiety and stress
+essential hypertension	is associated with	higher risk of sudden cardiac death
+essential hypertension	is a risk factor for	gallbladder disease
+essential hypertension	can lead to	hypertensive retinopathy
+essential hypertension	is related to	hormonal imbalances
+essential hypertension	is associated with	increased risk of cognitive impairment
+essential hypertension	can cause	arterial stiffness
+essential hypertension	is linked to	hormonal contraceptives use
+essential hypertension	is associated with	increased risk of erectile dysfunction
+essential hypertension	is correlated with	increased risk of depression
+essential hypertension	is linked to	noise sensitivity
+essential hypertension	is a risk factor for	chronic kidney disease
+essential hypertension	can lead to	vascular dementia
+essential hypertension	is associated with	increased risk of macular degeneration
+essential hypertension	is linked to	cognitive dysfunction
+essential hypertension	can cause	aortic aneurysm
+essential hypertension	is correlated with	sleep disorders
+essential hypertension	is associated with	increased risk of glaucoma
+essential hypertension	is a risk factor for	cognitive impairment
+essential hypertension	can cause	retinal vein occlusion
+essential hypertension	is linked to	inflammatory markers
+essential hypertension	is associated with	increased risk of cerebral small vessel disease
+essential hypertension	is linked to	excessive alcohol intake
+essential hypertension	is correlated with	increased risk of memory loss
+essential hypertension	is associated with	increased risk of diabetic retinopathy
+essential hypertension	can lead to	orthostatic hypotension
+essential hypertension	is a risk factor for	mild cognitive impairment
+essential hypertension	can cause	cerebrovascular disease
+essential hypertension	is linked to	social isolation
+essential hypertension	is associated with	increased risk of neurocognitive disorders
+essential hypertension	is linked to	noise exposure
+essential hypertension	is correlated with	increased risk of cognitive decline
+essential hypertension	is associated with	increased risk of chronic glaucoma
+essential hypertension	is linked to	lack of social support
+essential hypertension	is associated with	increased risk of cognitive dysfunction
+essential hypertension	can lead to	retinal artery occlusion
+essential hypertension	is associated with	increased risk of retinopathy
+essential hypertension	is linked to	low physical activity
+essential hypertension	is correlated with	increased risk of visual impairment
+essential hypertension	is associated with	increased risk of cognitive impairment
+essential hypertension	can cause	optic disc swelling
+essential hypertension	is linked to	lack of physical exercise
+essential hypertension	is associated with	increased risk of visual loss
+essential hypertension	is linked to	lack of exercise
+essential hypertension	is correlated with	increased risk of ocular disorders
+essential hypertension	is associated with	increased risk of cognitive deficits
+essential hypertension	is linked to	family history of hypertension
+essential hypertension	is correlated with	increased risk of cognitive dysfunction
+essential hypertension	is associated with	increased risk of vision loss
+essential hypertension	is linked to	sedentary lifestyle
+essential hypertension	is correlated with	increased risk of retinal disorders
+essential hypertension	is associated with	increased risk of cognitive impairment
+essential hypertension	is linked to	lack of physical activity
+essential hypertension	is correlated with	increased risk of vision impairment
+essential hypertension	is associated with	increased risk of cognitive decline

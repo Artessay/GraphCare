@@ -1,0 +1,22 @@
+polyhydramnios	is a condition of	excess amniotic fluid
+polyhydramnios	can lead to	preterm birth
+preterm birth	increases the risk of	respiratory distress syndrome
+respiratory distress syndrome	may require	neonatal intensive care
+neonatal intensive care	is associated with	increased healthcare costs
+polyhydramnios	can be diagnosed using	ultrasound
+amniocentesis	is a procedure for	assessing fetal lung maturity
+fetal lung maturity	is important for	determining the need for early delivery
+early delivery	is a risk factor for	neonatal complications
+polyhydramnios	is often managed with	bed rest
+bed rest	can lead to	muscle atrophy
+muscle atrophy	increases the risk of	deep vein thrombosis
+deep vein thrombosis	can result in	pulmonary embolism
+pulmonary embolism	is treated with	anticoagulant therapy
+anticoagulant therapy	increases the risk of	bleeding
+bleeding	may require	blood transfusion
+blood transfusion	carries the risk of	infection
+infection	can lead to	sepsis
+sepsis	is associated with	increased mortality
+polyhydramnios	requires	close monitoring during pregnancy
+close monitoring	can lead to	increased anxiety in expectant mothers
+increased anxiety	may require	psychological support

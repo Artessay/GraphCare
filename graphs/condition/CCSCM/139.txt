@@ -1,0 +1,220 @@
+gastroduodenal ulcer	is a type of	peptic ulcer
+gastroduodenal ulcer	can be caused by	Helicobacter pylori infection
+NSAIDs	can cause	gastroduodenal ulcer
+gastroduodenal ulcer	can lead to	perforation
+gastroduodenal ulcer	is diagnosed with	endoscopy
+proton pump inhibitors	are used to treat	gastroduodenal ulcer
+gastroduodenal ulcer	may result in	chronic pain
+gastroduodenal ulcer	can be associated with	gastric cancer
+smoking	increases the risk of	gastroduodenal ulcer
+gastroduodenal ulcer	is linked to	gastritis
+gastroduodenal ulcer	increases the risk of	gastrointestinal bleeding
+gastroduodenal ulcer	is a complication of	chronic pancreatitis
+gastroduodenal ulcer	can cause	weight loss
+gastroduodenal ulcer	may result in	anemia
+gastroduodenal ulcer	is more common in	older adults
+gastroduodenal ulcer	is less likely to occur in	individuals who maintain a healthy diet
+stress	is a risk factor for	gastroduodenal ulcer
+gastroduodenal ulcer	is more prevalent in	individuals with a family history of peptic ulcers
+gastroduodenal ulcer	is associated with	increased gastric acid production
+gastroduodenal ulcer	can be a side effect of	chemotherapy
+gastroduodenal ulcer	can be treated with	antibiotics
+gastroduodenal ulcer	may cause	vomiting
+gastroduodenal ulcer	is characterized by	epigastric pain
+gastroduodenal ulcer	is a result of	mucosal erosion
+gastroduodenal ulcer	may lead to	gastric outlet obstruction
+gastroduodenal ulcer	is often managed with	antacids
+gastroduodenal ulcer	is more common in	individuals who consume excessive alcohol
+gastroduodenal ulcer	can be managed with	lifestyle changes
+gastroduodenal ulcer	is associated with	duodenal stenosis
+gastroduodenal ulcer	can be exacerbated by	stress
+gastroduodenal ulcer	may be diagnosed through	barium swallow test
+gastroduodenal ulcer	is more common in	individuals with Zollinger-Ellison syndrome
+gastroduodenal ulcer	can lead to	gastric outlet obstruction
+gastroduodenal ulcer	is often associated with	discomfort after eating
+gastroduodenal ulcer	can result in	duodenal obstruction
+gastroduodenal ulcer	can be a result of	hyperacidity
+gastroduodenal ulcer	can be diagnosed by	endoscopic biopsy
+gastroduodenal ulcer	is linked to	nonsteroidal anti-inflammatory drugs use
+gastroduodenal ulcer	can cause	burning sensation in the stomach
+gastroduodenal ulcer	is related to	mucosal damage
+gastroduodenal ulcer	is more common in	smokers
+gastroduodenal ulcer	can occur as a result of	stress-induced hyperacidity
+gastroduodenal ulcer	can lead to	pyloric stenosis
+gastroduodenal ulcer	can occur in	individuals with cirrhosis
+gastroduodenal ulcer	is associated with	increased risk of infection
+gastroduodenal ulcer	can result in	weight loss
+gastroduodenal ulcer	is more common in	individuals with blood type O
+gastroduodenal ulcer	is less prevalent in	individuals who avoid NSAIDs
+gastroduodenal ulcer	is a risk factor for	gastric malignancy
+gastroduodenal ulcer	is a cause of	upper gastrointestinal bleeding
+gastroduodenal ulcer	can be managed with	lifestyle modifications
+gastroduodenal ulcer	is often associated with	epigastric tenderness
+gastroduodenal ulcer	is more prevalent in	individuals with a history of alcohol abuse
+gastroduodenal ulcer	is less likely to occur in	individuals who quit smoking
+gastroduodenal ulcer	can lead to	gastric perforation
+gastroduodenal ulcer	can be caused by	bile reflux
+gastroduodenal ulcer	can result in	gastric outlet obstruction
+gastroduodenal ulcer	can be a complication of	chronic kidney disease
+gastroduodenal ulcer	is associated with	decreased mucosal defense
+gastroduodenal ulcer	can occur in	individuals with hyperparathyroidism
+gastroduodenal ulcer	can be a side effect of	radiation therapy
+gastroduodenal ulcer	is more common in	individuals with a history of gastric surgery
+gastroduodenal ulcer	is less prevalent in	individuals who adhere to a healthy diet
+gastroduodenal ulcer	can be treated with	histamine-2 receptor antagonists
+gastroduodenal ulcer	may result in	black	tarry stools
+gastroduodenal ulcer	is associated with	duodenal ulcers
+gastroduodenal ulcer	is a risk factor for	upper GI bleeding
+gastroduodenal ulcer	is more prevalent in	individuals who are obese
+gastroduodenal ulcer	can result in	antral stenosis
+gastroduodenal ulcer	is associated with	chronic gastritis
+gastroduodenal ulcer	can be managed with	dietary changes
+gastroduodenal ulcer	is less likely to occur in	individuals with a healthy lifestyle
+gastroduodenal ulcer	can lead to	perforation
+gastroduodenal ulcer	may be diagnosed through	double-contrast barium meal
+gastroduodenal ulcer	is more common in	individuals with chronic obstructive pulmonary disease
+gastroduodenal ulcer	is less prevalent in	individuals who abstain from alcohol
+gastroduodenal ulcer	can be exacerbated by	nonsteroidal anti-inflammatory drugs
+gastroduodenal ulcer	can be a complication of	Crohn's disease
+gastroduodenal ulcer	is associated with	increased risk of sepsis
+gastroduodenal ulcer	can be a result of	excessive acid secretion
+gastroduodenal ulcer	can be diagnosed with	esophagogastroduodenoscopy
+gastroduodenal ulcer	is linked to	duodenal inflammation
+gastroduodenal ulcer	is more common in	individuals with severe stress
+gastroduodenal ulcer	is less likely to occur in	individuals who reduce stress levels
+gastroduodenal ulcer	is related to	impaired mucosal blood flow
+gastroduodenal ulcer	can occur in	individuals with Ehlers-Danlos syndrome
+gastroduodenal ulcer	can be a side effect of	aspirin use
+gastroduodenal ulcer	is more common in	individuals with liver cirrhosis
+gastroduodenal ulcer	is less prevalent in	individuals who do not smoke
+gastroduodenal ulcer	can lead to	gastric cancer
+gastroduodenal ulcer	can be managed with	weight reduction
+gastroduodenal ulcer	is often associated with	loss of appetite
+gastroduodenal ulcer	is more prevalent in	individuals with depression
+gastroduodenal ulcer	is less likely to occur in	individuals with a healthy weight
+gastroduodenal ulcer	can occur as a result of	high caffeine intake
+gastroduodenal ulcer	can result in	antral hypertrophy
+gastroduodenal ulcer	can be a complication of	systemic sclerosis
+gastroduodenal ulcer	is associated with	decreased mucus production
+gastroduodenal ulcer	can occur in	individuals with HIV/AIDS
+gastroduodenal ulcer	can be a side effect of	corticosteroid therapy
+gastroduodenal ulcer	is more common in	individuals with hypertension
+gastroduodenal ulcer	is less prevalent in	individuals who avoid smoking
+gastroduodenal ulcer	can be exacerbated by	emotional stress
+gastroduodenal ulcer	can be managed with	regular exercise
+gastroduodenal ulcer	is less likely to occur in	individuals who limit caffeine consumption
+gastroduodenal ulcer	can lead to	antral gastritis
+gastroduodenal ulcer	may be diagnosed through	upper GI series
+gastroduodenal ulcer	is associated with	decreased mucosal blood flow
+gastroduodenal ulcer	can result in	pyloric obstruction
+gastroduodenal ulcer	is more common in	individuals with hypercalcemia
+gastroduodenal ulcer	is less prevalent in	individuals with a history of gastric ulcers
+gastroduodenal ulcer	can cause	abdominal discomfort
+gastroduodenal ulcer	is related to	acid hypersecretion
+gastroduodenal ulcer	is more prevalent in	individuals with chronic liver disease
+gastroduodenal ulcer	is less likely to occur in	individuals who limit alcohol consumption
+gastroduodenal ulcer	can occur as a result of	excessive acid production
+gastroduodenal ulcer	is associated with	impaired antral motility
+gastroduodenal ulcer	can be a side effect of	chronic corticosteroid use
+gastroduodenal ulcer	is linked to	chronic NSAID use
+gastroduodenal ulcer	is more common in	individuals with hyperparathyroidism
+gastroduodenal ulcer	is less prevalent in	individuals with a history of duodenal ulcers
+gastroduodenal ulcer	can lead to	pyloric stenosis
+gastroduodenal ulcer	can be diagnosed with	gastroscopy
+gastroduodenal ulcer	is associated with	reduced duodenal prostaglandin levels
+gastroduodenal ulcer	can occur in	individuals with Zollinger-Ellison syndrome
+gastroduodenal ulcer	can be a side effect of	long-term antibiotic use
+gastroduodenal ulcer	is more common in	individuals with hypergastrinemia
+gastroduodenal ulcer	is less prevalent in	individuals with a history of gastric surgeries
+gastroduodenal ulcer	can result in	antral ulcers
+gastroduodenal ulcer	is more common in	individuals with chronic pancreatitis
+gastroduodenal ulcer	is less likely to occur in	individuals who avoid NSAID use
+gastroduodenal ulcer	can be caused by	chronic liver disease
+gastroduodenal ulcer	is associated with	increased gastric acid secretion
+gastroduodenal ulcer	can lead to	antral scarring
+gastroduodenal ulcer	can be managed with	antacid use
+gastroduodenal ulcer	is linked to	chronic stress
+gastroduodenal ulcer	is more prevalent in	individuals with chronic alcohol abuse
+gastroduodenal ulcer	is less likely to occur in	individuals who maintain a low-stress lifestyle
+gastroduodenal ulcer	can occur due to	genetic predisposition
+gastroduodenal ulcer	can result in	antral erosion
+gastroduodenal ulcer	is a consequence of	reduced mucosal defense
+gastroduodenal ulcer	is more common in	individuals with a history of NSAID use
+gastroduodenal ulcer	is less prevalent in	individuals with a healthy weight
+gastroduodenal ulcer	can be associated with	duodenal inflammation
+gastroduodenal ulcer	can be a complication of	chronic alcohol abuse
+gastroduodenal ulcer	is related to	increased acid secretion
+gastroduodenal ulcer	is more prevalent in	individuals with a history of liver disease
+gastroduodenal ulcer	is less likely to occur in	individuals who maintain a healthy lifestyle
+gastroduodenal ulcer	can be exacerbated by	excessive alcohol consumption
+gastroduodenal ulcer	can be managed with	dietary adjustments
+gastroduodenal ulcer	is less likely to occur in	individuals with a history of NSAID avoidance
+gastroduodenal ulcer	can lead to	pyloric obstruction
+gastroduodenal ulcer	can be diagnosed with	upper endoscopy
+gastroduodenal ulcer	is associated with	increased gastric acid production
+gastroduodenal ulcer	can result in	antral hypertrophy
+gastroduodenal ulcer	is more common in	individuals with a history of systemic sclerosis
+gastroduodenal ulcer	is less prevalent in	individuals with a history of chronic corticosteroid use
+gastroduodenal ulcer	is a risk factor for	antral stenosis
+gastroduodenal ulcer	is more prevalent in	individuals with a history of Helicobacter pylori infection
+gastroduodenal ulcer	is less likely to occur in	individuals with a history of chronic NSAID use
+gastroduodenal ulcer	can lead to	antral gastritis
+gastroduodenal ulcer	can be managed with	lifestyle modifications
+gastroduodenal ulcer	is associated with	reduced mucosal blood flow
+gastroduodenal ulcer	can result in	pyloric obstruction
+gastroduodenal ulcer	is more common in	individuals with a history of hyperparathyroidism
+gastroduodenal ulcer	is less prevalent in	individuals who avoid alcohol
+gastroduodenal ulcer	can occur as a result of	genetic predisposition
+gastroduodenal ulcer	is related to	increased gastric acid secretion
+gastroduodenal ulcer	is more prevalent in	individuals with a history of liver cirrhosis
+gastroduodenal ulcer	is less likely to occur in	individuals who abstain from smoking
+gastroduodenal ulcer	can be exacerbated by	emotional stress
+gastroduodenal ulcer	can be managed with	regular physical activity
+gastroduodenal ulcer	is less likely to occur in	individuals with a history of caffeine limitation
+gastroduodenal ulcer	can lead to	antral gastritis
+gastroduodenal ulcer	can be diagnosed through	upper gastrointestinal series
+gastroduodenal ulcer	is associated with	decreased mucosal blood flow
+gastroduodenal ulcer	can result in	pyloric obstruction
+gastroduodenal ulcer	is more common in	individuals with chronic hypercalcemia
+gastroduodenal ulcer	is less prevalent in	individuals with a history of gastric ulcer surgeries
+gastroduodenal ulcer	can cause	discomfort in the abdomen
+gastroduodenal ulcer	is related to	excessive acid secretion
+gastroduodenal ulcer	is more prevalent in	individuals with chronic liver diseases
+gastroduodenal ulcer	is less likely to occur in	individuals who limit alcohol intake
+gastroduodenal ulcer	can occur as a result of	excessive stomach acid production
+gastroduodenal ulcer	is associated with	impaired motility of the antrum
+gastroduodenal ulcer	can be a side effect of	prolonged corticosteroid therapy
+gastroduodenal ulcer	is linked to	chronic use of NSAIDs
+gastroduodenal ulcer	is more common in	individuals with hyperparathyroidism
+gastroduodenal ulcer	is less prevalent in	individuals with a history of duodenal ulcerations
+gastroduodenal ulcer	can lead to	pyloric stenosis
+gastroduodenal ulcer	can be diagnosed by	upper gastrointestinal endoscopy
+gastroduodenal ulcer	is associated with	decreased prostaglandin levels in the duodenum
+gastroduodenal ulcer	can occur in	individuals with Zollinger-Ellison syndrome
+gastroduodenal ulcer	can be a side effect of	prolonged antibiotic use
+gastroduodenal ulcer	is more common in	individuals with hypergastrinemia
+gastroduodenal ulcer	is less prevalent in	individuals with a history of gastric surgery
+gastroduodenal ulcer	can result in	antral ulcers
+gastroduodenal ulcer	is more common in	individuals with chronic pancreatitis
+gastroduodenal ulcer	is less likely to occur in	individuals who avoid NSAIDs
+gastroduodenal ulcer	can be caused by	chronic liver disease
+gastroduodenal ulcer	can lead to	increased gastric acid secretion
+gastroduodenal ulcer	can result in	scarring of the antrum
+gastroduodenal ulcer	can be managed with	the use of antacids
+gastroduodenal ulcer	is linked to	chronic stress
+gastroduodenal ulcer	is more prevalent in	individuals with a history of chronic alcohol abuse
+gastroduodenal ulcer	is less likely to occur in	individuals who lead a low-stress lifestyle
+gastroduodenal ulcer	can occur due to	genetic predisposition
+gastroduodenal ulcer	can result in	erosion of the antrum
+gastroduodenal ulcer	is a consequence of	impaired mucosal defense
+gastroduodenal ulcer	is more common in	individuals with a history of NSAID use
+gastroduodenal ulcer	is less prevalent in	individuals with a healthy weight
+gastroduodenal ulcer	can be associated with	inflammation of the duodenum
+gastroduodenal ulcer	can be a complication of	chronic alcohol abuse
+gastroduodenal ulcer	is related to	increased acid secretion
+gastroduodenal ulcer	is more prevalent in	individuals with a history of liver disease
+gastroduodenal ulcer	is less likely to occur in	individuals who maintain a healthy lifestyle
+gastroduodenal ulcer	can be exacerbated by	excessive alcohol consumption
+gastroduodenal ulcer	can be managed with	dietary adjustments
+gastroduodenal ulcer	is less likely to occur in	individuals with a history of NSAID avoidance
+gastroduodenal ulcer	can lead to	pyloric obstruction

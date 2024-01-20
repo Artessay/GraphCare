@@ -1,0 +1,13 @@
+hemolytic jaundice	is a type of	jaundice
+perinatal jaundice	occurs in	newborns
+hemolytic jaundice	can lead to	anemia
+perinatal jaundice	is caused by	immature liver function
+hemolytic jaundice	may require	blood transfusions
+perinatal jaundice	is treated with	phototherapy
+phototherapy	helps to	break down bilirubin
+hemolytic jaundice	can be caused by	blood transfusion reactions
+perinatal jaundice	may lead to	brain damage if untreated
+hemolytic jaundice	is diagnosed through	blood tests
+perinatal jaundice	can cause	kernicterus if severe
+hemolytic jaundice	is associated with	conditions such as sickle cell anemia
+perinatal jaundice	can be prevented by	frequent feeding

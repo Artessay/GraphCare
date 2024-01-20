@@ -1,0 +1,24 @@
+e codes	categorize	causes of injury
+motor vehicle traffic	is a type of	e code
+injuries	result from	motor vehicle traffic
+motor vehicle traffic	can lead to	fatalities
+seatbelt use	reduces risk of	injury
+alcohol consumption	increases risk of	motor vehicle accidents
+driving under the influence	is a factor in	motor vehicle accidents
+speeding	is a common cause of	motor vehicle accidents
+trauma centers	are equipped to handle	motor vehicle accident injuries
+emergency medical services	respond to	motor vehicle accidents
+impaired driving	is a leading cause of	motor vehicle accidents
+mechanism of injury	is important in	e code assignment
+airbag deployment	can prevent	severe injury
+road conditions	contribute to	motor vehicle accidents
+helmets	reduce risk of	head injury
+pedestrians	are at risk of	motor vehicle accidents
+bicyclists	are vulnerable to	motor vehicle accidents
+child safety seats	reduce risk of	injury
+distracted driving	increases risk of	motor vehicle accidents
+elderly drivers	are more prone to	motor vehicle accidents
+traffic laws	play a role in	preventing accidents
+cell phone use	can lead to	distracted driving
+rehabilitation services	are needed for	motor vehicle accident survivors
+pre-hospital care	impacts outcomes of	motor vehicle accident victims

@@ -1,0 +1,12 @@
+cancer of other male genital organs	may metastasize to	lymph nodes
+cancer of other male genital organs	is diagnosed using	biopsy
+orchiectomy	is a treatment for	cancer of other male genital organs
+cancer of other male genital organs	can be caused by	HPV infection
+testicular cancer	is a type of	cancer of other male genital organs
+cancer of other male genital organs	may require	chemotherapy
+cancer of other male genital organs	has a survival rate of	95% if caught early
+cancer of other male genital organs	can lead to	infertility
+radical inguinal orchiectomy	is a surgery for	cancer of other male genital organs
+cancer of other male genital organs	is more common in	older men
+detecting cancer of other male genital organs	involves	physical examination and imaging tests
+risk factors for cancer of other male genital organs	include	cryptorchidism and family history

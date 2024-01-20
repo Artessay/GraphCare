@@ -1,0 +1,14 @@
+lymphadenitis	is an	inflammation
+lymphadenitis	may result in	abscess formation
+bacterial infection	is a common cause of	lymphadenitis
+lymphadenitis	can be treated with	antibiotics
+clindamycin	is an example of	antibiotic
+lymphadenitis	may lead to	lymph node swelling
+lymphadenitis	can cause	fever
+lymphadenitis	is diagnosed through	physical examination
+lymphadenitis	may present with	pain
+lymphadenitis	can be a sign of	underlying infection
+lymphadenitis	can be a complication of	cat scratch fever
+lymphadenitis	can lead to	lymph node biopsy
+lymphadenitis	is commonly found in	children
+lymphadenitis	is associated with	lymphatic system

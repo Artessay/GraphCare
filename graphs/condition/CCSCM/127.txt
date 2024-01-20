@@ -1,0 +1,103 @@
+chronic obstructive pulmonary disease	is a	lung condition
+bronchiectasis	is a	lung condition
+chronic obstructive pulmonary disease	may cause	bronchiectasis
+bronchiectasis	can lead to	respiratory infections
+chronic obstructive pulmonary disease	is treated with	bronchodilators
+bronchiectasis	is managed with	airway clearance techniques
+chronic obstructive pulmonary disease	increases the risk of	hospitalization
+bronchiectasis	increases the risk of	pneumonia
+patients with chronic obstructive pulmonary disease	may develop	bronchiectasis over time
+exacerbations of chronic obstructive pulmonary disease	are treated with	corticosteroids
+bronchiectasis	often occurs in	older adults
+chronic obstructive pulmonary disease	is associated with	smoking
+bronchiectasis	can be caused by	genetic conditions
+chronic obstructive pulmonary disease	may lead to	respiratory failure
+bronchiectasis	can result in	chronic cough
+patients with chronic obstructive pulmonary disease	have an increased risk of	mortality
+bronchiectasis	can lead to	hemoptysis
+chronic obstructive pulmonary disease	affects the	airways
+bronchiectasis	affects the	bronchi
+chronic obstructive pulmonary disease	is characterized by	airflow limitation
+bronchiectasis	is characterized by	irreversible dilation of the bronchi
+patients with chronic obstructive pulmonary disease	should receive	influenza vaccination
+bronchiectasis	is diagnosed with	high-resolution computed tomography
+chronic obstructive pulmonary disease	is a leading cause of	disability
+bronchiectasis	is a common	comorbidity in chronic obstructive pulmonary disease
+patients with chronic obstructive pulmonary disease	may also have	bronchiectasis
+bronchiectasis	is associated with	recurrent infections
+chronic obstructive pulmonary disease	is diagnosed with	spirometry
+bronchiectasis	can be managed with	antibiotics
+patients with chronic obstructive pulmonary disease	experience	dyspnea
+bronchiectasis	is characterized by	chronic sputum production
+patients with chronic obstructive pulmonary disease	often have	chronic bronchitis
+bronchiectasis	may be caused by	cystic fibrosis
+chronic obstructive pulmonary disease	is a risk factor for	developing bronchiectasis
+bronchiectasis	is linked to	impaired mucociliary clearance
+patients with chronic obstructive pulmonary disease	are at higher risk of	developing bronchiectasis
+bronchiectasis	can lead to	lung scarring
+chronic obstructive pulmonary disease	is managed with	pulmonary rehabilitation
+bronchiectasis	is associated with	bronchial obstruction
+chronic obstructive pulmonary disease	is related to	emphysema
+bronchiectasis	can cause	respiratory failure
+patients with chronic obstructive pulmonary disease	often have	reduced lung function
+bronchiectasis	is a risk factor for	mortality
+chronic obstructive pulmonary disease	is a progressive	condition
+bronchiectasis	may be a	congenital condition
+chronic obstructive pulmonary disease	is a common	cause of death
+bronchiectasis	is often coexisting with	cystic fibrosis
+patients with chronic obstructive pulmonary disease	may experience	exacerbations
+bronchiectasis	can lead to	lung collapse
+chronic obstructive pulmonary disease	is associated with	chronic inflammation
+bronchiectasis	may require	surgical treatment
+chronic obstructive pulmonary disease	is a	preventable condition
+bronchiectasis	can result in	airway obstruction
+patients with chronic obstructive pulmonary disease	may require	supplemental oxygen
+bronchiectasis	can be caused by	recurrent infections
+chronic obstructive pulmonary disease	is characterized by	coughing
+bronchiectasis	can be associated with	allergic bronchopulmonary aspergillosis
+patients with chronic obstructive pulmonary disease	are at higher risk of	developing bronchiectasis later in life
+bronchiectasis	can result in	lung damage
+chronic obstructive pulmonary disease	is a	chronic condition
+bronchiectasis	is often a	progressive disease
+patients with chronic obstructive pulmonary disease	are at increased risk of	developing bronchiectasis
+bronchiectasis	is linked to	impaired ciliary function
+chronic obstructive pulmonary disease	is a common	cause of morbidity
+bronchiectasis	can lead to	obstructive lung disease
+patients with chronic obstructive pulmonary disease	may develop	bronchiectasis at a later stage
+bronchiectasis	is characterized by	recurrent lung infections
+chronic obstructive pulmonary disease	is associated with	airflow obstruction
+bronchiectasis	can result in	bronchial wall damage
+patients with chronic obstructive pulmonary disease	may have	reduced exercise tolerance
+bronchiectasis	is often a	consequence of chronic lung infections
+chronic obstructive pulmonary disease	is a major	public health concern
+bronchiectasis	can cause	clubbing of the fingers
+patients with chronic obstructive pulmonary disease	may experience	respiratory distress
+bronchiectasis	is often accompanied by	chronic sinusitis
+chronic obstructive pulmonary disease	is a	smoking-related disease
+bronchiectasis	can lead to	pneumonia
+patients with chronic obstructive pulmonary disease	are at risk of	acute exacerbations
+bronchiectasis	can result in	lung abscess
+chronic obstructive pulmonary disease	is associated with	mucus hypersecretion
+bronchiectasis	may lead to	bronchial wall thickening
+patients with chronic obstructive pulmonary disease	often have	difficulty breathing
+bronchiectasis	is related to	recurrent aspirations
+chronic obstructive pulmonary disease	is linked to	reduced lung function
+bronchiectasis	can cause	lung fibrosis
+patients with chronic obstructive pulmonary disease	may develop	bronchiectasis as a complication
+bronchiectasis	is characterized by	chronic inflammation
+chronic obstructive pulmonary disease	is a	heterogenous disease
+bronchiectasis	can result in	lung destruction
+patients with chronic obstructive pulmonary disease	have an increased risk of	hospital readmissions
+bronchiectasis	is associated with	bronchial dilation
+chronic obstructive pulmonary disease	is a	obstructive lung disease
+bronchiectasis	is often associated with	cystic fibrosis
+patients with chronic obstructive pulmonary disease	may develop	bronchiectasis due to recurrent infections
+bronchiectasis	can lead to	respiratory insufficiency
+chronic obstructive pulmonary disease	is characterized by	emphysema
+bronchiectasis	can result in	bronchial collapse
+patients with chronic obstructive pulmonary disease	often have	decreased lung function
+bronchiectasis	is characterized by	chronic bronchial infection
+chronic obstructive pulmonary disease	is a	progressive lung disease
+bronchiectasis	may require	lung transplantation
+patients with chronic obstructive pulmonary disease	have an increased risk of	mortality
+bronchiectasis	can lead to	bronchial artery dilatation

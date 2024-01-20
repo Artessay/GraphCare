@@ -1,0 +1,100 @@
+HIV infection	is a	viral condition
+HIV infection	may cause	AIDS
+antiretroviral therapy	is used for	HIV infection
+CD4 count	is a marker for	HIV infection
+HIV infection	can lead to	opportunistic infections
+pneumocystis pneumonia	is an opportunistic infection of	HIV infection
+HIV infection	is diagnosed by	HIV antibody test
+HIV infection	is transmitted through	unprotected sex
+HIV infection	can be prevented by	using condoms
+HIV infection	is associated with	high viral load
+HIV infection	can lead to	drug resistance
+HIV infection	is managed with	combination therapy
+HIV infection	may lead to	neurocognitive disorders
+HIV infection	increases the risk of	cardiovascular diseases
+HIV infection	can be detected by	PCR test
+HIV infection	can be transmitted through	sharing needles
+HIV infection	affects the function of	immune system
+HIV infection	can lead to	social stigma
+HIV infection	may result in	weight loss
+HIV infection	is monitored using	viral load testing
+HIV infection	is associated with	opportunistic malignancies
+HIV infection	can be transmitted from	mother to child
+HIV infection	is linked to	increased mortality
+HIV infection	can result in	chronic fatigue
+HIV infection	is managed with	adherence to medication
+HIV infection	can cause	oral thrush
+HIV infection	is a risk factor for	tuberculosis
+HIV infection	may lead to	kidney disease
+HIV infection	affects the production of	antiviral antibodies
+HIV infection	can lead to	liver disease
+HIV infection	is associated with	low CD4 count
+HIV infection	can be diagnosed by	rapid test
+HIV infection	is associated with	decreased life expectancy
+HIV infection	is a risk factor for	sexually transmitted infections
+HIV infection	is managed with	regular medical follow-up
+HIV infection	may lead to	cognitive impairment
+HIV infection	is linked to	increased hospital admissions
+HIV infection	is associated with	higher healthcare costs
+HIV infection	requires	antiretroviral adherence
+HIV infection	can result in	inflammation
+HIV infection	is a risk factor for	certain cancers
+HIV infection	can be managed with	pre-exposure prophylaxis
+HIV infection	is a risk factor for	cardiovascular events
+HIV infection	may lead to	bone loss
+HIV infection	can cause	night sweats
+HIV infection	is managed with	viral load suppression
+HIV infection	is a risk factor for	mental health issues
+HIV infection	may lead to	anemia
+HIV infection	can result in	swollen lymph nodes
+HIV infection	is associated with	higher risk of infection
+HIV infection	can cause	skin rashes
+HIV infection	is managed with	interdisciplinary care
+HIV infection	may lead to	gastrointestinal issues
+HIV infection	is a risk factor for	neurological disorders
+HIV infection	can result in	hormonal imbalances
+HIV infection	is managed with	adherence to treatment plan
+HIV infection	may lead to	chronic pain
+HIV infection	can cause	memory loss
+HIV infection	is associated with	higher risk of depression
+HIV infection	can result in	muscle wasting
+HIV infection	is managed with	support groups
+HIV infection	may lead to	vision problems
+HIV infection	is a risk factor for	substance abuse
+HIV infection	can cause	neuropathy
+HIV infection	is managed with	lifestyle modifications
+HIV infection	may lead to	respiratory issues
+HIV infection	is a risk factor for	cognitive decline
+HIV infection	can result in	cardiomyopathy
+HIV infection	is associated with	higher risk of non-AIDS related illnesses
+HIV infection	is managed with	nutritional support
+HIV infection	may lead to	liver fibrosis
+HIV infection	can cause	lymphoma
+HIV infection	is a risk factor for	bone fractures
+HIV infection	is prevented by	needle exchange programs
+HIV infection	may lead to	endocrine disorders
+HIV infection	is linked to	increased risk of kidney failure
+HIV infection	can cause	thrombocytopenia
+HIV infection	is managed with	mental health counseling
+HIV infection	may lead to	pulmonary hypertension
+HIV infection	is associated with	risk of cognitive impairment
+HIV infection	can result in	secondary infections
+HIV infection	is managed with	palliative care
+HIV infection	may lead to	osteoporosis
+HIV infection	is a risk factor for	immune reconstitution syndrome
+HIV infection	can cause	metabolic complications
+HIV infection	is linked to	increased risk of liver cancer
+HIV infection	is managed with	complementary therapies
+HIV infection	may lead to	cardiovascular complications
+HIV infection	is associated with	risk of lipodystrophy
+HIV infection	can result in	immune system exhaustion
+HIV infection	is managed with	therapeutic drug monitoring
+HIV infection	may lead to	neurocognitive decline
+HIV infection	is prevented by	early diagnosis and treatment
+HIV infection	is associated with	risk of hyperlipidemia
+HIV infection	can cause	opportunistic malignancies
+HIV infection	is linked to	increased risk of lymphoma
+HIV infection	is managed with	regular monitoring of viral load
+HIV infection	may lead to	resistance to antiretroviral drugs
+HIV infection	is associated with	risk of cardiovascular disease
+HIV infection	can result in	mental health challenges

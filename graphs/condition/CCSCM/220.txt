@@ -1,0 +1,87 @@
+intrauterine hypoxia	can lead to	birth asphyxia
+birth asphyxia	causes	brain damage
+intrauterine hypoxia	increases the risk of	stillbirth
+intrauterine hypoxia	is monitored by	fetal heart rate monitoring
+birth asphyxia	requires	immediate medical intervention
+intrauterine hypoxia	may result in	developmental delays
+birth asphyxia	leads to	hypoxic-ischemic encephalopathy
+intrauterine hypoxia	affects	fetal growth
+birth asphyxia	may cause	seizures
+intrauterine hypoxia	is associated with	placental insufficiency
+birth asphyxia	increases the likelihood of	neonatal intensive care unit admission
+intrauterine hypoxia	can be caused by	umbilical cord compression
+birth asphyxia	has a risk of	long-term neurodevelopmental impairment
+intrauterine hypoxia	affects	oxygen delivery to the fetus
+birth asphyxia	leads to	oxygen deprivation in the newborn
+intrauterine hypoxia	is a result of	reduced blood flow
+birth asphyxia	can lead to	multi-organ dysfunction
+intrauterine hypoxia	is associated with	preterm birth
+birth asphyxia	can cause	respiratory distress
+intrauterine hypoxia	can be caused by	maternal hypertension
+birth asphyxia	increases the risk of	cerebral palsy
+intrauterine hypoxia	is a potential cause of	low Apgar scores
+birth asphyxia	may result in	neonatal seizures
+intrauterine hypoxia	is related to	fetal distress
+birth asphyxia	requires	resuscitation at birth
+intrauterine hypoxia	is linked to	meconium aspiration syndrome
+birth asphyxia	requires	close monitoring in the neonatal period
+intrauterine hypoxia	is a risk factor for	perinatal mortality
+birth asphyxia	can lead to	hypotonia
+intrauterine hypoxia	is associated with	decreased fetal movement
+birth asphyxia	can cause	acidosis in the newborn
+intrauterine hypoxia	is diagnosed through	ultrasound and Doppler studies
+birth asphyxia	is treated with	therapeutic hypothermia
+intrauterine hypoxia	affects	the umbilical artery blood flow
+birth asphyxia	increases the risk of	neonatal seizures
+intrauterine hypoxia	is a consequence of	umbilical cord abnormalities
+birth asphyxia	requires	neonatal neuroimaging
+intrauterine hypoxia	is a potential cause of	neonatal encephalopathy
+birth asphyxia	can lead to	neonatal respiratory distress syndrome
+intrauterine hypoxia	is related to	placental dysfunction
+birth asphyxia	is a result of	asphyxial insults during labor and delivery
+intrauterine hypoxia	is managed through	fetal well-being assessments
+birth asphyxia	can result in	intraventricular hemorrhage
+intrauterine hypoxia	may necessitate	emergency cesarean delivery
+birth asphyxia	requires	neonatal neurodevelopmental follow-up
+intrauterine hypoxia	is a complication of	maternal diabetes
+birth asphyxia	is a leading cause of	neonatal mortality
+intrauterine hypoxia	affects	the fetal brain development
+birth asphyxia	can lead to	long-term neurological deficits
+intrauterine hypoxia	is associated with	abnormal fetal heart rate patterns
+birth asphyxia	increases the risk of	persistent pulmonary hypertension of the newborn
+intrauterine hypoxia	can result in	meconium-stained amniotic fluid
+birth asphyxia	requires	careful monitoring of respiratory status
+intrauterine hypoxia	is a risk factor for	neonatal sepsis
+birth asphyxia	can cause	hypoxic ischemic injury to the brain
+intrauterine hypoxia	is a consequence of	uteroplacental insufficiency
+birth asphyxia	can lead to	neonatal hypoglycemia
+intrauterine hypoxia	is linked to	maternal smoking
+birth asphyxia	requires	evaluation for multi-organ dysfunction
+intrauterine hypoxia	is associated with	oligohydramnios
+birth asphyxia	may result in	neonatal cardiac dysfunction
+intrauterine hypoxia	is a cause of	decreased fetal movements
+birth asphyxia	increases the risk of	long-term neurobehavioral issues
+intrauterine hypoxia	can be a result of	maternal hypotension
+birth asphyxia	necessitates	umbilical artery blood gas analysis
+intrauterine hypoxia	increases the risk of	neonatal renal failure
+birth asphyxia	can lead to	neonatal encephalopathy
+intrauterine hypoxia	is a consequence of	abnormal placental development
+birth asphyxia	is managed through	neonatal neuroprotective strategies
+intrauterine hypoxia	is associated with	intrauterine growth restriction
+birth asphyxia	requires	neonatal respiratory support
+intrauterine hypoxia	can result in	perinatal brain injury
+birth asphyxia	is a risk factor for	neonatal thrombocytopenia
+intrauterine hypoxia	is correlated with	fetal distress during labor
+birth asphyxia	necessitates	neonatal cardiovascular monitoring
+intrauterine hypoxia	may necessitate	emergency obstetric interventions
+birth asphyxia	is linked to	neonatal hyperbilirubinemia
+intrauterine hypoxia	can lead to	neonatal metabolic acidosis
+birth asphyxia	is managed with	neonatal intensive care unit admission
+intrauterine hypoxia	is monitored using	umbilical artery Doppler assessments
+birth asphyxia	requires	assessment for neurodevelopmental outcomes
+intrauterine hypoxia	is a risk factor for	neonatal hypoxic ischemic encephalopathy
+birth asphyxia	can cause	neonatal respiratory failure
+intrauterine hypoxia	increases the risk of	neonatal anemia
+birth asphyxia	may result in	neonatal hypotension
+intrauterine hypoxia	is associated with	abnormal cardiotocography findings
+birth asphyxia	can lead to	neonatal hypothermia

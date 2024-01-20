@@ -1,0 +1,6 @@
+other disorders of stomach and duodenum	may cause	abdominal pain
+gastroscopy	is a diagnostic procedure for	other disorders of stomach and duodenum
+other disorders of stomach and duodenum	can lead to	malabsorption
+vitamin B12 deficiency	is a complication of	other disorders of stomach and duodenum
+other disorders of stomach and duodenum	are often treated with	proton pump inhibitors
+omeprazole	is a type of	proton pump inhibitor

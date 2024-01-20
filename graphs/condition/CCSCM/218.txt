@@ -1,0 +1,18 @@
+liveborn	is a	baby
+liveborn	has	APGAR score
+APGAR score	is used to	assess the baby's health
+liveborn	may develop	jaundice
+jaundice	can be treated with	phototherapy
+phototherapy	uses	light
+liveborn	has	birth weight
+low birth weight	is a risk factor for	developmental delays
+liveborn	may require	neonatal intensive care
+neonatal intensive care	is provided in	NICU
+NICU	has	specialized equipment
+liveborn	may need	respiratory support
+respiratory support	includes	mechanical ventilation
+mechanical ventilation	can cause	lung damage
+lung damage	can lead to	chronic respiratory issues
+liveborn	is at risk for	Sudden Infant Death Syndrome (SIDS)
+SIDS	is associated with	sleep position
+sleep position	should be	supine for infants

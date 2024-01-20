@@ -1,0 +1,50 @@
+septicemia	can lead to	sepsis
+septicemia	is caused by	bacterial infection
+septicemia	may result in	organ failure
+blood culture	is used to diagnose	septicemia
+antibiotics	are used to treat	septicemia
+septicemia	increases the risk of	septic shock
+septicemia	requires	hospitalization
+septicemia	can be fatal without	prompt treatment
+septicemia	can lead to	disseminated intravascular coagulation
+septicemia	can cause	low blood pressure
+septicemia	can lead to	multiple organ dysfunction syndrome
+septicemia	can result in	death without timely treatment
+septicemia	increases the risk of	mortality in hospitalized patients
+sepsis	is a complication of	septicemia
+septicemia	requires	intravenous antibiotics
+septicemia	may lead to	pneumonia
+septicemia	can result in	septic arthritis
+chills	is a symptom of	septicemia
+septicemia	may cause	altered mental status
+septicemia	can lead to	acute respiratory distress syndrome
+septicemia	may result in	septic thrombophlebitis
+septicemia	requires	intensive care monitoring
+septicemia	may lead to	bloodstream infection
+septicemia	can cause	septic encephalopathy
+septicemia	may result in	skin and soft tissue infections
+septicemia	can lead to	septic cardiomyopathy
+septicemia	can cause	septic embolism
+septicemia	may result in	septic pelvic thrombophlebitis
+septicemia	can lead to	septic pericarditis
+septicemia	can cause	septic osteomyelitis
+septicemia	may result in	septic meningitis
+septicemia	can lead to	septic tenosynovitis
+septicemia	can cause	septic pyelonephritis
+septicemia	may result in	septic endophthalmitis
+septicemia	can lead to	septic spondylodiscitis
+septicemia	can cause	septic tenosynovitis
+septicemia	may result in	septic endophthalmitis
+septicemia	can lead to	septic spondylodiscitis
+septicemia	can cause	septic shock
+septicemia	may result in	septic arthritis
+septicemia	can lead to	septic pelvic thrombophlebitis
+septicemia	can cause	septic encephalopathy
+septicemia	may result in	septic embolism
+septicemia	can lead to	septic meningitis
+septicemia	can cause	septic osteomyelitis
+septicemia	may result in	septic pericarditis
+septicemia	can lead to	septic pyelonephritis
+septicemia	may cause	septic endophthalmitis
+septicemia	can lead to	septic tenosynovitis
+septicemia	may cause	septic spondylodiscitis

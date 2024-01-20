@@ -1,0 +1,27 @@
+coma	can lead to	brain damage
+coma	is a state of	unconsciousness
+stupor	is a	milder form of	coma
+brain damage	can result in	permanent disability
+brain damage	may require	rehabilitation
+brain damage	can cause	cognitive impairment
+coma	may be caused by	traumatic brain injury
+coma	can result from	drug overdose
+coma	can be induced by	medical conditions
+stupor	may be caused by	intoxication
+stupor	can be a symptom of	encephalopathy
+brain damage	can be a complication of	stroke
+brain damage	can be a consequence of	lack of oxygen
+coma	is assessed by	Glasgow Coma Scale
+stupor	is characterized by	reduced responsiveness
+brain damage	is diagnosed through	neuroimaging
+rehabilitation	is provided by	physical therapists	occupational therapists	and speech therapists
+cognitive impairment	may require	cognitive rehabilitation therapy
+traumatic brain injury	is diagnosed through	CT scans and MRI
+traumatic brain injury	can result in	long-term disability
+stroke	may cause	permanent brain damage
+stroke	can lead to	impaired motor function
+lack of oxygen	can result from	respiratory failure
+intoxication	can lead to	reversible stupor
+intoxication	may require	detoxification therapy
+encephalopathy	can cause	altered mental status
+Glasgow Coma Scale	is used to	assess level of consciousness

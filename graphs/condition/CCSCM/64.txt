@@ -1,0 +1,32 @@
+other hematologic conditions	can include	anemia
+anemia	can result in	fatigue
+other hematologic conditions	may lead to	thrombocytopenia
+thrombocytopenia	can cause	excessive bleeding
+other hematologic conditions	are associated with	leukopenia
+leukopenia	can lead to	increased risk of infections
+other hematologic conditions	are diagnosed using	blood tests
+blood tests	can detect	abnormal levels of hemoglobin
+other hematologic conditions	can be treated with	blood transfusions
+blood transfusions	provide	additional red blood cells
+other hematologic conditions	may require	bone marrow biopsy
+bone marrow biopsy	can help diagnose	leukemia
+other hematologic conditions	are managed by	hematologist
+hematologist	specializes in	blood disorders
+other hematologic conditions	can be associated with	lymphoma
+lymphoma	is a type of	cancer
+other hematologic conditions	may increase risk of	clotting disorders
+clotting disorders	can cause	deep vein thrombosis
+other hematologic conditions	are linked to	genetic factors
+genetic factors	may contribute to	inherited blood disorders
+other hematologic conditions	have	various symptoms
+various symptoms	can include	bruising
+other hematologic conditions	have	different treatment options
+different treatment options	can include	chemotherapy
+chemotherapy	is used to	kill cancer cells
+other hematologic conditions	can result in	an enlarged spleen
+an enlarged spleen	can lead to	abdominal pain
+other hematologic conditions	can cause	blood clots
+blood clots	can result in	stroke
+other hematologic conditions	are associated with	hemophilia
+hemophilia	is a	bleeding disorder
+other hematologic conditions	can lead to	anemia

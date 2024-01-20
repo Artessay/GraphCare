@@ -1,0 +1,83 @@
+nervous system congenital anomalies	are	birth defects
+neural tube defects	are a type of	nervous system congenital anomalies
+folic acid	supplementation can prevent	neural tube defects
+spina bifida	is a type of	neural tube defect
+neurosurgery	may be needed for	nervous system congenital anomalies
+nervous system congenital anomalies	can cause	developmental delays
+early intervention	is important for	developmental delays
+physical therapy	can help with	developmental delays
+intellectual disability	is a potential outcome of	nervous system congenital anomalies
+special education services	may be needed for	intellectual disability
+nervous system congenital anomalies	may lead to	seizure disorders
+antiepileptic drugs	are used to treat	seizure disorders
+nervous system congenital anomalies	increase the risk of	hydrocephalus
+ventriculoperitoneal shunt	is a treatment for	hydrocephalus
+nervous system congenital anomalies	may result in	paralysis
+rehabilitation therapy	is important for	paralysis
+nervous system congenital anomalies	may lead to	bladder and bowel dysfunction
+intermittent catheterization	is used for	bladder dysfunction
+bowel management program	can help with	bowel dysfunction
+nervous system congenital anomalies	are associated with	increased mortality
+nervous system congenital anomalies	can lead to	lifelong disability
+supportive care	is important for	lifelong disability
+nervous system congenital anomalies	may require	assistive devices
+wheelchair	is an example of	assistive device
+nervous system congenital anomalies	may result in	speech and language delays
+speech therapy	can help with	speech and language delays
+nervous system congenital anomalies	can impact	social and emotional development
+psychological support	is important for	social and emotional development
+nervous system congenital anomalies	are linked to	genetic factors
+genetic counseling	can provide information about	genetic factors
+prenatal testing	can identify	nervous system congenital anomalies
+ultrasound	is used for	prenatal testing
+amniocentesis	is a diagnostic test for	nervous system congenital anomalies
+nervous system congenital anomalies	may require	surgical intervention
+neurosurgery	is a common form of	surgical intervention
+nervous system congenital anomalies	may be detected through	imaging studies
+MRI	is an example of	imaging study
+nervous system congenital anomalies	can lead to	cognitive impairment
+neuropsychological evaluation	can assess	cognitive impairment
+nervous system congenital anomalies	can be associated with	other birth defects
+heart defects	are a common co-occurring	birth defect
+cardiologist	may be involved in	treating heart defects in conjunction with nervous system congenital anomalies
+nervous system congenital anomalies	can lead to	feeding difficulties
+feeding therapy	can help with	feeding difficulties
+nervous system congenital anomalies	may require	long-term medical management
+pediatric neurologist	is involved in	long-term medical management
+nervous system congenital anomalies	can impact	family dynamics
+family counseling	can help with	family dynamics
+nervous system congenital anomalies	are associated with	increased healthcare utilization
+multidisciplinary care team	is important for	managing increased healthcare utilization
+nervous system congenital anomalies	may impact	school performance
+individualized education plan	is important for	addressing impact on school performance
+nervous system congenital anomalies	can lead to	sleep disturbances
+sleep study	can evaluate	sleep disturbances
+nervous system congenital anomalies	may result in	sensory processing issues
+occupational therapy	can address	sensory processing issues
+nervous system congenital anomalies	may affect	respiratory function
+pulmonologist	may be involved in	managing respiratory function in individuals with nervous system congenital anomalies
+nervous system congenital anomalies	can lead to	limited mobility
+assistive technology	can improve	limited mobility
+nervous system congenital anomalies	may require	home modifications
+occupational therapist	can recommend	home modifications for individuals with nervous system congenital anomalies
+nervous system congenital anomalies	can impact	employment opportunities
+vocational rehabilitation services	can assist with	employment opportunities for individuals with nervous system congenital anomalies
+nervous system congenital anomalies	may affect	reproductive health
+congenital anomalies	can impact	pregnancy outcomes
+preconception counseling	is important for	individuals with nervous system congenital anomalies
+nervous system congenital anomalies	may lead to	social isolation
+community support groups	can help with	social isolation
+nervous system congenital anomalies	may require	frequent hospitalizations
+home health care services	can provide support during	frequent hospitalizations
+nervous system congenital anomalies	may impact	financial stability
+social worker	can assist with	addressing financial stability in families affected by nervous system congenital anomalies
+nervous system congenital anomalies	may necessitate	long-term caregiving
+respite care services	can provide relief for	long-term caregivers of individuals with nervous system congenital anomalies
+nervous system congenital anomalies	may be associated with	increased risk of abuse and neglect
+child protective services	may be involved in	cases of abuse and neglect in individuals with nervous system congenital anomalies
+nervous system congenital anomalies	can lead to	emotional stress for caregivers
+caregiver support services	are important for	addressing emotional stress in caregivers of individuals with nervous system congenital anomalies
+nervous system congenital anomalies	may require	end-of-life care
+palliative care services	can provide support for	end-of-life care for individuals with nervous system congenital anomalies
+nervous system congenital anomalies	may result in	premature death
+nervous system congenital anomalies	are a significant cause of	pediatric mortality

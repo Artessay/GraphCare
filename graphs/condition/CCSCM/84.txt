@@ -1,0 +1,109 @@
+headache	may cause	nausea
+migraine	is a type of	headache
+stress	can trigger	headache
+ibuprofen	is a common	medication for	headache
+migraine	is associated with	aura
+dehydration	can lead to	headache
+migraine	is diagnosed by	neurologist
+headache	is a symptom of	many conditions
+caffeine	can worsen	headache
+migraine	is often accompanied by	sensitivity to light
+headache	can be a sign of	high blood pressure
+acetaminophen	is a pain reliever for	headache
+migraine	is more common in	women
+headache	may be a side effect of	medication
+migraine	has a genetic	component
+headache	can be managed with	lifestyle changes
+migraine	is linked to	hormonal changes
+headache	can be chronic or	episodic
+migraine	can be triggered by	certain foods
+headache	is a common reason for	emergency room visits
+migraine	can be treated with	triptans
+insomnia	is a risk factor for	headache
+migraine	can be triggered by	weather changes
+headache	is a common complaint in	primary care settings
+migraine	is often misdiagnosed as	tension headache
+headache	is a leading cause of	disability
+migraine	can be associated with	depression
+headache	can be a sign of	brain tumor
+migraine	can be managed with	preventive medications
+headache	is often treated with	over-the-counter drugs
+migraine	can be accompanied by	visual disturbances
+headache	can be a result of	head injury
+migraine	can be triggered by	strong odors
+headache	can be a side effect of	caffeine withdrawal
+migraine	is more prevalent in	young adults
+headache	can be a symptom of	sinus infection
+migraine	is often triggered by	lack of sleep
+headache	is worsened by	certain postures
+migraine	is associated with	changes in serotonin levels
+headache	is often managed by	pain diary tracking
+migraine	is linked to	menstrual cycle
+headache	is affected by	hormonal fluctuations
+migraine	is associated with	family history
+headache	can be a sign of	stroke
+migraine	is diagnosed based on	symptoms
+headache	can be a symptom of	concussion
+migraine	is associated with	sensitivity to sound
+headache	can be a result of	eye strain
+migraine	is associated with	trigeminal nerve dysfunction
+headache	is a common complaint in	pediatric populations
+migraine	can be triggered by	bright lights
+headache	can be a symptom of	dehydration
+migraine	is often misdiagnosed as	sinus headache
+headache	can be a warning sign of	high intracranial pressure
+migraine	is linked to	gastrointestinal disorders
+headache	can be a symptom of	dental issues
+migraine	is associated with	changes in caffeine consumption
+headache	is a side effect of	medication overuse
+migraine	is affected by	stress management
+headache	can be a result of	jaw clenching
+migraine	can be a result of	neck muscle tension
+headache	can be a symptom of	viral infections
+migraine	can be triggered by	hormonal contraceptives
+headache	is often managed with	relaxation techniques
+migraine	is linked to	sleep disturbances
+headache	can be a sign of	temporomandibular joint disorder
+migraine	is associated with	changes in barometric pressure
+headache	may be a side effect of	certain psychiatric medications
+migraine	is often managed with	dietary changes
+headache	can be a result of	caffeine intake
+migraine	is often triggered by	alcohol consumption
+headache	is a common symptom in	post-traumatic stress disorder
+migraine	is associated with	history of head trauma
+headache	can be a symptom of	allergic reactions
+migraine	is linked to	irregular sleep patterns
+headache	can be a result of	computer screen glare
+migraine	can be triggered by	bright or flickering lights
+headache	is a common complaint in	elderly population
+migraine	is associated with	cognitive dysfunction
+headache	can be a sign of	heat stroke
+migraine	is often triggered by	skipping meals
+headache	can be a result of	excessive noise exposure
+migraine	is linked to	autonomic nervous system dysfunction
+headache	can be a symptom of	carbon monoxide poisoning
+migraine	can be triggered by	changes in air pressure
+headache	can be a side effect of	hormonal fluctuations
+migraine	is often managed with	biofeedback therapy
+headache	can be a result of	neck injury
+migraine	can be triggered by	certain odors
+headache	may be a sign of	psychiatric disorders
+migraine	is associated with	changes in blood flow to the brain
+headache	can be a symptom of	multiple sclerosis
+migraine	is linked to	vestibular dysfunction
+headache	can be a result of	caffeine sensitivity
+migraine	is often managed with	acupuncture
+headache	can be a sign of	glaucoma
+migraine	is associated with	central sensitization
+headache	can be a symptom of	brain abscess
+migraine	is linked to	neurotransmitter imbalances
+headache	can be a result of	tension in scalp muscles
+migraine	can be triggered by	certain visual patterns
+headache	may be a side effect of	certain supplements
+migraine	is often managed with	cognitive behavioral therapy
+headache	can be a result of	changes in atmospheric pressure
+migraine	is associated with	cardiovascular risk factors
+headache	can be a symptom of	brain tumor
+migraine	is linked to	abnormalities in brain structure
+headache	may be a sign of	intracranial hemorrhage
+migraine	is associated with	vestibular migraine

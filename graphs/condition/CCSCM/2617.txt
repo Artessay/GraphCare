@@ -1,0 +1,20 @@
+adverse effects	are caused by	medical drugs
+adverse effects	can lead to	hospitalization
+drug interactions	may result in	adverse effects
+adverse effects	may require	discontinuation of medication
+patient history	influences	susceptibility to adverse effects
+adverse effects	are monitored through	pharmacovigilance
+adverse effects	may be mild or severe
+adverse effects	can impact	quality of life
+adverse effects	vary in	severity
+adverse effects	contribute to	medication non-adherence
+adverse effects	can be managed with	supportive care
+adverse effects	can lead to	long-term health complications
+adverse effects	are reported to	regulatory authorities
+genetic factors	can predispose	individuals to adverse effects
+adverse effects	are a concern in	polypharmacy
+adverse effects	lead to	healthcare provider consultations
+adverse effects	may result in	permanent damage
+adverse effects	increase the risk of	readmissions
+adverse effects	impact	treatment outcomes
+adverse effects	are documented in	electronic health records

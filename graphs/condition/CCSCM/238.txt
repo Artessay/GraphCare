@@ -1,0 +1,76 @@
+complications of surgical procedures or medical care	can lead to	infection
+infection	can cause	sepsis
+sepsis	can result in	organ failure
+organ failure	is associated with	high mortality
+high mortality	can lead to	increased healthcare costs
+increased healthcare costs	can lead to	financial burden on patients
+financial burden on patients	can lead to	non-adherence to medication
+non-adherence to medication	can result in	treatment failure
+treatment failure	can lead to	readmission to the hospital
+readmission to the hospital	can result in	increased risk of further complications
+increased risk of further complications	can lead to	higher healthcare utilization
+higher healthcare utilization	can result in	strain on healthcare system
+strain on healthcare system	can lead to	decreased quality of care
+decreased quality of care	can result in	patient dissatisfaction
+patient dissatisfaction	can lead to	negative healthcare outcomes
+negative healthcare outcomes	can result in	decreased patient trust
+decreased patient trust	can lead to	barriers to seeking medical care
+barriers to seeking medical care	can result in	delayed treatment
+delayed treatment	can lead to	worsened health outcomes
+worsened health outcomes	can result in	increased healthcare costs
+increased healthcare costs	can lead to	financial burden on patients
+financial burden on patients	can result in	non-adherence to medication
+non-adherence to medication	can lead to	treatment failure
+treatment failure	can result in	readmission to the hospital
+readmission to the hospital	can lead to	increased risk of further complications
+increased risk of further complications	can result in	higher healthcare utilization
+higher healthcare utilization	can lead to	strain on healthcare system
+strain on healthcare system	can result in	decreased quality of care
+decreased quality of care	can lead to	patient dissatisfaction
+patient dissatisfaction	can result in	negative healthcare outcomes
+negative healthcare outcomes	can lead to	decreased patient trust
+decreased patient trust	can result in	barriers to seeking medical care
+barriers to seeking medical care	can lead to	delayed treatment
+delayed treatment	can result in	worsened health outcomes
+worsened health outcomes	can lead to	increased healthcare costs
+increased healthcare costs	can result in	financial burden on patients
+financial burden on patients	can lead to	non-adherence to medication
+non-adherence to medication	can result in	treatment failure
+treatment failure	can lead to	readmission to the hospital
+readmission to the hospital	can result in	increased risk of further complications
+increased risk of further complications	can lead to	higher healthcare utilization
+higher healthcare utilization	can result in	strain on healthcare system
+strain on healthcare system	can lead to	decreased quality of care
+decreased quality of care	can result in	patient dissatisfaction
+patient dissatisfaction	can lead to	negative healthcare outcomes
+negative healthcare outcomes	can result in	decreased patient trust
+decreased patient trust	can lead to	barriers to seeking medical care
+barriers to seeking medical care	can result in	delayed treatment
+delayed treatment	can lead to	worsened health outcomes
+worsened health outcomes	can result in	increased healthcare costs
+increased healthcare costs	can lead to	financial burden on patients
+financial burden on patients	can result in	non-adherence to medication
+non-adherence to medication	can lead to	treatment failure
+treatment failure	can result in	readmission to the hospital
+readmission to the hospital	can lead to	increased risk of further complications
+increased risk of further complications	can result in	higher healthcare utilization
+higher healthcare utilization	can lead to	strain on healthcare system
+strain on healthcare system	can result in	decreased quality of care
+decreased quality of care	can lead to	patient dissatisfaction
+patient dissatisfaction	can result in	negative healthcare outcomes
+negative healthcare outcomes	can lead to	decreased patient trust
+decreased patient trust	can result in	barriers to seeking medical care
+barriers to seeking medical care	can lead to	delayed treatment
+delayed treatment	can result in	worsened health outcomes
+worsened health outcomes	can lead to	increased healthcare costs
+increased healthcare costs	can result in	financial burden on patients
+financial burden on patients	can lead to	non-adherence to medication
+non-adherence to medication	can result in	treatment failure
+treatment failure	can lead to	readmission to the hospital
+readmission to the hospital	can result in	increased risk of further complications
+increased risk of further complications	can lead to	higher healthcare utilization
+higher healthcare utilization	can result in	strain on healthcare system
+strain on healthcare system	can lead to	decreased quality of care
+decreased quality of care	can result in	patient dissatisfaction
+patient dissatisfaction	can lead to	negative healthcare outcomes
+negative healthcare outcomes	can result in	decreased patient trust

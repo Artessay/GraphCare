@@ -1,0 +1,114 @@
+cancer of kidney and renal pelvis	is a type of	cancer
+cancer of kidney and renal pelvis	may cause	hematuria
+nephrectomy	is a treatment for	cancer of kidney and renal pelvis
+metastasis	can occur in	cancer of kidney and renal pelvis
+immunotherapy	is used in	cancer of kidney and renal pelvis
+hypertension	is a risk factor for	cancer of kidney and renal pelvis
+smoking	is a risk factor for	cancer of kidney and renal pelvis
+radical nephrectomy	is a type of	nephrectomy
+renal cell carcinoma	is a common type of	cancer of kidney and renal pelvis
+papillary renal cell carcinoma	is a subtype of	renal cell carcinoma
+clear cell renal cell carcinoma	is a subtype of	renal cell carcinoma
+targeted therapy	is a treatment for	cancer of kidney and renal pelvis
+sunitinib	is a type of	targeted therapy
+pazopanib	is a type of	targeted therapy
+renal angiomyolipoma	is a benign tumor of	kidney
+vHL disease	is a genetic risk factor for	cancer of kidney and renal pelvis
+von Hippel-Lindau syndrome	is a genetic risk factor for	cancer of kidney and renal pelvis
+nivolumab	is a type of	immunotherapy
+pembrolizumab	is a type of	immunotherapy
+renal cyst	is a benign condition of	kidney
+renal artery embolization	is a treatment for	renal angiomyolipoma
+chronic kidney disease	is a risk factor for	cancer of kidney and renal pelvis
+diabetes	is a risk factor for	cancer of kidney and renal pelvis
+nephron-sparing surgery	is a type of	nephrectomy
+chemotherapy	is a treatment for	cancer of kidney and renal pelvis
+gemcitabine	is a type of	chemotherapy
+cisplatin	is a type of	chemotherapy
+urothelial carcinoma	can occur in	cancer of kidney and renal pelvis
+transitional cell carcinoma	is another name for	urothelial carcinoma
+nephron	is the functional unit of	kidney
+nephritis	is inflammation of	kidney
+thrombocytosis	may occur in	cancer of kidney and renal pelvis
+anemia	may occur in	cancer of kidney and renal pelvis
+hypercalcemia	may occur in	cancer of kidney and renal pelvis
+paraneoplastic syndrome	may occur in	cancer of kidney and renal pelvis
+sarcomatoid features	can be present in	cancer of kidney and renal pelvis
+renal oncocytoma	is a benign tumor of	kidney
+birt-hogg-dube syndrome	is a genetic risk factor for	cancer of kidney and renal pelvis
+papillary adenoma	is a benign tumor of	kidney
+renal cell adenoma	is a benign tumor of	kidney
+polycystic kidney disease	is a risk factor for	cancer of kidney and renal pelvis
+tuberous sclerosis	is a genetic risk factor for	cancer of kidney and renal pelvis
+nephroblastoma	is a rare type of	cancer of kidney and renal pelvis
+Wilms tumor	is another name for	nephroblastoma
+nephroblastomatosis	is a precursor of	nephroblastoma
+renal lymphoma	can occur in	cancer of kidney and renal pelvis
+von Meyenburg complex	is a benign condition of	liver and kidney
+renal abscess	can occur in	cancer of kidney and renal pelvis
+perinephric abscess	can occur in	cancer of kidney and renal pelvis
+renal vein thrombosis	can occur in	cancer of kidney and renal pelvis
+renal cell papillary adenoma	is a benign tumor of	kidney
+tubulocystic renal cell carcinoma	is a subtype of	renal cell carcinoma
+acquired cystic kidney disease	is a risk factor for	cancer of kidney and renal pelvis
+nephrotoxicity	may occur from	chemotherapy
+nephrotoxicity	may occur from	targeted therapy
+nephrotoxicity	may occur from	immunotherapy
+nephrotoxicity	may occur from	immunosuppressive drugs
+nephrotoxicity	may occur from	contrast agents
+nephrotoxicity	may occur from	NSAIDs
+nephrotoxicity	may occur from	ACE inhibitors
+nephrotoxicity	may occur from	ARBs
+nephrotoxicity	may occur from	antibiotics
+nephrotoxicity	may occur from	antiviral drugs
+nephrotoxicity	may occur from	antifungal drugs
+nephrotoxicity	may occur from	antineoplastic drugs
+nephrotoxicity	may occur from	lithium
+nephrotoxicity	may occur from	antiseizure medications
+nephrotoxicity	may occur from	antihypertensive drugs
+nephrotoxicity	may occur from	diuretics
+nephrotoxicity	may occur from	herbal supplements
+nephrotoxicity	may occur from	heavy metals
+nephrotoxicity	may occur from	industrial chemicals
+nephrotoxicity	may occur from	solvents
+nephrotoxicity	may occur from	pesticides
+nephrotoxicity	may occur from	radiographic contrast media
+nephrotoxicity	may occur from	myoglobin
+nephrotoxicity	may occur from	hemoglobin
+nephrogenic systemic fibrosis	may occur from	gadolinium-based contrast agents
+renal artery stenosis	can be caused by	atherosclerosis
+renal artery stenosis	can be caused by	fibromuscular dysplasia
+renal artery stenosis	can be caused by	Takayasu arteritis
+renal artery stenosis	can be caused by	vasculitis
+renal artery stenosis	can be caused by	radiation
+renal artery stenosis	can be caused by	trauma
+renal artery stenosis	can be caused by	dissection
+renal artery stenosis	can be caused by	hyperplasia
+renal artery stenosis	can be caused by	embolism
+renal artery stenosis	can be caused by	thrombosis
+renal artery stenosis	can be caused by	tumor invasion
+renal artery stenosis	can be caused by	iatrogenic injury
+renal artery stenosis	can be caused by	compression
+renal artery stenosis	can be caused by	external pressure
+renal artery stenosis	can be caused by	kinking
+renal artery stenosis	can be caused by	congenital anomalies
+ACE inhibitors	are medications that can cause	renal artery stenosis
+ARBs	are medications that can cause	renal artery stenosis
+NSAIDs	are medications that can cause	nephrotoxicity
+antibiotics	are medications that can cause	nephrotoxicity
+antiviral drugs	are medications that can cause	nephrotoxicity
+antifungal drugs	are medications that can cause	nephrotoxicity
+antineoplastic drugs	are medications that can cause	nephrotoxicity
+lithium	is a medication that can cause	nephrotoxicity
+antiseizure medications	are medications that can cause	nephrotoxicity
+antihypertensive drugs	are medications that can cause	nephrotoxicity
+diuretics	are medications that can cause	nephrotoxicity
+herbal supplements	are substances that can cause	nephrotoxicity
+heavy metals	are substances that can cause	nephrotoxicity
+industrial chemicals	are substances that can cause	nephrotoxicity
+solvents	are substances that can cause	nephrotoxicity
+pesticides	are substances that can cause	nephrotoxicity
+radiographic contrast media	are substances that can cause	nephrotoxicity
+myoglobin	is a substance that can cause	nephrotoxicity
+hemoglobin	is a substance that can cause	nephrotoxicity
+gadolinium-based contrast agents	are substances that can cause	nephrogenic systemic fibrosis

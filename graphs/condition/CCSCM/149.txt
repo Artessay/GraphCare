@@ -1,0 +1,54 @@
+biliary tract disease	is a	medical condition
+gallstones	can cause	biliary tract disease
+biliary tract disease	may lead to	cholecystitis
+cholecystectomy	is a treatment for	biliary tract disease
+obesity	is a risk factor for	biliary tract disease
+biliary tract disease	can cause	jaundice
+MRCP	is a diagnostic test for	biliary tract disease
+endoscopic retrograde cholangiopancreatography	is a procedure for	biliary tract disease
+biliary tract disease	can lead to	liver damage
+primary sclerosing cholangitis	is a type of	biliary tract disease
+biliary tract disease	increases the risk of	gallbladder cancer
+biliary stenting	is a treatment for	biliary tract disease
+biliary tract disease	is associated with	abdominal pain
+biliary tract disease	is frequently diagnosed with	ultrasound
+biliary tract disease	can lead to	pancreatitis
+biliary tract disease	can result in	biliary colic
+biliary tract disease	can be caused by	infection
+biliary tract disease	can result in	biliary obstruction
+biliary tract disease	can lead to	bile duct stricture
+biliary tract disease	is often seen in	elderly population
+biliary tract disease	may require	ERCP
+biliary tract disease	can cause	sepsis
+biliary tract disease	can lead to	cholangitis
+biliary tract disease	is linked to	high cholesterol levels
+biliary tract disease	is associated with	biliary dyskinesia
+biliary tract disease	has a higher incidence in	women
+biliary tract disease	can cause	biliary sepsis
+biliary tract disease	can be complicated by	pancreatitis
+biliary tract disease	is a risk factor for	pancreatitis
+biliary tract disease	can lead to	bile duct obstruction
+biliary tract disease	is treated with	cholecystectomy
+biliary tract disease	can result in	biliary stricture
+biliary tract disease	is often diagnosed with	MRCP
+biliary tract disease	is associated with	cholelithiasis
+biliary tract disease	can be managed with	medication
+biliary tract disease	may present with	fever
+biliary tract disease	is caused by	gallstones
+biliary tract disease	can result in	biliary calculi
+biliary tract disease	is a common cause of	abdominal pain
+biliary tract disease	has a high incidence in	Western countries
+biliary tract disease	may require	biliary stenting
+biliary tract disease	can lead to	bile duct injury
+biliary tract disease	is associated with	primary sclerosing cholangitis
+biliary tract disease	may cause	bile duct cancer
+biliary tract disease	can lead to	bile duct dilation
+biliary tract disease	is characterized by	biliary obstruction
+biliary tract disease	is linked to	obesity
+biliary tract disease	can result in	biliary fistula
+biliary tract disease	may necessitate	endoscopic retrograde cholangiopancreatography
+biliary tract disease	is often asymptomatic
+biliary tract disease	is diagnosed with	ultrasound
+biliary tract disease	can lead to	biliary peritonitis
+biliary tract disease	is associated with	liver damage
+biliary tract disease	is a common cause of	jaundice

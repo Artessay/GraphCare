@@ -1,0 +1,216 @@
+open wounds of extremities	can lead to	infection
+infection	may cause	sepsis
+sepsis	can lead to	organ failure
+open wounds of extremities	are treated with	wound dressings
+wound dressings	promote	healing
+diabetes	is a risk factor for	open wounds of extremities
+hypertension	can delay	wound healing
+smoking	can impair	healing process
+elderly patients	are more prone to	open wounds of extremities
+fall injuries	can result in	open wounds of extremities
+poor circulation	can lead to	slow healing of	open wounds of extremities
+patient's mobility	can affect	wound healing
+adequate nutrition	is important for	wound healing
+proper hygiene	is crucial for	preventing infection in	open wounds of extremities
+non-healing wounds	may require	surgical intervention
+compression therapy	is used for	venous ulcers in	open wounds of extremities
+pressure ulcers	can develop into	open wounds of extremities
+malnutrition	can delay	wound healing
+immunosuppression	can increase the risk of	infection in	open wounds of extremities
+wound assessment	is crucial for	monitoring healing progress
+elderly patients	with open wounds of extremities	are at higher risk of	complications
+physical therapy	can help with	healing of	open wounds of extremities
+regular monitoring	is important for	preventing complications in	open wounds of extremities
+proper wound care	is essential for	preventing infection in	open wounds of extremities
+dry gangrene	can develop in	untreated	open wounds of extremities
+tissue necrosis	can occur in	severe cases of	open wounds of extremities
+circulatory disorders	can contribute to	impaired healing of	open wounds of extremities
+antibiotic therapy	may be necessary for	treating infection in	open wounds of extremities
+wound debridement	is often necessary for	removing necrotic tissue from	open wounds of extremities
+surgical intervention	may be necessary for	severe cases of	open wounds of extremities
+chronic venous insufficiency	can lead to	venous ulcers in	open wounds of extremities
+prolonged immobilization	can lead to	pressure ulcers in	open wounds of extremities
+obesity	is a risk factor for	delayed wound healing in	open wounds of extremities
+impaired sensation	can lead to	unnoticed trauma and development of	open wounds of extremities
+inadequate blood supply	can result in	slow healing of	open wounds of extremities
+inadequate wound care	can lead to	complications in	open wounds of extremities
+deep tissue injuries	can progress to	open wounds of extremities
+history of smoking	is a risk factor for	delayed wound healing in	open wounds of extremities
+impaired immune system	can increase the risk of	infection in	open wounds of extremities
+patient compliance	with wound care	is important for	successful healing of	open wounds of extremities
+proper positioning	is crucial for	preventing pressure ulcers in	open wounds of extremities
+bedridden patients	are at higher risk of	developing	open wounds of extremities
+venous ulcers	are a type of	open wounds of extremities
+decubitus ulcers	are also known as	pressure ulcers
+surgical intervention	may be necessary for	severe cases of	open wounds of extremities
+chronic wound care	requires	long-term management
+infected wounds	require	antibiotic treatment
+proper wound drainage	is important for	preventing infection in	open wounds of extremities
+frequent change of wound dressings	is necessary for	promoting healing in	open wounds of extremities
+patient education	on wound care	is essential for	successful management of	open wounds of extremities
+nutrition assessment	is important for	optimizing healing in	open wounds of extremities
+immunosuppressive medications	can increase the risk of	infection in	open wounds of extremities
+reduced mobility	can lead to	pressure ulcers in	open wounds of extremities
+inadequate pain management	can hinder	wound healing
+early detection and treatment	is crucial for	preventing complications in	open wounds of extremities
+prolonged hospitalization	increases the risk of	developing	open wounds of extremities
+wound infection	can delay	healing process of	open wounds of extremities
+pressure relief	is important for	preventing pressure ulcers in	open wounds of extremities
+severe burns	can result in	open wounds of extremities
+systemic diseases	can negatively impact	wound healing
+patient's general health	can affect	healing process of	open wounds of extremities
+osteomyelitis	can develop as a complication of	open wounds of extremities
+pain management	is important for	patient comfort in	open wounds of extremities
+immunocompromised patients	are at higher risk of	infection in	open wounds of extremities
+interdisciplinary collaboration	is important for	comprehensive care of	open wounds of extremities
+chronic ischemia	can lead to	delayed wound healing in	open wounds of extremities
+regular monitoring	is important for	early detection of complications in	open wounds of extremities
+skin breakdown	can lead to	open wounds of extremities
+appropriate footwear	is important for	preventing foot ulcers in diabetic patients with	open wounds of extremities
+appropriate wound care products	are necessary for	promoting healing in	open wounds of extremities
+inadequate nutrition	can lead to	delayed wound healing in	open wounds of extremities
+infectious organisms	can cause	wound infection in	open wounds of extremities
+underlying health conditions	can impact	healing process of	open wounds of extremities
+psychosocial support	is important for	patient coping with	open wounds of extremities
+loss of sensation	can lead to	development of	open wounds of extremities
+impaired circulation	can result in	slow healing of	open wounds of extremities
+impaired immune function	can increase the risk of	infection in	open wounds of extremities
+patient's mental health	can affect	adherence to	wound care regimen
+compromised vascular supply	can result in	slow healing of	open wounds of extremities
+prolonged use of corticosteroids	can delay	wound healing
+patient's compliance with medical treatment	is important for	successful management of	open wounds of extremities
+inadequate oxygen supply	can result in	slow healing of	open wounds of extremities
+lack of proper wound care	can lead to	complications in	open wounds of extremities
+deep tissue injuries	can lead to	development of	open wounds of extremities
+tissue necrosis	can occur in	untreated	open wounds of extremities
+circulatory disorders	can contribute to	impaired healing of	open wounds of extremities
+antibiotic therapy	may be necessary for	treating infection in	open wounds of extremities
+wound debridement	is often necessary for	removing necrotic tissue from	open wounds of extremities
+surgical intervention	may be necessary for	severe cases of	open wounds of extremities
+chronic venous insufficiency	can lead to	venous ulcers in	open wounds of extremities
+prolonged immobilization	can lead to	pressure ulcers in	open wounds of extremities
+obesity	is a risk factor for	delayed wound healing in	open wounds of extremities
+impaired sensation	can lead to	unnoticed trauma and development of	open wounds of extremities
+inadequate blood supply	can result in	slow healing of	open wounds of extremities
+inadequate wound care	can lead to	complications in	open wounds of extremities
+deep tissue injuries	can progress to	open wounds of extremities
+history of smoking	is a risk factor for	delayed wound healing in	open wounds of extremities
+impaired immune system	can increase the risk of	infection in	open wounds of extremities
+patient compliance	with wound care	is important for	successful healing of	open wounds of extremities
+proper positioning	is crucial for	preventing pressure ulcers in	open wounds of extremities
+bedridden patients	are at higher risk of	developing	open wounds of extremities
+venous ulcers	are a type of	open wounds of extremities
+decubitus ulcers	are also known as	pressure ulcers
+surgical intervention	may be necessary for	severe cases of	open wounds of extremities
+chronic wound care	requires	long-term management
+infected wounds	require	antibiotic treatment
+proper wound drainage	is important for	preventing infection in	open wounds of extremities
+frequent change of wound dressings	is necessary for	promoting healing in	open wounds of extremities
+patient education	on wound care	is essential for	successful management of	open wounds of extremities
+nutrition assessment	is important for	optimizing healing in	open wounds of extremities
+immunosuppressive medications	can increase the risk of	infection in	open wounds of extremities
+reduced mobility	can lead to	pressure ulcers in	open wounds of extremities
+inadequate pain management	can hinder	wound healing
+early detection and treatment	is crucial for	preventing complications in	open wounds of extremities
+prolonged hospitalization	increases the risk of	developing	open wounds of extremities
+wound infection	can delay	healing process of	open wounds of extremities
+pressure relief	is important for	preventing pressure ulcers in	open wounds of extremities
+severe burns	can result in	open wounds of extremities
+systemic diseases	can negatively impact	wound healing
+patient's general health	can affect	healing process of	open wounds of extremities
+osteomyelitis	can develop as a complication of	open wounds of extremities
+pain management	is important for	patient comfort in	open wounds of extremities
+immunocompromised patients	are at higher risk of	infection in	open wounds of extremities
+interdisciplinary collaboration	is important for	comprehensive care of	open wounds of extremities
+chronic ischemia	can lead to	delayed wound healing in	open wounds of extremities
+regular monitoring	is important for	early detection of complications in	open wounds of extremities
+skin breakdown	can lead to	open wounds of extremities
+appropriate footwear	is important for	preventing foot ulcers in diabetic patients with	open wounds of extremities
+appropriate wound care products	are necessary for	promoting healing in	open wounds of extremities
+inadequate nutrition	can lead to	delayed wound healing in	open wounds of extremities
+infectious organisms	can cause	wound infection in	open wounds of extremities
+underlying health conditions	can impact	healing process of	open wounds of extremities
+psychosocial support	is important for	patient coping with	open wounds of extremities
+loss of sensation	can lead to	development of	open wounds of extremities
+impaired circulation	can result in	slow healing of	open wounds of extremities
+impaired immune function	can increase the risk of	infection in	open wounds of extremities
+patient's mental health	can affect	adherence to	wound care regimen
+compromised vascular supply	can result in	slow healing of	open wounds of extremities
+prolonged use of corticosteroids	can delay	wound healing
+patient's compliance with medical treatment	is important for	successful management of	open wounds of extremities
+inadequate oxygen supply	can result in	slow healing of	open wounds of extremities
+lack of proper wound care	can lead to	complications in	open wounds of extremities
+deep tissue injuries	can lead to	development of	open wounds of extremities
+tissue necrosis	can occur in	untreated	open wounds of extremities
+circulatory disorders	can contribute to	impaired healing of	open wounds of extremities
+antibiotic therapy	may be necessary for	treating infection in	open wounds of extremities
+wound debridement	is often necessary for	removing necrotic tissue from	open wounds of extremities
+surgical intervention	may be necessary for	severe cases of	open wounds of extremities
+chronic venous insufficiency	can lead to	venous ulcers in	open wounds of extremities
+prolonged immobilization	can lead to	pressure ulcers in	open wounds of extremities
+obesity	is a risk factor for	delayed wound healing in	open wounds of extremities
+impaired sensation	can lead to	unnoticed trauma and development of	open wounds of extremities
+inadequate blood supply	can result in	slow healing of	open wounds of extremities
+inadequate wound care	can lead to	complications in	open wounds of extremities
+deep tissue injuries	can progress to	open wounds of extremities
+history of smoking	is a risk factor for	delayed wound healing in	open wounds of extremities
+impaired immune system	can increase the risk of	infection in	open wounds of extremities
+patient compliance	with wound care	is important for	successful healing of	open wounds of extremities
+proper positioning	is crucial for	preventing pressure ulcers in	open wounds of extremities
+bedridden patients	are at higher risk of	developing	open wounds of extremities
+venous ulcers	are a type of	open wounds of extremities
+decubitus ulcers	are also known as	pressure ulcers
+surgical intervention	may be necessary for	severe cases of	open wounds of extremities
+chronic wound care	requires	long-term management
+infected wounds	require	antibiotic treatment
+proper wound drainage	is important for	preventing infection in	open wounds of extremities
+frequent change of wound dressings	is necessary for	promoting healing in	open wounds of extremities
+patient education	on wound care	is essential for	successful management of	open wounds of extremities
+nutrition assessment	is important for	optimizing healing in	open wounds of extremities
+immunosuppressive medications	can increase the risk of	infection in	open wounds of extremities
+reduced mobility	can lead to	pressure ulcers in	open wounds of extremities
+inadequate pain management	can hinder	wound healing
+early detection and treatment	is crucial for	preventing complications in	open wounds of extremities
+prolonged hospitalization	increases the risk of	developing	open wounds of extremities
+wound infection	can delay	healing process of	open wounds of extremities
+pressure relief	is important for	preventing pressure ulcers in	open wounds of extremities
+severe burns	can result in	open wounds of extremities
+systemic diseases	can negatively impact	wound healing
+patient's general health	can affect	healing process of	open wounds of extremities
+osteomyelitis	can develop as a complication of	open wounds of extremities
+pain management	is important for	patient comfort in	open wounds of extremities
+immunocompromised patients	are at higher risk of	infection in	open wounds of extremities
+interdisciplinary collaboration	is important for	comprehensive care of	open wounds of extremities
+chronic ischemia	can lead to	delayed wound healing in	open wounds of extremities
+regular monitoring	is important for	early detection of complications in	open wounds of extremities
+skin breakdown	can lead to	open wounds of extremities
+appropriate footwear	is important for	preventing foot ulcers in diabetic patients with	open wounds of extremities
+appropriate wound care products	are necessary for	promoting healing in	open wounds of extremities
+inadequate nutrition	can lead to	delayed wound healing in	open wounds of extremities
+infectious organisms	can cause	wound infection in	open wounds of extremities
+underlying health conditions	can impact	healing process of	open wounds of extremities
+psychosocial support	is important for	patient coping with	open wounds of extremities
+loss of sensation	can lead to	development of	open wounds of extremities
+impaired circulation	can result in	slow healing of	open wounds of extremities
+impaired immune function	can increase the risk of	infection in	open wounds of extremities
+patient's mental health	can affect	adherence to	wound care regimen
+compromised vascular supply	can result in	slow healing of	open wounds of extremities
+prolonged use of corticosteroids	can delay	wound healing
+patient's compliance with medical treatment	is important for	successful management of	open wounds of extremities
+inadequate oxygen supply	can result in	slow healing of	open wounds of extremities
+lack of proper wound care	can lead to	complications in	open wounds of extremities
+deep tissue injuries	can lead to	development of	open wounds of extremities
+tissue necrosis	can occur in	untreated	open wounds of extremities
+circulatory disorders	can contribute to	impaired healing of	open wounds of extremities
+antibiotic therapy	may be necessary for	treating infection in	open wounds of extremities
+wound debridement	is often necessary for	removing necrotic tissue from	open wounds of extremities
+surgical intervention	may be necessary for	severe cases of	open wounds of extremities
+chronic venous insufficiency	can lead to	venous ulcers in	open wounds of extremities
+prolonged immobilization	can lead to	pressure ulcers in	open wounds of extremities
+obesity	is a risk factor for	delayed wound healing in	open wounds of extremities
+impaired sensation	can lead to	unnoticed trauma and development of	open wounds of extremities
+inadequate blood supply	can result in	slow healing of	open wounds of extremities
+inadequate wound care	can lead to	complications in	open wounds of extremities
+deep tissue injuries	can progress to	open wounds of extremities
+history of smoking	is a risk factor for	delayed wound healing in	open wounds of extremremities
+impaired immune system	can increase the risk of	infection in	open wounds of extremities

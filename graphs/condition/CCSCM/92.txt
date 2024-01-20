@@ -1,0 +1,101 @@
+otitis media	is a type of	ear infection
+otitis media	is common in	children
+bacterial infection	can cause	acute otitis media
+otitis media	can lead to	tympanic membrane perforation
+tympanostomy tube placement	is a treatment for	recurrent otitis media
+cholesteatoma	is a complication of	chronic otitis media
+otitis media	can cause	conductive hearing loss
+pneumococcal vaccine	can prevent	otitis media
+adenoidectomy	may be recommended for	chronic otitis media
+otitis media	is associated with	middle ear effusion
+otitis media	can lead to	mastoiditis
+gastroesophageal reflux	is a risk factor for	otitis media
+otitis media	is linked to	developmental delay
+otitis media	can occur with	upper respiratory infections
+otitis media	can result in	speech delay
+otitis media	is diagnosed using	otoscopy
+cigarette smoke exposure	is a risk factor for	otitis media
+otitis media	can lead to	eustachian tube dysfunction
+otitis media	is treated with	antibiotics
+amoxicillin	is a common	antibiotic
+otitis media	can cause	fever
+otitis media	may be a complication of	influenza
+otitis media	can lead to	balance problems
+otitis media	can result in	ear pain
+otitis media	is associated with	viral infections
+otitis externa	is related to	otitis media
+encourage breastfeeding	to prevent	otitis media
+otitis media	can lead to	scarring of the tympanic membrane
+otitis media	is a risk factor for	chronic suppurative otitis media
+otitis media	can cause	myringitis
+otitis media	can result in	ear drainage
+otitis media	is a risk factor for	hearing loss
+otitis media	is more common in	winter months
+otitis media	can lead to	abscess formation
+otitis media	can occur with	allergies
+otitis media	can be associated with	speech and language delays
+otitis media	is more common in	Native American and Inuit populations
+otitis media	is more common in	low socioeconomic status populations
+otitis media	can result in	sleep disturbances
+otitis media	is more common in	daycare attendees
+otitis media	can lead to	need for tympanostomy tube placement
+otitis media	can be caused by	viral respiratory infections
+otitis media	is a risk factor for	eardrum scarring
+otitis media	may be associated with	enlarged adenoids
+otitis media	can result in	chronic middle ear effusion
+otitis media	can lead to	decreased quality of life
+otitis media	is a risk factor for	adhesive otitis media
+otitis media	may be a complication of	sinusitis
+otitis media	is more common in	children with cleft palate
+otitis media	is associated with	fluid in the middle ear
+otitis media	can lead to	hearing difficulties
+otitis media	is related to	upper respiratory infections
+otitis media	can be associated with	speech and language disorders
+otitis media	is more common in	children exposed to secondhand smoke
+otitis media	can result in	behavior problems
+otitis media	is a risk factor for	chronic suppurative otitis media
+otitis media	is associated with	cleft palate
+otitis media	can lead to	conductive hearing loss
+otitis media	is more common in	children with Down syndrome
+otitis media	is a complication of	chronic sinusitis
+otitis media	can result in	developmental delays
+otitis media	is associated with	barotrauma
+otitis media	can lead to	need for myringotomy
+otitis media	is a risk factor for	negative pressure otitis media
+otitis media	may be associated with	craniofacial abnormalities
+otitis media	is more common in	children with cleft lip
+otitis media	can result in	speech and language delay
+otitis media	is a risk factor for	cholesteatoma
+otitis media	is associated with	tympanic membrane retraction
+otitis media	can lead to	need for adenoidectomy
+otitis media	is more common in	children with allergies
+otitis media	is a risk factor for	chronic effusion
+otitis media	is related to	recurrent upper respiratory infections
+otitis media	can result in	language difficulties
+otitis media	is a risk factor for	retraction pocket
+otitis media	may be a complication of	nasal septal deviation
+otitis media	is associated with	abnormal middle ear pressure
+otitis media	can lead to	need for tympanoplasty
+otitis media	is more common in	children with craniofacial syndromes
+otitis media	is a risk factor for	atelectasis of the tympanic membrane
+otitis media	is related to	chronic nasal congestion
+otitis media	can result in	social difficulties
+otitis media	is a risk factor for	chronic eustachian tube dysfunction
+otitis media	may be associated with	chronic adenoiditis
+otitis media	can lead to	need for mastoidectomy
+otitis media	is more common in	children with gastroesophageal reflux
+otitis media	is a risk factor for	pars tensa retraction pocket
+otitis media	is associated with	chronic negative pressure
+otitis media	can be related to	immune deficiencies
+otitis media	can result in	learning difficulties
+otitis media	is a risk factor for	cholesteatoma formation
+otitis media	may be associated with	submucous cleft palate
+otitis media	can lead to	need for myringoplasty
+otitis media	is more common in	children with Kartagener syndrome
+otitis media	is a risk factor for	ossicular chain disruption
+otitis media	is related to	eustachian tube obstructive disorders
+otitis media	can result in	attention difficulties
+otitis media	is a risk factor for	adhesive otitis formation
+otitis media	may be associated with	chronic sinusitis
+otitis media	is more common in	children with ankyloglossia
+otitis media	can lead to	need for ossiculoplasty

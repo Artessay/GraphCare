@@ -1,0 +1,13 @@
+cancer of thyroid	is a type of	cancer
+cancer of thyroid	may cause	difficulty swallowing
+thyroidectomy	is a treatment for	cancer of thyroid
+radiation therapy	is used for	cancer of thyroid
+thyroid hormone replacement	is necessary after	thyroidectomy
+metastasis	can occur in	cancer of thyroid
+thyroid stimulating hormone (TSH)	levels are monitored in	cancer of thyroid
+cancer of thyroid	is more common in	women
+thyroid nodules	can be a precursor to	cancer of thyroid
+papillary carcinoma	is a type of	cancer of thyroid
+medullary carcinoma	is a type of	cancer of thyroid
+anaplastic carcinoma	is a type of	cancer of thyroid
+follicular carcinoma	is a type of	cancer of thyroid

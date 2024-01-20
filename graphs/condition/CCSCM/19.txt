@@ -1,0 +1,92 @@
+cancer of bronchus	is a type of	lung cancer
+smoking	is a major risk factor for	cancer of bronchus
+chemotherapy	is a common treatment for	lung cancer
+metastasis	is a concern for	lung cancer
+palliative care	is often recommended for	advanced lung cancer
+immunotherapy	is an emerging treatment for	lung cancer
+radiation therapy	is used to target	cancer of bronchus
+surgery	can be used to remove	lung cancer
+non-small cell lung cancer	is a subtype of	lung cancer
+EGFR mutation	is a biomarker for	non-small cell lung cancer
+pemetrexed	is a chemotherapy drug for	non-small cell lung cancer
+brain metastases	can occur in	lung cancer
+EGFR inhibitors	can be used to target	EGFR mutation in lung cancer
+pulmonologist	specializes in treating	lung cancer
+tobacco cessation	is important for preventing	lung cancer
+biomarker testing	is crucial for targeted therapy in	lung cancer
+carcinogens	can cause	cancer of bronchus
+CT scans	are used for screening	lung cancer
+bronchoscopy	is a procedure to diagnose	cancer of bronchus
+pleural effusion	can be a complication of	lung cancer
+mesothelioma	is a type of cancer linked to	asbestos exposure
+immunocompromised patients	are at higher risk for	lung cancer
+immunohistochemistry	is used to classify	lung cancer subtypes
+early detection	improves outcomes for	lung cancer
+pulmonary rehabilitation	can benefit patients with	lung cancer
+PD-L1 expression	is a predictor of response to	immunotherapy in lung cancer
+oncogenic drivers	can drive the growth of	lung cancer
+cancer care coordinator	helps coordinate treatment for	lung cancer patients
+air pollution	is a risk factor for	lung cancer
+secondhand smoke	exposure increases the risk of	lung cancer
+TNM staging	is used to stage	lung cancer
+lung cancer screening	is recommended for high-risk individuals
+ALK inhibitors	target the ALK gene in	lung cancer
+carcinoid tumors	are a subtype of	lung cancer
+lobectomy	is a surgical treatment for	non-small cell lung cancer
+irreversible electroporation	is a minimally invasive treatment for	lung cancer
+targeted therapy	aims to block specific molecules in	lung cancer cells
+coughing up blood	is a symptom of	lung cancer
+radiation oncologist	specializes in delivering	radiation therapy for lung cancer
+genetic counseling	is recommended for	lung cancer patients with family history
+hypoxia	can occur in	lung cancer
+carboplatin	is a chemotherapy drug used in	lung cancer treatment
+apoptosis	is a process targeted in	lung cancer therapy
+thoracic surgeon	performs surgical procedures for	lung cancer
+tumor lysis syndrome	can occur as a complication of	lung cancer treatment
+nivolumab	is an immunotherapy drug for	lung cancer
+cytology	is used to analyze	lung cancer cells
+stage IV lung cancer	has a poor prognosis
+multidisciplinary team	collaborates to develop treatment plans for	lung cancer patients
+cachexia	is a symptom of advanced	lung cancer
+radiation pneumonitis	can occur as a side effect of	lung cancer radiation therapy
+EGFR inhibitors	can cause	skin rash in lung cancer patients
+epidemiological studies	provide insights into	lung cancer risk factors
+tumor board	discusses treatment options for	lung cancer patients
+statins	may have a role in	lung cancer prevention
+cytotoxic chemotherapy	targets rapidly dividing cells in	lung cancer
+pericardial effusion	can be a complication of	lung cancer
+microRNA	are being studied as potential biomarkers for	lung cancer
+immunogenicity	influences response to	immunotherapy in lung cancer
+tumor suppressor genes	are inactivated in	lung cancer development
+neoadjuvant therapy	is used before	lung cancer surgery
+TNF-alpha inhibitors	may have a role in	lung cancer treatment
+radiofrequency ablation	is a local treatment for	lung cancer
+ethnicity	can impact the incidence of	lung cancer
+telomerase	is overexpressed in	lung cancer cells
+liquid biopsy	can detect	lung cancer mutations
+toxicity management	is important in	lung cancer treatment
+physical therapy	can improve function in	lung cancer survivors
+angiogenesis	plays a role in	lung cancer progression
+circulating tumor cells	can indicate	lung cancer metastasis
+quality of life	is a consideration in	lung cancer treatment
+rotating night shift work	is associated with an increased risk of	lung cancer
+prophylactic cranial irradiation	can prevent	brain metastases in lung cancer patients
+tumor microenvironment	influences	lung cancer growth
+palliative radiation therapy	can alleviate symptoms in	lung cancer patients
+NSCLC	accounts for the majority of	lung cancer cases
+cytotoxic T cells	can recognize and destroy	lung cancer cells
+sputum cytology	is used to detect	lung cancer cells
+preoperative assessment	is important for	lung cancer surgery
+myeloid-derived suppressor cells	contribute to	lung cancer immune evasion
+vascular invasion	is associated with poor prognosis in	lung cancer
+perioperative care	is essential for	lung cancer surgery
+exercise training	can improve outcomes for	lung cancer patients
+cancer survivors	may experience late effects of	lung cancer treatment
+hyponatremia	can occur in	advanced lung cancer
+endobronchial ultrasound	is used in the diagnosis of	lung cancer
+angiotensin converting enzyme inhibitors	may have a potential role in	lung cancer treatment
+pneumonitis	is a side effect of	immunotherapy in lung cancer
+cancer stem cells	contribute to	lung cancer recurrence
+chemoprevention	strategies aim to reduce the risk of	lung cancer
+symptom management	is important for	lung cancer patients
+cachexia	is associated with	poor prognosis in lung cancer patients

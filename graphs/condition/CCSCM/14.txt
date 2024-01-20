@@ -1,0 +1,140 @@
+cancer of colon	is a type of	colorectal cancer
+colonoscopy	is used for	diagnosing cancer of colon
+surgery	is a treatment for	cancer of colon
+chemotherapy	is used for	treating cancer of colon
+cancer of colon	may metastasize to	liver
+cancer of colon	may cause	intestinal obstruction
+5-fluorouracil	is a type of	chemotherapy for cancer of colon
+cancer of colon	has a high	mortality rate
+cancer of colon	can be diagnosed using	CEA blood test
+family history	is a risk factor for	cancer of colon
+cancer of colon	is more common in	older adults
+genetic mutations	can increase the risk of	cancer of colon
+cancer of colon	may lead to	anemia
+cancer of colon	is associated with	lifestyle factors
+cancer of colon	can result in	weight loss
+colonoscopy	is also a method for	screening for cancer of colon
+cancer of colon	can be staged using	TNM system
+radiation therapy	is used in	combination with surgery for cancer of colon
+aspirin	may reduce the risk of	cancer of colon
+regular exercise	may lower the risk of	cancer of colon
+cancer of colon	has a high possibility of	recurrence
+cancer of colon	can lead to	metastatic spread
+cancer of colon	is characterized by	change in bowel habits
+cancer of colon	has a higher incidence in	developed countries
+cancer of colon	can cause	abdominal pain
+cancer of colon	has a survival rate that depends on	the stage at diagnosis
+cancer of colon	is associated with	smoking
+obesity	is a risk factor for	cancer of colon
+cancer of colon	has a screening recommendation of	starting at age 45 for average-risk individuals
+cancer of colon	is more common in	men
+cancer of colon	can result in	obstruction of the bowel
+cancer of colon	may require	colostomy
+cancer of colon	is associated with	inflammatory bowel disease
+cancer of colon	is linked to	diet high in red and processed meats
+cancer of colon	has a lower incidence in	Asian countries
+regular screening	can help in	early detection of cancer of colon
+cancer of colon	may present with	rectal bleeding
+older age	is a risk factor for	cancer of colon
+cancer of colon	has a survival rate that is higher when	diagnosed at an earlier stage
+cancer of colon	can lead to	fatigue
+cancer of colon	may spread to	lymph nodes
+cancer of colon	is associated with	Lynch syndrome
+selenium	is a mineral that may reduce the risk of	cancer of colon
+regular screening	is recommended for	individuals with a family history of cancer of colon
+inflammatory bowel disease	increases the risk of	cancer of colon
+cancer of colon	has a higher incidence in	African Americans
+cancer of colon	can be hereditary
+cancer of colon	has a higher risk in	individuals with a personal history of colorectal cancer
+radiation therapy	can be used as	adjuvant therapy for cancer of colon
+cancer of colon	may lead to	changes in stool consistency
+cancer of colon	can be classified as	adenocarcinoma
+cancer of colon	is associated with	Lynch syndrome
+aspirin	may reduce the risk of	cancer of colon
+regular exercise	may lower the risk of	cancer of colon
+cancer of colon	has a high possibility of	recurrence
+cancer of colon	can lead to	metastatic spread
+cancer of colon	is characterized by	change in bowel habits
+cancer of colon	has a higher incidence in	developed countries
+cancer of colon	can cause	abdominal pain
+cancer of colon	may require	colostomy
+cancer of colon	is associated with	inflammatory bowel disease
+cancer of colon	is linked to	diet high in red and processed meats
+cancer of colon	has a lower incidence in	Asian countries
+regular screening	can help in	early detection of cancer of colon
+cancer of colon	may present with	rectal bleeding
+older age	is a risk factor for	cancer of colon
+cancer of colon	has a survival rate that is higher when	diagnosed at an earlier stage
+cancer of colon	can lead to	fatigue
+cancer of colon	may spread to	lymph nodes
+cancer of colon	is associated with	Lynch syndrome
+selenium	is a mineral that may reduce the risk of	cancer of colon
+regular screening	is recommended for	individuals with a family history of cancer of colon
+inflammatory bowel disease	increases the risk of	cancer of colon
+cancer of colon	has a higher incidence in	African Americans
+cancer of colon	can be hereditary
+cancer of colon	has a higher risk in	individuals with a personal history of colorectal cancer
+radiation therapy	can be used as	adjuvant therapy for cancer of colon
+cancer of colon	may lead to	changes in stool consistency
+cancer of colon	can be classified as	adenocarcinoma
+cancer of colon	is associated with	Lynch syndrome
+cancer of colon	may develop from	pre-cancerous polyps
+cancer of colon	can be prevented through	screening and removal of polyps
+cancer of colon	is more likely to occur in	individuals with a sedentary lifestyle
+cancer of colon	may be asymptomatic in	early stages
+cancer of colon	has a worse prognosis when	diagnosed at a later stage
+cancer of colon	has a higher incidence in	individuals with type 2 diabetes
+cancer of colon	can be influenced by	dietary factors
+cancer of colon	is less common in	individuals with high fiber diet
+cancer of colon	can result in	bowel perforation
+cancer of colon	has a lower survival rate in	individuals with comorbidities
+cancer of colon	is associated with	Lynch syndrome
+cancer of colon	is more common in	individuals with obesity
+cancer of colon	may be linked to	consumption of alcohol
+cancer of colon	has a lower incidence in	individuals with regular physical activity
+prolonged use of non-steroidal anti-inflammatory drugs	may lower the risk of	cancer of colon
+a diet rich in fruits and vegetables	can decrease the risk of	cancer of colon
+aspirin	may reduce the risk of	cancer of colon
+regular exercise	may lower the risk of	cancer of colon
+cancer of colon	has a high possibility of	recurrence
+cancer of colon	can lead to	metastatic spread
+cancer of colon	is characterized by	change in bowel habits
+cancer of colon	has a higher incidence in	developed countries
+cancer of colon	can cause	abdominal pain
+cancer of colon	may require	colostomy
+cancer of colon	is associated with	inflammatory bowel disease
+cancer of colon	is linked to	diet high in red and processed meats
+cancer of colon	has a lower incidence in	Asian countries
+regular screening	can help in	early detection of cancer of colon
+cancer of colon	may present with	rectal bleeding
+older age	is a risk factor for	cancer of colon
+cancer of colon	has a survival rate that is higher when	diagnosed at an earlier stage
+cancer of colon	can lead to	fatigue
+cancer of colon	may spread to	lymph nodes
+cancer of colon	is associated with	Lynch syndrome
+selenium	is a mineral that may reduce the risk of	cancer of colon
+regular screening	is recommended for	individuals with a family history of cancer of colon
+inflammatory bowel disease	increases the risk of	cancer of colon
+cancer of colon	has a higher incidence in	African Americans
+cancer of colon	can be hereditary
+cancer of colon	has a higher risk in	individuals with a personal history of colorectal cancer
+radiation therapy	can be used as	adjuvant therapy for cancer of colon
+cancer of colon	may lead to	changes in stool consistency
+cancer of colon	can be classified as	adenocarcinoma
+cancer of colon	is associated with	Lynch syndrome
+cancer of colon	may develop from	pre-cancerous polyps
+cancer of colon	can be prevented through	screening and removal of polyps
+cancer of colon	is more likely to occur in	individuals with a sedentary lifestyle
+cancer of colon	may be asymptomatic in	early stages
+cancer of colon	has a worse prognosis when	diagnosed at a later stage
+cancer of colon	has a higher incidence in	individuals with type 2 diabetes
+cancer of colon	can be influenced by	dietary factors
+cancer of colon	is less common in	individuals with high fiber diet
+cancer of colon	can result in	bowel perforation
+cancer of colon	has a lower survival rate in	individuals with comorbidities
+cancer of colon	is associated with	Lynch syndrome
+cancer of colon	is more common in	individuals with obesity
+cancer of colon	may be linked to	consumption of alcohol
+cancer of colon	has a lower incidence in	individuals with regular physical activity
+prolonged use of non-steroidal anti-inflammatory drugs	may lower the risk of	cancer of colon
+a diet rich in fruits and vegetables	can decrease the risk of	cancer of colon

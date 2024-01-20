@@ -1,0 +1,97 @@
+conditions	can cause	dizziness
+dizziness	can lead to	falls
+vertigo	is a type of	dizziness
+inner ear infection	is a cause of	vertigo
+Meniere's disease	is a type of	inner ear disorder
+age	is a risk factor for	inner ear disorders
+medication	can cause	dizziness
+antibiotics	are a type of	medication
+dehydration	can lead to	dizziness
+low blood pressure	can cause	dizziness
+heart disease	can lead to	dizziness
+anemia	can cause	dizziness
+stroke	can cause	vertigo
+head injury	can lead to	vertigo
+anxiety	can cause	dizziness
+diabetes	can lead to	dizziness
+earwax buildup	can cause	vertigo
+motion sickness	can cause	dizziness
+brain tumor	can lead to	vertigo
+Parkinson's disease	can cause	dizziness
+migraine	can cause	vertigo
+pregnancy	can lead to	dizziness
+alcohol consumption	can cause	dizziness
+smoking	can lead to	dizziness
+caffeine	can cause	dizziness
+multiple sclerosis	can lead to	vertigo
+autoimmune disorders	can cause	dizziness
+Vestibular Rehabilitation Therapy	is a treatment for	vertigo
+antihistamines	can help with	dizziness
+balance exercises	can help with	dizziness
+ENT specialist	is a doctor who treats	vertigo
+hearing loss	is a symptom of	inner ear disorders
+MRI	can diagnose	brain tumor
+blood pressure medication	can cause	dizziness
+geriatric assessment	evaluates	risk factors for falls
+physical therapy	can help with	vertigo
+Vitamin B12 deficiency	can cause	dizziness
+benign paroxysmal positional vertigo	is a type of	vertigo
+alzheimer's disease	can cause	dizziness
+thyroid disorders	can lead to	vertigo
+sedatives	can cause	dizziness
+benzodiazepines	are a type of	sedative
+SSRI antidepressants	can cause	dizziness
+sinus infection	can lead to	dizziness
+barotrauma	can cause	vertigo
+glaucoma	can lead to	dizziness
+HIV/AIDS	can cause	dizziness
+lyme disease	can lead to	vertigo
+electrolyte imbalance	can cause	dizziness
+tinnitus	can be a symptom of	inner ear disorders
+neurologist	can diagnose	multiple sclerosis
+rheumatologist	can diagnose	autoimmune disorders
+otolaryngologist	can diagnose	ear disorders
+audiologist	can diagnose	hearing loss
+eye exam	can detect	glaucoma
+blood tests	can detect	Vitamin B12 deficiency
+frequent falls	should be evaluated for	dizziness
+labyrinthitis	is a type of	inner ear disorder
+vestibular migraine	is a type of	migraine
+vascular dementia	can cause	dizziness
+concussion	can lead to	vertigo
+seizures	can cause	dizziness
+antivertigo medication	can help with	vertigo
+pharmacogenomic testing	can guide	medication choices for dizziness
+neurological exam	can evaluate	Parkinson's disease
+cervical vertigo	can cause	dizziness
+cerebellar ataxia	can cause	vertigo
+ENT surgery	can treat	inner ear disorders
+stress	can lead to	dizziness
+genetic testing	can identify	risk for certain inner ear disorders
+health history	can reveal	risk factors for dizziness
+balance testing	can evaluate	risk of falls
+vestibular evoked myogenic potentials	test for	inner ear disorders
+altered mental status	can be a sign of	stroke
+hearing aids	can improve	hearing loss
+Meniere's Society	provides support for	individuals with Meniere's disease
+balance disorders support group	can provide support for	individuals with vertigo
+medication review	can identify	potential causes of dizziness
+blood pressure monitoring	can track	risk factors for dizziness
+cognitive behavioral therapy	can help with	anxiety-related dizziness
+hypertension	can cause	dizziness
+labyrinthine concussion	is a type of	concussion
+vestibular suppressant medication	can help with	vertigo
+balance training	can improve	balance disorders
+sinus pressure	can cause	dizziness
+ototoxicity	can lead to	hearing loss
+prolonged bed rest	can lead to	dizziness
+electrocardiogram	can evaluate	risk of heart disease
+medication side effects	can cause	dizziness
+vestibular neuritis	is a type of	inner ear disorder
+gastrointestinal issues	can lead to	dizziness
+infectious diseases	can cause	vertigo
+anti-vertigo exercises	can help with	vertigo
+vestibular diagnostic testing	can evaluate	inner ear disorders
+fall prevention education	can reduce	risk of falls
+motion-sickness medication	can help with	dizziness
+psychotherapy	can help with	stress-related dizziness

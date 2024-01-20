@@ -1,0 +1,18 @@
+disorders of lipid metabolism	can lead to	atherosclerosis
+atherosclerosis	is a risk factor for	cardiovascular disease
+cardiovascular disease	leads to	high blood pressure
+high blood pressure	is treated with	antihypertensive drugs
+antihypertensive drugs	can cause	electrolyte imbalances
+electrolyte imbalances	may lead to	arrhythmias
+arrhythmias	can result in	heart failure
+heart failure	is a cause of	hospital readmission
+hospital readmission	is associated with	increased healthcare costs
+increased healthcare costs	can lead to	financial burden on patients
+financial burden on patients	is a predictor of	medication non-adherence
+medication non-adherence	leads to	increased risk of complications
+increased risk of complications	results in	poor health outcomes
+poor health outcomes	contribute to	mortality
+mortality	is a measure of	healthcare quality
+healthcare quality	affects	hospital rankings
+hospital rankings	influence	patient choice
+patient choice	impacts	hospital revenue

@@ -1,0 +1,84 @@
+e codes	are used to classify	external causes of injury
+e codes	can include	struck by incidents
+struck by	is a type of	external cause of injury
+e codes	can also include	against incidents
+against	is another type of	external cause of injury
+e codes	help in	injury surveillance
+injury surveillance	is important for	public health
+e codes	are used for	epidemiological studies
+epidemiological studies	help in	understanding injury patterns
+e codes	are part of	ICD-10 coding system
+ICD-10 coding system	is used for	medical billing
+medical billing	is important for	healthcare reimbursement
+e codes	are crucial for	injury research
+injury research	contributes to	injury prevention
+e codes	facilitate	injury prevention programs
+injury prevention programs	aim to	reduce injury rates
+e codes	assist in	injury management
+injury management	is crucial for	patient care
+e codes	are essential for	injury reporting
+injury reporting	helps in	public policy decisions
+e codes	are required for	accurate injury documentation
+accurate injury documentation	is necessary for	legal purposes
+e codes	play a key role in	injury epidemiology
+injury epidemiology	provides data for	public health interventions
+e codes	contribute to	injury control
+injury control	is important for	community safety
+e codes	feed into	injury statistics
+injury statistics	inform	healthcare planning
+e codes	are used in	trauma registries
+trauma registries	aid in	monitoring injury trends
+e codes	assist in	injury severity classification
+injury severity classification	guides	treatment decisions
+e codes	are used in	injury risk assessment
+injury risk assessment	helps in	preventive healthcare
+e codes	contribute to	injury analysis
+injury analysis	informs	public health policies
+e codes	play a role in	injury surveillance systems
+injury surveillance systems	support	injury prevention efforts
+e codes	are integral to	injury research
+injury research	informs	evidence-based medicine
+e codes	are necessary for	injury coding
+injury coding	is essential for	healthcare statistics
+e codes	are utilized in	injury databases
+injury databases	support	research studies
+e codes	are part of	injury documentation process
+injury documentation process	helps in	healthcare decision-making
+e codes	are a tool for	injury analysis
+injury analysis	informs	public health initiatives
+e codes	are used to	record external causes of injury
+recorded external causes of injury	aid in	injury management
+e codes	provide	valuable injury data
+valuable injury data	informs	injury prevention strategies
+e codes	are important for	public health surveillance
+public health surveillance	guides	public health policies
+e codes	assist in	injury coding
+injury coding	supports	clinical decision-making
+e codes	are critical for	injury classification
+injury classification	informs	injury prevention efforts
+e codes	are utilized in	injury analysis
+injury analysis	helps in	understanding injury patterns
+e codes	contribute to	injury reporting
+injury reporting	aids in	public health decision-making
+e codes	are used for	injury documentation
+injury documentation	is important for	healthcare planning
+e codes	play a role in	injury surveillance
+injury surveillance	informs	injury prevention strategies
+e codes	are a component of	injury epidemiology
+injury epidemiology	provides data for	public health interventions
+e codes	are vital for	injury research
+injury research	contributes to	evidence-based medicine
+e codes	are essential for	injury coding
+injury coding	supports	healthcare statistics
+e codes	feed into	injury databases
+injury databases	aid in	injury analysis
+e codes	support	injury documentation
+injury documentation	guides	public health policies
+e codes	are instrumental in	injury surveillance systems
+injury surveillance systems	support	injury prevention efforts
+e codes	are crucial for	injury classification
+injury classification	aids in	understanding injury patterns
+e codes	are used in	injury analysis
+injury analysis	informs	injury prevention strategies
+e codes	provide	valuable injury data
+valuable injury data	aids in	injury reporting

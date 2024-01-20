@@ -1,0 +1,111 @@
+cancer of prostate	is a	malignant disease
+cancer of prostate	is common in	elderly men
+prostate-specific antigen	is a test for	cancer of prostate
+androgen deprivation therapy	is a treatment for	cancer of prostate
+radical prostatectomy	is a surgical treatment for	cancer of prostate
+metastasis	is common in	cancer of prostate
+cancer of prostate	may lead to	urinary symptoms
+cancer of prostate	is associated with	high levels of calcium
+bone pain	is a symptom of	cancer of prostate
+chemotherapy	is a treatment for	advanced cancer of prostate
+hormone therapy	is a treatment for	metastatic cancer of prostate
+cancer of prostate	has a risk of	recurrence after treatment
+cancer of prostate	may be detected by	digital rectal examination
+prostatectomy	is a surgical procedure for	cancer of prostate
+cancer of prostate	is linked to	family history
+biopsy	is a diagnostic tool for	cancer of prostate
+cancer of prostate	is often slow-growing
+cancer of prostate	may cause	erectile dysfunction
+advanced cancer of prostate	can be managed with	palliative care
+cancer of prostate	has a risk of	lymph node involvement
+cancer of prostate	may lead to	obstruction of the urinary tract
+radiotherapy	is a treatment for	localized cancer of prostate
+cancer of prostate	has a risk of	bone metastasis
+cancer of prostate	can lead to	anemia
+cancer of prostate	may involve	the seminal vesicles
+cancer of prostate	may spread to	the bladder
+cancer of prostate	is associated with	African American ethnicity
+cancer of prostate	has a risk of	developing resistance to hormone therapy
+cancer of prostate	is often asymptomatic in	early stages
+cancer of prostate	is linked to	obesity
+cancer of prostate	has a risk of	developing castration-resistant prostate cancer
+cancer of prostate	may cause	hematuria
+cancer of prostate	may be classified as	low	intermediate	or high risk
+cancer of prostate	is monitored using	prostate-specific antigen levels
+cancer of prostate	may be managed with	active surveillance
+cancer of prostate	is influenced by	androgens
+cancer of prostate	has a risk of	treatment-related side effects
+cancer of prostate	is more common in	developed countries
+cancer of prostate	can develop in	prostatic intraepithelial neoplasia
+cancer of prostate	has a risk of	developing neuroendocrine features
+cancer of prostate	may have	genetic predisposition
+cancer of prostate	may recur after	radiation therapy
+cancer of prostate	is sensitive to	androgen receptor inhibitors
+cancer of prostate	can be detected using	magnetic resonance imaging
+cancer of prostate	has a risk of	local recurrence
+cancer of prostate	is associated with	increased age
+cancer of prostate	may be multifocal
+cancer of prostate	is influenced by	diet and lifestyle
+cancer of prostate	is associated with	occupational exposure to cadmium
+cancer of prostate	is related to	inflammation of the prostate
+cancer of prostate	has a risk of	developing prostatitis
+cancer of prostate	can be categorized as	clinically significant or insignificant
+cancer of prostate	may present with	lower urinary tract symptoms
+cancer of prostate	is correlated with	high testosterone levels
+cancer of prostate	may be managed with	watchful waiting
+cancer of prostate	is influenced by	genetic mutations
+cancer of prostate	is tested using	Gleason score
+cancer of prostate	is associated with	exposure to pesticides
+cancer of prostate	can be treated with	chemotherapy or immunotherapy
+cancer of prostate	may have a	family history of cancer
+cancer of prostate	can be monitored through	active surveillance
+cancer of prostate	is correlated with	vitamin D deficiency
+cancer of prostate	has a risk of	metastasis to the lymph nodes
+cancer of prostate	may cause	pelvic pain
+cancer of prostate	is related to	androgen receptor signaling pathway
+cancer of prostate	has a risk of	overdiagnosis and overtreatment
+cancer of prostate	may be associated with	exposure to agent orange
+cancer of prostate	can be characterized based on	molecular subtypes
+cancer of prostate	is diagnosed using	transrectal ultrasound-guided biopsy
+cancer of prostate	is associated with	exposure to estrogen
+cancer of prostate	has a risk of	developing resistance to androgen deprivation therapy
+cancer of prostate	may result in	loss of libido
+cancer of prostate	is correlated with	high body mass index
+cancer of prostate	may be detected through	digital rectal examination
+cancer of prostate	is influenced by	inflammation and oxidative stress
+cancer of prostate	may have	regional lymph node involvement
+cancer of prostate	is linked to	BRCA gene mutations
+cancer of prostate	has a risk of	biochemical recurrence
+cancer of prostate	may be related to	exposure to heavy metals
+cancer of prostate	can be associated with	hereditary prostate cancer
+cancer of prostate	is associated with	high-fat diet
+cancer of prostate	has a risk of	developing castration-resistant disease
+cancer of prostate	may recur locally after	radical prostatectomy
+cancer of prostate	is linked to	chronic prostatitis
+cancer of prostate	may be detected through	magnetic resonance imaging
+cancer of prostate	can be treated with	radiotherapy and hormone therapy
+cancer of prostate	is correlated with	occupational exposure to rubber
+cancer of prostate	has a risk of	developing androgen-independent disease
+cancer of prostate	may be affected by	inflammation of the urogenital tract
+cancer of prostate	is associated with	high calcium intake
+cancer of prostate	can be influenced by	exposure to bisphenol A
+cancer of prostate	can have	nodal involvement
+cancer of prostate	is associated with	metabolic syndrome
+cancer of prostate	has a risk of	developing castration-resistant prostate cancer
+cancer of prostate	may metastasize to	the bones
+cancer of prostate	can be managed using	chemotherapy and immunotherapy
+cancer of prostate	is influenced by	androgen receptor expression
+cancer of prostate	is linked to	family history of prostate cancer
+cancer of prostate	may recur after	androgen deprivation therapy
+cancer of prostate	is associated with	high saturated fat intake
+cancer of prostate	has a risk of	developing bone metastases
+cancer of prostate	may cause	urinary retention
+cancer of prostate	is related to	exposure to cadmium in the environment
+cancer of prostate	has a risk of	developing neuroendocrine differentiation
+cancer of prostate	can be associated with	germline mutations
+cancer of prostate	is influenced by	cigarette smoking
+cancer of prostate	may be associated with	exposure to herbicides
+cancer of prostate	is correlated with	vitamin D insufficiency
+cancer of prostate	may have	perineural invasion
+cancer of prostate	is associated with	high red meat consumption
+cancer of prostate	has a risk of	developing distant metastases

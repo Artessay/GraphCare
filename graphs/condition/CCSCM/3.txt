@@ -1,0 +1,91 @@
+bacterial infection	is caused by	bacteria
+antibiotics	are used to treat	bacterial infection
+bacterial infection	can lead to	sepsis
+bacterial infection	may result in	hospitalization
+bacterial infection	increase the risk of	antibiotic resistance
+bacterial infection	can be diagnosed with	blood culture
+bacterial infection	can cause	fever
+bacterial infection	may be associated with	pneumonia
+bacterial infection	is linked to	high white blood cell count
+bacterial infection	requires	prompt treatment
+bacterial infection	can result in	septic shock
+bacterial infection	is associated with	increased mortality rate
+bacterial infection	can lead to	organ failure
+bacterial infection	can be prevented with	proper hygiene
+bacterial infection	can be transmitted through	contaminated food or water
+bacterial infection	may require	surgical intervention
+bacterial infection	causes	inflammation
+bacterial infection	may lead to	abscess formation
+bacterial infection	can be caused by	staphylococcus bacteria
+bacterial infection	can lead to	cellulitis
+bacterial infection	can be treated with	intravenous antibiotics
+bacterial infection	can result in	septicemia
+bacterial infection	can lead to	meningitis
+bacterial infection	can be managed with	supportive care
+bacterial infection	can be prevented by	vaccination
+bacterial infection	may cause	septic arthritis
+bacterial infection	can be detected through	urine culture
+bacterial infection	can be transmitted through	sexual contact
+bacterial infection	is associated with	fever and chills
+bacterial infection	can lead to	endocarditis
+bacterial infection	is commonly found in	hospitals
+bacterial infection	can be diagnosed using	PCR testing
+bacterial infection	can result in	septic embolism
+bacterial infection	can be caused by	Escherichia coli
+bacterial infection	is usually treated with	broad-spectrum antibiotics
+bacterial infection	can be identified with	wound culture
+bacterial infection	can be prevented by	proper food handling
+bacterial infection	can result in	septic shock
+bacterial infection	can be transmitted through	respiratory droplets
+bacterial infection	may lead to	peritonitis
+bacterial infection	can be diagnosed with	imaging studies
+bacterial infection	can be transmitted through	contaminated surfaces
+bacterial infection	can be caused by	salmonella bacteria
+bacterial infection	is associated with	elevated C-reactive protein levels
+bacterial infection	can be transmitted through	animal bites
+bacterial infection	can result in	septic arthritis
+bacterial infection	can be diagnosed with	stool culture
+bacterial infection	can be transmitted through	fecal-oral route
+bacterial infection	can cause	septic thrombophlebitis
+bacterial infection	can be transmitted through	vectors such as ticks or fleas
+bacterial infection	can be acquired in	community settings
+bacterial infection	can be transmitted through	contaminated needles
+bacterial infection	can result in	septic ileus
+bacterial infection	can be diagnosed with	spinal tap
+bacterial infection	can be transmitted through	insect bites
+bacterial infection	can lead to	septic retinitis
+bacterial infection	can be transmitted through	open wounds
+bacterial infection	can be diagnosed with	sputum culture
+bacterial infection	can be transmitted through	contact with infected individuals
+bacterial infection	can be caused by	Streptococcus bacteria
+bacterial infection	is more common in	immunocompromised individuals
+bacterial infection	can be transmitted through	breastfeeding
+bacterial infection	can result in	septic nephritis
+bacterial infection	can be diagnosed with	skin swab culture
+bacterial infection	can be transmitted through	contaminated medical devices
+bacterial infection	can lead to	septic pericarditis
+bacterial infection	can be transmitted through	contaminated environmental surfaces
+bacterial infection	is associated with	leukocytosis
+bacterial infection	can be diagnosed with	synovial fluid analysis
+bacterial infection	can be transmitted through	vertical transmission from mother to child
+bacterial infection	can cause	septic encephalitis
+bacterial infection	can be transmitted through	close personal contact
+bacterial infection	can be diagnosed with	ear swab culture
+bacterial infection	can be transmitted through	mucous membrane contact
+bacterial infection	can lead to	septic cystitis
+bacterial infection	can be diagnosed with	gastrointestinal fluid culture
+bacterial infection	can be transmitted through	contaminated medical instruments
+bacterial infection	can cause	septic skin lesions
+bacterial infection	can be transmitted through	blood transfusions
+bacterial infection	is associated with	prolonged hospital stays
+bacterial infection	can be diagnosed with	eye swab culture
+bacterial infection	can be transmitted through	genital secretions
+bacterial infection	can lead to	septic osteomyelitis
+bacterial infection	can be diagnosed with	respiratory secretions culture
+bacterial infection	can be transmitted through	airborne transmission
+bacterial infection	can cause	septic gastroenteritis
+bacterial infection	can be transmitted through	contaminated water sources
+bacterial infection	can result in	septic hepatitis
+bacterial infection	can be diagnosed with	cerebrospinal fluid culture
+bacterial infection	can be transmitted through	skin-to-skin contact
+bacterial infection	can lead to	septic endometritis

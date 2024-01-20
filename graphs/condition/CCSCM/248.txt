@@ -1,0 +1,12 @@
+gangrene	is a result of	tissue death
+diabetes	is a risk factor for	gangrene
+gangrene	can lead to	amputation
+gangrene	is caused by	bacterial infection
+hyperbaric oxygen therapy	is a treatment for	gangrene
+gangrene	can lead to	sepsis
+smoking	increases the risk of	gangrene
+gangrene	can cause	necrosis
+arterial embolism	can cause	gangrene
+gangrene	requires	surgical debridement
+gangrene	can lead to	death
+gangrene	is classified as	dry or wet

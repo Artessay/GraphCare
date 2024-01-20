@@ -1,0 +1,104 @@
+other and ill-defined heart disease	is a type of	cardiovascular disease
+other and ill-defined heart disease	can lead to	heart failure
+hypertension	is a risk factor for	other and ill-defined heart disease
+other and ill-defined heart disease	is diagnosed using	echocardiogram
+diuretics	are prescribed for	other and ill-defined heart disease
+beta-blockers	are prescribed for	other and ill-defined heart disease
+other and ill-defined heart disease	increases the risk of	stroke
+other and ill-defined heart disease	can result in	arrhythmia
+statins	are used to manage	other and ill-defined heart disease
+coronary artery disease	is often a cause of	other and ill-defined heart disease
+other and ill-defined heart disease	is associated with	high cholesterol levels
+aspirin	is recommended for prevention of	other and ill-defined heart disease
+obesity	is a risk factor for	other and ill-defined heart disease
+physical inactivity	increases the risk of	other and ill-defined heart disease
+smoking	increases the risk of	other and ill-defined heart disease
+family history	is a risk factor for	other and ill-defined heart disease
+stress	can exacerbate	other and ill-defined heart disease
+pulmonary edema	can result from	other and ill-defined heart disease
+exercise	is recommended for managing	other and ill-defined heart disease
+myocardial infarction	is a potential complication of	other and ill-defined heart disease
+other and ill-defined heart disease	can cause	cardiac arrest
+sleep apnea	is associated with	other and ill-defined heart disease
+obstructive hypertrophic cardiomyopathy	is a type of	other and ill-defined heart disease
+other and ill-defined heart disease	is a common cause of	hospital readmissions
+angiotensin-converting enzyme inhibitors	are commonly used for	other and ill-defined heart disease
+other and ill-defined heart disease	can lead to	cardiomyopathy
+atherosclerosis	is a contributor to	other and ill-defined heart disease
+coronary artery bypass grafting	is a surgical treatment for	other and ill-defined heart disease
+other and ill-defined heart disease	is a leading cause of	morbidity
+diabetes	increases the risk of	other and ill-defined heart disease
+other and ill-defined heart disease	can be managed with	lifestyle modifications
+aortic stenosis	is a potential cause of	other and ill-defined heart disease
+other and ill-defined heart disease	is a common reason for	hospital admissions
+pericarditis	may be a complication of	other and ill-defined heart disease
+cardiogenic shock	can occur in	other and ill-defined heart disease
+other and ill-defined heart disease	causes	reduced cardiac output
+cerebrovascular disease	is linked to	other and ill-defined heart disease
+chronic kidney disease	is a risk factor for	other and ill-defined heart disease
+atrial fibrillation	is commonly associated with	other and ill-defined heart disease
+other and ill-defined heart disease	is a significant risk factor for	mortality
+sepsis	can lead to	other and ill-defined heart disease
+left ventricular hypertrophy	is a common finding in	other and ill-defined heart disease
+dyslipidemia	is often seen in patients with	other and ill-defined heart disease
+other and ill-defined heart disease	is a major cause of	disability
+chronic obstructive pulmonary disease	can exacerbate	other and ill-defined heart disease
+peripheral vascular disease	is correlated with	other and ill-defined heart disease
+acute myocardial infarction	is a potential complication of	other and ill-defined heart disease
+other and ill-defined heart disease	is a common comorbidity in	older adults
+cor pulmonale	can result from	other and ill-defined heart disease
+other and ill-defined heart disease	can lead to	right-sided heart failure
+thromboembolism	is a risk in	other and ill-defined heart disease
+arrhythmogenic right ventricular dysplasia	is a rare type of	other and ill-defined heart disease
+other and ill-defined heart disease	is associated with	left ventricular dysfunction
+other and ill-defined heart disease	increases the risk of	sudden cardiac death
+atrial flutter	can be a complication of	other and ill-defined heart disease
+pulmonary hypertension	is a potential consequence of	other and ill-defined heart disease
+other and ill-defined heart disease	requires	lifelong management
+rheumatic heart disease	is a type of	other and ill-defined heart disease
+other and ill-defined heart disease	is a common cause of	disability-adjusted life years
+heart valve disease	can lead to	other and ill-defined heart disease
+other and ill-defined heart disease	may result in	venous thromboembolism
+aortic regurgitation	can be a complication of	other and ill-defined heart disease
+other and ill-defined heart disease	is a risk factor for	depression
+cardiomyopathy	is a potential complication of	other and ill-defined heart disease
+other and ill-defined heart disease	is linked to	myocarditis
+chronic heart failure	is a consequence of	other and ill-defined heart disease
+other and ill-defined heart disease	is associated with	cognitive decline
+pulmonary embolism	can be a complication of	other and ill-defined heart disease
+other and ill-defined heart disease	increases the risk of	cardiac cachexia
+cardiovascular surgery	may be necessary for	other and ill-defined heart disease
+other and ill-defined heart disease	is a risk factor for	venous stasis
+aortic aneurysm	is a potential complication of	other and ill-defined heart disease
+other and ill-defined heart disease	can lead to	edema
+pericardial effusion	can occur in	other and ill-defined heart disease
+mitral valve disease	can contribute to	other and ill-defined heart disease
+other and ill-defined heart disease	may lead to	myocardial ischemia
+endocarditis	can be a complication of	other and ill-defined heart disease
+other and ill-defined heart disease	can result in	atrial tachycardia
+pulmonic stenosis	is a potential cause of	other and ill-defined heart disease
+other and ill-defined heart disease	is associated with	ventricular arrhythmias
+systemic hypertension	is a risk factor for	other and ill-defined heart disease
+other and ill-defined heart disease	can lead to	chronic venous insufficiency
+cardiogenic shock	is a potential consequence of	other and ill-defined heart disease
+other and ill-defined heart disease	is a risk factor for	peripheral artery disease
+ventricular fibrillation	is a potential complication of	other and ill-defined heart disease
+other and ill-defined heart disease	is linked to	aortic dissection
+other and ill-defined heart disease	is associated with	increased risk of myocardial infarction
+cerebral infarction	can be a consequence of	other and ill-defined heart disease
+other and ill-defined heart disease	is a risk factor for	hyponatremia
+cardiac tamponade	can occur in	other and ill-defined heart disease
+other and ill-defined heart disease	can result in	cardiac rupture
+peripheral artery disease	increases the risk of	other and ill-defined heart disease
+other and ill-defined heart disease	is a potential cause of	ventricular septal defect
+syncope	can be a complication of	other and ill-defined heart disease
+other and ill-defined heart disease	is associated with	development of atherosclerosis
+other and ill-defined heart disease	can lead to	embolism
+ventricular tachycardia	is a potential complication of	other and ill-defined heart disease
+other and ill-defined heart disease	is a risk factor for	deep vein thrombosis
+myocardial depression	can result from	other and ill-defined heart disease
+other and ill-defined heart disease	may cause	peripheral edema
+chronic venous insufficiency	is a potential consequence of	other and ill-defined heart disease
+other and ill-defined heart disease	increases the risk of	postoperative complications
+pericardial tamponade	can occur in	other and ill-defined heart disease
+other and ill-defined heart disease	is a potential cause of	coronary arteritis

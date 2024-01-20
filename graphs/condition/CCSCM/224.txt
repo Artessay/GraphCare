@@ -1,0 +1,13 @@
+other perinatal conditions	include	preterm birth
+preterm birth	increases the risk of	respiratory distress syndrome
+respiratory distress syndrome	can lead to	long-term lung damage
+long-term lung damage	is associated with	reduced lung function
+reduced lung function	is a risk factor for	pneumonia
+pneumonia	can lead to	sepsis
+sepsis	is a life-threatening	condition
+other perinatal conditions	are managed with	neonatal intensive care
+neonatal intensive care	aims to	provide specialized medical treatment
+specialized medical treatment	may include	mechanical ventilation
+mechanical ventilation	is used to	support breathing
+support breathing	is essential for	survival
+survival	is improved with	early detection and treatment

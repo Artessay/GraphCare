@@ -1,0 +1,27 @@
+other upper respiratory infections	can lead to	pneumonia
+pneumonia	can cause	respiratory failure
+respiratory failure	may result in	death
+other upper respiratory infections	are treated with	antibiotics
+antibiotics	can lead to	antibiotic resistance
+antibiotic resistance	can complicate	treatment
+treatment	may include	hospitalization
+hospitalization	increases risk of	nosocomial infections
+nosocomial infections	can lead to	sepsis
+sepsis	can result in	organ failure
+organ failure	increases risk of	mortality
+mortality	can be predicted with	scoring systems
+scoring systems	help to guide	treatment decisions
+treatment decisions	impact	patient outcomes
+patient outcomes	can be improved with	early intervention
+early intervention	relies on	accurate diagnosis
+accurate diagnosis	depends on	clinical presentation
+clinical presentation	may include	fever	cough	and sore throat
+fever	can be treated with	antipyretics
+antipyretics	can reduce	discomfort
+discomfort	may be alleviated with	rest and hydration
+rest	is important for	recovery
+recovery	results in	improved health
+improved health	leads to	decreased healthcare utilization
+decreased healthcare utilization	results in	cost savings
+cost savings	allow for	allocation of resources
+allocation of resources	is essential for	public health

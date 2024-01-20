@@ -1,0 +1,108 @@
+Environmental factors	can cause	asthma
+Air pollution	is linked to	respiratory diseases
+Pollen	can trigger	allergic reactions
+Sunlight	can exacerbate	skin conditions
+Climate change	may increase	vector-borne diseases
+Excessive heat	can lead to	heat stroke
+Indoor mold	is a risk factor for	respiratory infections
+Lead exposure	is associated with	developmental delays
+Radiation	can increase risk of	cancer
+Forest fires	can worsen	respiratory illnesses
+Water contamination	can result in	gastrointestinal diseases
+Extreme weather events	can lead to	injuries
+Noise pollution	contributes to	cardiovascular problems
+Insect bites	can transmit	infectious diseases
+Chemical spills	may cause	toxic exposures
+Soil pollution	can lead to	health issues
+Oil spills	can harm	marine life
+Smog	can worsen	respiratory conditions
+Volcanic eruptions	can lead to	respiratory issues
+Pesticide exposure	is linked to	neurological disorders
+Heavy metals	can lead to	poisoning
+Algal blooms	can produce	toxins
+Desertification	can lead to	food insecurity
+Deforestation	can result in	habitat loss
+Ozone depletion	is linked to	skin cancers
+Global warming	is a risk factor for	heat-related illnesses
+Avalanches	can cause	traumatic injuries
+Flooding	can lead to	waterborne diseases
+Arctic melting	can impact	biodiversity
+Urbanization	is associated with	increased chronic diseases
+Agricultural practices	can affect	food safety
+Wildlife habitat destruction	can lead to	zoonotic diseases
+Plastic pollution	can harm	marine animals
+Overfishing	can lead to	depletion of fish stocks
+Acid rain	can damage	ecosystems
+Melting glaciers	can impact	water resources
+Soil erosion	can result in	decreased crop yields
+Natural disasters	can lead to	displacement and injuries
+Deforestation	can increase	carbon dioxide levels
+Water scarcity	can result in	malnutrition
+Droughts	can lead to	food shortages
+Hurricanes	can cause	destruction and injuries
+Tornadoes	can lead to	property damage
+Earthquakes	can result in	injuries and structural damage
+Tsunamis	can cause	widespread destruction
+Landslides	can lead to	fatalities
+Lightning strikes	can cause	injuries
+Hail storms	can damage	crops and property
+Sandstorms	can lead to	respiratory problems
+Blizzards	can cause	hypothermia
+Heatwaves	can lead to	heat-related illnesses
+Tropical cyclones	can cause	flooding and destruction
+Polar vortex	can result in	extremely low temperatures
+El Niño	can lead to	weather anomalies
+La Niña	can result in	extreme weather events
+Monsoons	can cause	flooding and landslides
+Typhoons	can lead to	destruction and flooding
+Heat islands	can exacerbate	urban heat effect
+Tidal waves	can cause	destruction
+Winter storms	can result in	power outages
+Heat exhaustion	can lead to	dehydration
+Cold snaps	can cause	frostbite
+Dust storms	can lead to	respiratory problems
+Avalanches	can bury	individuals
+Thunderstorms	can cause	property damage
+Hurricanes	can lead to	evacuation orders
+Floods	can result in	contaminated water
+Wildfires	can cause	destruction and air pollution
+Volcanic eruptions	can lead to	volcanic ashfall
+Tornadoes	can cause	destruction
+Landslides	can result in	blocked roads
+Earthquakes	can lead to	building collapses
+Tsunamis	can cause	coastal flooding
+Drought	can lead to	crop failure
+Hurricane	can cause	storm surge
+Heatwaves	can lead to	heat-related illnesses
+Blizzard	can result in	snow accumulation
+Thunderstorm	can cause	lightning
+Heatwave	can lead to	heatstroke
+Forest fire	can cause	air quality issues
+Wildfire	can result in	destruction
+Typhoon	can lead to	flooding and destruction
+Tornado	can cause	high winds
+Monsoon	can result in	heavy rainfall
+Cyclone	can cause	storm surges
+Tsunami	can lead to	coastal flooding
+Avalanche	can cause	snow slides
+Earthquake	can result in	building collapses
+Landslide	can cause	mudslides
+Volcanic eruption	can lead to	ash clouds
+Dust storm	can cause	reduced visibility
+Hailstorm	can result in	property damage
+Winter storm	can cause	icy conditions
+Tidal wave	can lead to	coast flooding
+Sandstorm	can result in	airborne dust
+El Niño	can lead to	weather anomalies
+La Niña	can result in	extreme weather events
+Polar vortex	can lead to	extremely low temperatures
+Drought	can cause	water scarcity
+Heat island	can result in	higher temperatures
+Urban heat effect	can exacerbate	heat-related illnesses
+Winter storm	can cause	power outages
+Thunderstorm	can result in	hail
+Flood	can lead to	water damage
+Heatwave	can cause	heat exhaustion
+Blizzard	can result in	transportation disruptions
+Tornado	can cause	tornado damage
+Hurricane	can lead to	hurricane damage

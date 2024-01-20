@@ -1,0 +1,98 @@
+pleurisy	can cause	pneumothorax
+pneumothorax	may lead to	pulmonary collapse
+pleurisy	is diagnosed by	chest x-ray
+pneumothorax	requires	chest tube insertion
+pulmonary collapse	is treated with	oxygen therapy
+pleurisy	can be a sign of	infection
+pneumothorax	can lead to	respiratory distress
+pulmonary collapse	can lead to	hypoxemia
+pleurisy	may require	anti-inflammatory medication
+pneumothorax	increases the risk of	lung infections
+pulmonary collapse	is a potential complication of	certain medical procedures
+pleurisy	can be caused by	autoimmune conditions
+pneumothorax	is more common in	tall	slender individuals
+pulmonary collapse	can be caused by	trauma
+pleurisy	can result in	pleural effusion
+pneumothorax	is a type of	collapsed lung
+pulmonary collapse	can lead to	respiratory failure
+pleurisy	is associated with	sharp chest pain
+pneumothorax	can be a result of	blunt chest trauma
+pulmonary collapse	can be a complication of	chronic obstructive pulmonary disease (COPD)
+pleurisy	is a symptom of	viral infection
+pneumothorax	can be classified as	spontaneous or traumatic
+pulmonary collapse	can be prevented by	quitting smoking
+pleurisy	may require	thoracentesis
+pneumothorax	has a higher incidence in	smokers
+pulmonary collapse	is more common in	older adults
+pleurisy	can be a manifestation of	connective tissue diseases
+pneumothorax	is associated with	sudden chest pain
+pulmonary collapse	can occur due to	ruptured air blisters in the lungs
+pleurisy	is characterized by	inflammation of the pleura
+pneumothorax	may be asymptomatic in	some cases
+pulmonary collapse	can lead to	atelectasis
+pleurisy	is managed by	treating the underlying cause
+pneumothorax	can be a complication of	medical procedures such as central line insertion
+pulmonary collapse	can lead to	respiratory distress syndrome
+pleurisy	can manifest as	difficulty breathing
+pneumothorax	can be diagnosed using	chest CT scan
+pulmonary collapse	can result in	decreased lung function
+pleurisy	may be relieved by	pain medication
+pneumothorax	requires	close monitoring for signs of tension pneumothorax
+pulmonary collapse	can occur due to	underlying lung diseases
+pleurisy	can be a symptom of	pneumonia
+pneumothorax	is a potential complication of	thoracic surgery
+pulmonary collapse	can be caused by	obstructive lung diseases
+pleurisy	is associated with	pleuritic chest pain
+pneumothorax	can be a result of	underlying lung disease
+pulmonary collapse	can lead to	pulmonary hypertension
+pleurisy	can occur due to	chest trauma
+pneumothorax	can be a complication of	cystic fibrosis
+pulmonary collapse	can be a result of	tumor invasion of the airways
+pleurisy	can be accompanied by	fever
+pneumothorax	may require	surgical intervention
+pulmonary collapse	is a risk in	critically ill patients
+pleurisy	can be a side effect of	certain medications
+pneumothorax	can cause	decreased breath sounds on the affected side
+pulmonary collapse	can lead to	respiratory insufficiency
+pleurisy	can be a feature of	rheumatoid arthritis
+pneumothorax	can be associated with	chronic lung diseases
+pulmonary collapse	can occur due to	lung cancer
+pleurisy	can be a symptom of	pulmonary embolism
+pneumothorax	may lead to	respiratory failure
+pulmonary collapse	can be associated with	chest pain
+pleurisy	can be a result of	pleural tumors
+pneumothorax	is a potential complication of	mechanical ventilation
+pulmonary collapse	can be a sign of	tension pneumothorax
+pleurisy	can be caused by	asbestos exposure
+pneumothorax	can cause	mediastinal shift
+pulmonary collapse	can lead to	sepsis
+pleurisy	can be associated with	lupus
+pneumothorax	can lead to	respiratory compromise
+pulmonary collapse	can be a result of	chronic respiratory failure
+pleurisy	is linked to	smoking
+pneumothorax	can be a recurrence in	some individuals
+pulmonary collapse	can lead to	respiratory arrest
+pleurisy	can result from	pulmonary infarction
+pneumothorax	can be a complication of	tuberculosis
+pulmonary collapse	can lead to	pulmonary fibrosis
+pleurisy	can be accompanied by	pleural friction rub
+pneumothorax	can be a result of	ruptured blebs
+pulmonary collapse	can be a complication of	lung transplantation
+pleurisy	can be associated with	systemic infection
+pneumothorax	is more common in	men
+pulmonary collapse	can lead to	respiratory distress in newborns
+pleurisy	can be caused by	exposure to certain chemicals
+pneumothorax	can be a consequence of	cystic lung disease
+pulmonary collapse	can occur as a result of	barotrauma
+pleurisy	can be related to	musculoskeletal disorders
+pneumothorax	can cause	hypotension
+pulmonary collapse	can lead to	acute respiratory distress syndrome (ARDS)
+pleurisy	can result in	pleural thickening
+pneumothorax	can lead to	cardiovascular collapse
+pulmonary collapse	can be a complication of	bronchial asthma
+pleurisy	can be a feature of	sarcoidosis
+pneumothorax	can result from	chest trauma
+pulmonary collapse	can lead to	pneumomediastinum
+pleurisy	can be a symptom of	systemic lupus erythematosus
+pneumothorax	is more common in	young adults
+pulmonary collapse	can lead to	ventilatory failure

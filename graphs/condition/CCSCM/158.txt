@@ -1,0 +1,18 @@
+chronic kidney disease	is a	progressive condition
+diabetes	is a risk factor for	chronic kidney disease
+hypertension	is a risk factor for	chronic kidney disease
+chronic kidney disease	may lead to	end-stage renal disease
+dialysis	is a treatment for	end-stage renal disease
+chronic kidney disease	is diagnosed with	creatinine test
+angiotensin-converting enzyme inhibitors	are prescribed for	chronic kidney disease
+chronic kidney disease	increases the risk of	cardiovascular disease
+anemia	is a complication of	chronic kidney disease
+chronic kidney disease	is associated with	proteinuria
+chronic kidney disease	is more prevalent in	older adults
+chronic kidney disease	requires	dietary modifications
+kidney transplant	is an option for	end-stage renal disease
+chronic kidney disease	is managed by	nephrologists
+chronic kidney disease	leading cause of	hospitalization
+chronic kidney disease	can lead to	electrolyte imbalances
+chronic kidney disease	affects	quality of life
+chronic kidney disease	is preventable with	lifestyle changes

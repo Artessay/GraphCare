@@ -2,7 +2,7 @@ __pycache__
 *.env
 exp_data
 
-/graphs
+/graphs_
 /play
 /ehr_training_result
 /output

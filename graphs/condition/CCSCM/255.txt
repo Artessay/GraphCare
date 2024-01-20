@@ -1,0 +1,82 @@
+administrative/social admission	is a type of	hospital admission
+administrative/social admission	is not related to	medical necessity
+frequent administrative/social admissions	may indicate	social determinants of health
+social worker	assesses	administrative/social admission
+administrative/social admission	can lead to	increased healthcare costs
+hospital discharge	may be followed by	administrative/social admission
+administrative/social admission	is often due to	lack of access to primary care
+administrative/social admission	is associated with	higher risk of readmission
+case manager	coordinates	administrative/social admission
+administrative/social admission	can be caused by	lack of social support
+administrative/social admission	is often linked to	homeless population
+social services	provide support for	administrative/social admission
+administrative/social admission	may be prevented by	community outreach programs
+administrative/social admission	may require	discharge planning
+substance abuse	is a common factor in	administrative/social admission
+administrative/social admission	is a result of	complex social needs
+administrative/social admission	needs	multidisciplinary care team
+administrative/social admission	can be reduced by	addressing social determinants of health
+administrative/social admission	is impacted by	healthcare disparities
+administrative/social admission	is a challenge for	healthcare providers
+administrative/social admission	is related to	healthcare equity
+administrative/social admission	can result in	longer hospital stays
+administrative/social admission	is influenced by	socioeconomic status
+administrative/social admission	requires	comprehensive assessment
+administrative/social admission	is affected by	availability of resources
+administrative/social admission	is a concern for	healthcare policymakers
+administrative/social admission	can lead to	patient dissatisfaction
+administrative/social admission	is a barrier to	continuity of care
+administrative/social admission	is linked to	lack of insurance
+administrative/social admission	is a factor in	hospital overcrowding
+administrative/social admission	is a consideration in	discharge planning
+administrative/social admission	should be addressed through	patient advocacy
+administrative/social admission	is related to	social services utilization
+administrative/social admission	is impacted by	healthcare access
+administrative/social admission	involves	social work interventions
+administrative/social admission	may indicate	need for supportive housing
+administrative/social admission	is connected to	public health initiatives
+administrative/social admission	is influenced by	community resources
+administrative/social admission	may involve	referral to community organizations
+administrative/social admission	can be mitigated by	care coordination
+administrative/social admission	is a focus of	healthcare research
+administrative/social admission	requires	collaboration between healthcare and social services
+administrative/social admission	may be addressed through	policy changes
+administrative/social admission	is impacted by	cultural factors
+administrative/social admission	requires	patient education
+administrative/social admission	can be addressed through	population health management
+administrative/social admission	may lead to	increased utilization of emergency services
+administrative/social admission	is influenced by	housing instability
+administrative/social admission	is linked to	mental health conditions
+administrative/social admission	requires	intervention from healthcare team
+administrative/social admission	can result in	fragmented care
+administrative/social admission	is a factor in	healthcare disparities
+administrative/social admission	is associated with	high healthcare costs
+administrative/social admission	may involve	transportation barriers
+administrative/social admission	is influenced by	language barriers
+administrative/social admission	requires	individualized care plan
+administrative/social admission	can lead to	medication non-adherence
+administrative/social admission	is related to	lack of social support
+administrative/social admission	is impacted by	healthcare policy
+administrative/social admission	is a concern for	healthcare equity
+administrative/social admission	is connected to	health outcomes
+administrative/social admission	requires	interdisciplinary approach
+administrative/social admission	is influenced by	community health resources
+administrative/social admission	involves	advocacy for vulnerable populations
+administrative/social admission	may result in	frequent readmissions
+administrative/social admission	is impacted by	healthcare system capacity
+administrative/social admission	is associated with	length of hospital stay
+administrative/social admission	may be due to	lack of access to primary care
+administrative/social admission	can be prevented through	integrated care models
+administrative/social admission	is linked to	chronic disease management
+administrative/social admission	requires	social services coordination
+administrative/social admission	is impacted by	social determinants of health
+administrative/social admission	is connected to	community health initiatives
+administrative/social admission	is related to	healthcare disparities
+administrative/social admission	is influenced by	patient education
+administrative/social admission	may involve	supportive housing placement
+administrative/social admission	can lead to	patient safety concerns
+administrative/social admission	requires	comprehensive discharge planning
+administrative/social admission	is a factor in	hospital overcrowding
+administrative/social admission	is associated with	lack of insurance
+administrative/social admission	is a focus of	healthcare policy
+administrative/social admission	involves	healthcare access barriers

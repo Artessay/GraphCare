@@ -1,0 +1,14 @@
+hypertension complicating pregnancy	increases risk of	preeclampsia
+preeclampsia	can lead to	eclampsia
+eclampsia	increases risk of	maternal mortality
+hypertension complicating pregnancy	is treated with	antihypertensive medication
+nifedipine	is an	antihypertensive medication
+hypertension complicating pregnancy	increases risk of	preterm birth
+preterm birth	can lead to	neonatal complications
+neonatal complications	increase risk of	infant mortality
+hypertension complicating pregnancy	is a risk factor for	cesarean delivery
+cesarean delivery	increases risk of	postpartum infection
+postpartum infection	can lead to	maternal readmission
+hypertension complicating pregnancy	can cause	intrauterine growth restriction
+intrauterine growth restriction	is a risk factor for	low birth weight
+low birth weight	increases risk of	neonatal intensive care admission

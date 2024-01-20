@@ -1,0 +1,21 @@
+other diseases of veins and lymphatics	includes	varicose veins
+varicose veins	are a type of	venous disease
+chronic venous insufficiency	is a complication of	varicose veins
+varicose veins	are treated with	compression stockings
+compression stockings	help to	improve blood flow
+venous ulcers	can develop from	chronic venous insufficiency
+venous ulcers	are treated with	wound care
+lymphedema	is a condition of	lymphatics
+lymphedema	can be caused by	lymph node removal
+lymphedema	is managed with	complete decongestive therapy
+complete decongestive therapy	includes	manual lymphatic drainage
+manual lymphatic drainage	helps to	reduce swelling
+cellulitis	is a complication of	lymphedema
+cellulitis	is treated with	antibiotics
+lymphangitis	is an infection of	lymphatics
+lymphangitis	is treated with	antibiotics
+pulmonary embolism	can result from	deep vein thrombosis
+deep vein thrombosis	is treated with	anticoagulants
+anticoagulants	help to	prevent blood clots
+post-thrombotic syndrome	is a complication of	deep vein thrombosis
+post-thrombotic syndrome	can lead to	chronic leg pain

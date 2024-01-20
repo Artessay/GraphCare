@@ -1,0 +1,24 @@
+other inflammatory condition of skin	can be	psoriasis
+psoriasis	is characterized by	red patches of skin
+psoriasis	may lead to	arthritis
+arthritis	can cause	joint pain
+joint pain	is often treated with	nonsteroidal anti-inflammatory drugs
+nonsteroidal anti-inflammatory drugs	can cause	stomach irritation
+stomach irritation	may lead to	gastrointestinal bleeding
+gastrointestinal bleeding	can result in	anemia
+anemia	is often treated with	iron supplements
+iron supplements	can cause	constipation
+constipation	may lead to	fecal impaction
+fecal impaction	may cause	severe abdominal pain
+severe abdominal pain	is often managed with	opioids
+opioids	can lead to	dependency
+dependency	can result in	substance abuse
+substance abuse	can lead to	social isolation
+social isolation	may lead to	depression
+depression	is often treated with	antidepressants
+antidepressants	can cause	sexual dysfunction
+sexual dysfunction	may lead to	relationship issues
+relationship issues	can result in	stress
+stress	can exacerbate	skin conditions
+skin conditions	may require	medical intervention
+medical intervention	should be pursued for	optimal health

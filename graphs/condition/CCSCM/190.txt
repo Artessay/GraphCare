@@ -1,0 +1,26 @@
+fetal distress	can lead to	abnormal forces of labor
+abnormal forces of labor	may result in	birth trauma
+fetal distress	is monitored using	electronic fetal monitoring
+abnormal forces of labor	can cause	fetal hypoxia
+fetal hypoxia	may lead to	brain damage
+fetal distress	can be caused by	umbilical cord compression
+umbilical cord compression	is detected using	ultrasound
+abnormal forces of labor	increases the risk of	cesarean delivery
+cesarean delivery	may result in	postoperative complications
+fetal distress	requires	prompt intervention
+umbilical cord compression	is relieved by	changing maternal position
+fetal hypoxia	is treated with	oxygen therapy
+fetal distress	is associated with	decreased fetal movement
+decreased fetal movement	is a sign of	fetal distress
+fetal distress	is linked to	placental abruption
+placental abruption	leads to	decreased oxygen supply to the fetus
+abnormal forces of labor	can be caused by	malposition of the baby
+malposition of the baby	may necessitate	assisted delivery
+abnormal forces of labor	increases the risk of	meconium aspiration
+meconium aspiration	can lead to	respiratory distress in the newborn
+fetal distress	is correlated with	maternal hypertension
+maternal hypertension	increases the risk of	preeclampsia
+fetal distress	is a complication of	preterm labor
+preterm labor	requires	careful monitoring
+fetal distress	can be caused by	maternal infection
+maternal infection	can lead to	fetal inflammation

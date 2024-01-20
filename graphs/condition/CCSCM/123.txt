@@ -1,0 +1,103 @@
+influenza	is a	viral infection
+influenza	can lead to	pneumonia
+oseltamivir	is used to treat	influenza
+influenza	can be prevented by	vaccination
+influenza vaccine	is recommended for	high-risk populations
+mortality	is higher in	elderly individuals with influenza
+influenza	increases the risk of	hospital readmission
+respiratory complications	are common in	severe cases of influenza
+influenza	is diagnosed by	rapid antigen testing
+influenza	is associated with	seasonal outbreaks
+oseltamivir	should be started within	48 hours of symptom onset
+pulmonary complications	can occur in	severe cases of influenza
+influenza	may cause	exacerbation of underlying chronic conditions
+influenza	has a higher incidence in	winter months
+oseltamivir	is not effective against	common cold viruses
+influenza	is characterized by	fever and respiratory symptoms
+influenza	is caused by	influenza virus
+influenza	can lead to	viral myocarditis
+morbidity	is higher in	children with influenza
+influenza	is associated with	increased healthcare utilization
+influenza vaccines	are updated annually to	match circulating strains
+influenza	can cause	neurological complications
+influenza	is more severe in	immunocompromised individuals
+influenza	can be transmitted through	respiratory droplets
+influenza	should be managed with	supportive care
+influenza	is a common cause of	upper respiratory infections
+secondary bacterial infections	can occur following	influenza
+influenza	is associated with	high fever
+influenza	is more severe in	pregnant women
+influenza	increases the risk of	exacerbation of asthma
+influenza	is associated with	muscle aches and fatigue
+influenza	can cause	sinusitis
+influenza	can lead to	dehydration
+influenza	is associated with	sore throat
+influenza	may result in	otitis media
+influenza	can cause	gastrointestinal symptoms
+influenza	is a risk factor for	exacerbation of COPD
+influenza	is a risk factor for	acute respiratory distress syndrome (ARDS)
+influenza	is a common cause of	absenteeism from work or school
+influenza	can lead to	fatigue and weakness
+influenza	is associated with	decreased appetite
+influenza	is linked to	increased risk of heart attack
+influenza	can cause	myositis
+influenza	may result in	febrile seizures
+influenza	is a risk factor for	exacerbation of heart failure
+influenza	can lead to	pulmonary embolism
+influenza	is associated with	risk of pneumonia in COPD patients
+influenza	can cause	respiratory failure
+influenza	is more severe in	individuals with obesity
+influenza	increases the risk of	preterm birth
+influenza	can cause	encephalitis
+influenza	may result in	rhabdomyolysis
+influenza	is linked to	increased risk of stroke
+influenza	can lead to	acute bronchitis
+influenza	is associated with	exacerbation of chronic kidney disease
+influenza	can cause	chest pain
+influenza	is a risk factor for	exacerbation of diabetes
+influenza	is associated with	risk of myocardial infarction in elderly individuals
+influenza	can lead to	sepsis
+influenza	is more severe in	individuals with HIV/AIDS
+influenza	increases the risk of	acute exacerbation of interstitial lung disease
+influenza	is linked to	increased risk of deep vein thrombosis
+influenza	can cause	pleuritis
+influenza	may result in	acute kidney injury
+influenza	is associated with	risk of exacerbation of liver disease
+influenza	can lead to	exacerbation of rheumatologic diseases
+influenza	is a risk factor for	exacerbation of neurological conditions
+influenza	increases the risk of	acute exacerbation of chronic obstructive pulmonary disease (COPD)
+influenza	is linked to	increased risk of acute coronary syndrome
+influenza	can cause	pericarditis
+influenza	is associated with	risk of exacerbation of systemic autoimmune diseases
+influenza	can lead to	exacerbation of chronic respiratory diseases
+influenza	may result in	myasthenia gravis crisis
+influenza	is a risk factor for	exacerbation of pulmonary hypertension
+influenza	is linked to	increased risk of exacerbation of idiopathic pulmonary fibrosis
+influenza	can cause	exacerbation of cystic fibrosis
+influenza	is associated with	risk of exacerbation of bronchiectasis
+influenza	can lead to	exacerbation of pulmonary sarcoidosis
+influenza	is a risk factor for	exacerbation of pulmonary alveolar proteinosis
+influenza	increases the risk of	acute exacerbation of pulmonary fibrosis
+influenza	is linked to	increased risk of exacerbation of pulmonary vasculitis
+influenza	can cause	exacerbation of pulmonary lymphangioleiomyomatosis
+influenza	may result in	exacerbation of pulmonary amyloidosis
+influenza	is associated with	risk of exacerbation of pulmonary histiocytosis
+influenza	can lead to	exacerbation of pulmonary eosinophilic granulomatosis with polyangiitis
+influenza	is a risk factor for	exacerbation of pulmonary Langerhans cell histiocytosis
+influenza	is linked to	increased risk of exacerbation of pulmonary lymphoid interstitial pneumonia
+influenza	can cause	exacerbation of pulmonary unclassifiable idiopathic interstitial pneumonia
+influenza	is associated with	risk of exacerbation of pulmonary desquamative interstitial pneumonia
+influenza	can lead to	exacerbation of pulmonary subacute interstitial lung disease
+influenza	may result in	exacerbation of pulmonary connective tissue disease-associated interstitial lung disease
+influenza	is a risk factor for	exacerbation of pulmonary pleuroparenchymal fibroelastosis
+influenza	increases the risk of	acute exacerbation of pulmonary thick-walled cyst
+influenza	is linked to	increased risk of exacerbation of acute interstitial lung disease
+influenza	can cause	exacerbation of pulmonary idiopathic interstitial pneumonia
+influenza	is associated with	risk of exacerbation of pleuroparenchymal fibroelastosis
+influenza	can lead to	exacerbation of unclassifiable idiopathic interstitial pneumonia
+influenza	may result in	exacerbation of acute and subacute interstitial lung disease
+influenza	is a risk factor for	exacerbation of diffuse alveolar damage
+influenza	is linked to	increased risk of exacerbation of pulmonary sarcoidosis
+influenza	can cause	exacerbation of pulmonary fibrosis
+influenza	is associated with	risk of exacerbation of interstitial lung disease
+influenza	can lead to	exacerbation of lung disease

@@ -1,0 +1,95 @@
+viral infection	can lead to	fever
+viral infection	may cause	cough
+antiviral medication	is used for	viral infection
+hand hygiene	is important in preventing	viral infection
+viral infection	can spread through	respiratory droplets
+viral infection	is diagnosed by	PCR test
+severe viral infection	can result in	hospitalization
+viral infection	can be prevented by	vaccination
+viral infection	can lead to	viral pneumonia
+viral infection	is linked to	immune response
+viral infection	is responsible for	common cold
+viral infection	is associated with	inflammation
+viral infection	can be transmitted through	blood transfusion
+viral infection	is caused by	virus
+viral infection	is treated with	rest and fluids
+viral infection	can affect	multiple organ systems
+viral infection	may lead to	long-term complications
+viral infection	requires	supportive care
+viral infection	is characterized by	viral shedding
+viral infection	can be diagnosed by	symptoms and physical examination
+viral infection	can be transmitted through	sexual contact
+viral infection	can be fatal in	immunocompromised individuals
+viral infection	is associated with	viral load
+viral infection	can result in	viral encephalitis
+viral infection	can be prevented by	antiviral prophylaxis
+viral infection	can trigger	host immune response
+viral infection	is often accompanied by	fatigue
+viral infection	is linked to	transmission dynamics
+viral infection	can lead to	antiviral resistance
+viral infection	is more severe in	elderly population
+viral infection	is a risk factor for	secondary bacterial infection
+viral infection	can be transmitted through	contaminated surfaces
+viral infection	can cause	viral myocarditis
+viral infection	may lead to	viral gastroenteritis
+viral infection	can be diagnosed by	serological testing
+viral infection	can be prevented by	isolation precautions
+viral infection	can result in	viral hepatitis
+viral infection	is linked to	viral replication
+viral infection	can be transmitted through	vertical transmission from mother to fetus
+viral infection	can lead to	neurological complications
+viral infection	is associated with	viral shedding in respiratory secretions
+viral infection	can be transmitted through	airborne transmission
+viral infection	may cause	viral rash
+viral infection	is responsible for	influenza
+viral infection	can be prevented by	hand hygiene
+viral infection	can lead to	viral meningitis
+viral infection	is diagnosed by	viral culture
+viral infection	is treated with	antiviral medication
+viral infection	can result in	viral sepsis
+viral infection	can be transmitted through	fecal-oral route
+viral infection	is associated with	viral evolution
+viral infection	can be transmitted through	droplet transmission
+viral infection	is commonly associated with	upper respiratory symptoms
+viral infection	is responsible for	varicella-zoster virus
+viral infection	can be prevented by	vaccination
+viral infection	is linked to	cellular immune response
+viral infection	can lead to	viral arthritis
+viral infection	may cause	viral conjunctivitis
+viral infection	is diagnosed by	antigen testing
+viral infection	is treated with	antiretroviral medication
+viral infection	can result in	viral myocarditis
+viral infection	can be transmitted through	contact transmission
+viral infection	is associated with	viral pathogenesis
+viral infection	can be prevented by	antiviral prophylaxis
+viral infection	can lead to	viral encephalitis
+viral infection	is linked to	viral genetics
+viral infection	can be transmitted through	sexual transmission
+viral infection	may cause	viral pharyngitis
+viral infection	is responsible for	hepatitis B
+viral infection	can be diagnosed by	nucleic acid testing
+viral infection	is treated with	supportive care
+viral infection	can result in	viral hemorrhagic fever
+viral infection	can be transmitted through	bodily fluids
+viral infection	is associated with	viral replication kinetics
+viral infection	can lead to	viral retinitis
+viral infection	may cause	viral bronchitis
+viral infection	is diagnosed by	viral RNA testing
+viral infection	is treated with	antiviral therapy
+viral infection	can result in	viral meningitis
+viral infection	can be prevented by	infection control measures
+viral infection	can lead to	viral pancreatitis
+viral infection	may cause	viral laryngitis
+viral infection	is responsible for	herpes simplex virus
+viral infection	can be diagnosed by	viral antigen testing
+viral infection	is treated with	antiviral medication
+viral infection	can result in	viral myocarditis
+viral infection	can be transmitted through	respiratory secretions
+viral infection	is associated with	viral latency
+viral infection	can be prevented by	antiviral prophylaxis
+viral infection	can lead to	viral arthritis
+viral infection	may cause	viral conjunctivitis
+viral infection	is diagnosed by	viral culture
+viral infection	is treated with	antiretroviral medication
+viral infection	can result in	viral myocarditis
+viral infection	can be transmitted through	contact transmission

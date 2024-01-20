@@ -1,0 +1,85 @@
+medical examination	is performed by	healthcare professionals
+patient	undergoes	medical evaluation
+physical examination	is part of	medical evaluation
+laboratory tests	provide information for	medical examination
+patient history	is important for	medical evaluation
+imaging tests	help in	medical examination
+medical examination	helps in	diagnosis
+medical evaluation	includes	assessment of symptoms
+medical examination	may lead to	referral for specialist consultation
+medical examination	is necessary for	treatment planning
+medical evaluation	involves	monitoring of vital signs
+medical examination	is used for	preventive care
+medical tests	are part of	medical evaluation
+medical examination	aids in	predicting disease risk
+medical evaluation	guides	treatment decisions
+medical examination	contributes to	healthcare prediction
+medical evaluation	assists in	determining prognosis
+patient assessment	is part of	medical examination
+medical examination	is essential for	evidence-based medicine
+medical evaluation	is crucial for	healthcare management
+medical examination	requires	informed consent
+medical examination	involves	communication with the patient
+medical evaluation	takes into account	family history
+medical examination	is a tool for	patient education
+medical examination	is critical for	early detection of diseases
+medical evaluation	contributes to	personalized medicine
+patient interview	is part of	medical evaluation
+medical examination	is essential for	public health screening
+medical evaluation	is used for	health promotion
+screening tests	are part of	medical examination
+medical examination	is necessary for	monitoring of chronic conditions
+medical evaluation	includes	review of medication history
+medical examination	is important for	occupational health assessments
+medical examination	contributes to	healthcare policy decision-making
+medical evaluation	aids in	resource allocation in healthcare
+medical examination	influences	health insurance coverage
+medical examination	is important for	clinical research
+medical evaluation	involves	patient advocacy
+medical examination	is essential for	healthcare quality improvement
+medical evaluation	contributes to	healthcare cost control
+medical examination	is necessary for	medical advancements
+medical examination	is vital for	medical education
+medical evaluation	supports	healthcare innovation
+medical examination	helps in	reducing healthcare disparities
+medical examination	is critical for	healthcare ethics
+medical examination	is important for	healthcare regulations
+medical evaluation	is essential for	healthcare leadership
+medical examination	contributes to	healthcare technology development
+medical examination	is necessary for	healthcare infrastructure planning
+medical evaluation	is crucial for	healthcare workforce development
+medical examination	influences	healthcare globalization
+medical examination	is important for	healthcare sustainability
+medical evaluation	aids in	disaster preparedness in healthcare
+digital health tools	aid in	medical examination
+medical examination	is crucial for	telemedicine
+medical evaluation	supports	remote patient monitoring
+medical examination	is important for	virtual healthcare services
+medical examination	is essential for	healthcare accessibility
+medical evaluation	contributes to	healthcare equity
+medical examination	is necessary for	healthcare inclusivity
+cultural competence	is important for	medical examination
+medical examination	is critical for	healthcare diversity
+medical evaluation	is essential for	healthcare cultural sensitivity
+medical examination	is important for	healthcare language access
+medical examination	contributes to	healthcare social responsibility
+medical examination	is crucial for	healthcare community engagement
+medical evaluation	supports	healthcare partnership building
+medical examination	is important for	healthcare collaboration
+medical examination	is necessary for	healthcare teamwork
+medical evaluation	contributes to	healthcare communication
+medical examination	is vital for	healthcare transparency
+medical examination	helps in	promoting healthcare trust
+medical examination	is essential for	healthcare accountability
+medical evaluation	is crucial for	healthcare governance
+medical examination	influences	healthcare leadership
+medical examination	is important for	healthcare innovation
+medical evaluation	aids in	reducing healthcare disparities
+medical examination	is critical for	healthcare ethics
+medical examination	is important for	healthcare regulations
+medical examination	is essential for	healthcare technology development
+medical evaluation	is necessary for	healthcare infrastructure planning
+medical examination	is crucial for	healthcare workforce development
+medical examination	influences	healthcare globalization
+medical examination	is important for	healthcare sustainability
+medical evaluation	aids in	disaster preparedness in healthcare

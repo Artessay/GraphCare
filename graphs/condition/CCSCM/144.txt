@@ -1,0 +1,13 @@
+regional enteritis	is also known as	Crohn's disease
+ulcerative colitis	is a type of	inflammatory bowel disease
+regional enteritis	may cause	bowel obstruction
+ulcerative colitis	may cause	rectal bleeding
+colonoscopy	is used to diagnose	ulcerative colitis
+CT scan	is used to diagnose	regional enteritis
+steroids	are used to treat	ulcerative colitis
+methotrexate	is used to treat	regional enteritis
+anti-TNF drugs	are used to treat	both ulcerative colitis and regional enteritis
+smoking	may exacerbate	regional enteritis
+genetics	play a role in	ulcerative colitis and regional enteritis
+dietary changes	can help manage	both ulcerative colitis and regional enteritis
+surgery	may be necessary for severe cases of	Crohn's disease

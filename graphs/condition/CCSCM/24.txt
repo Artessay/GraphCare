@@ -1,0 +1,104 @@
+cancer of breast	is a	malignant tumor
+cancer of breast	is diagnosed with	mammogram
+breast cancer	can metastasize to	bone
+chemotherapy	is a treatment for	breast cancer
+hormone receptor status	is important for	breast cancer prognosis
+breast cancer	has a high mortality rate
+breast cancer	is associated with	BRCA gene mutations
+breast cancer	may recur in	lymph nodes
+breast cancer	is more common in	women
+breast cancer	can be detected through	self-examination
+breast cancer	has different stages including	stage 0	stage I	stage II	stage III	and stage IV
+breast cancer	can spread to	lungs
+radiation therapy	is used as adjuvant therapy in	breast cancer treatment
+breast cancer	is linked to	estrogen exposure
+breast cancer	may require	mastectomy
+breast cancer	is screened for	with mammography
+breast cancer	is associated with	family history
+breast cancer	can be treated with	targeted therapy
+HER2 gene	is overexpressed in	some breast cancers
+breast cancer	may lead to	breast reconstruction surgery
+breast cancer	is influenced by	lifestyle factors
+breast cancer survivors	are at risk for	recurrence
+breast cancer	has different subtypes including	ductal carcinoma in situ	invasive ductal carcinoma	and invasive lobular carcinoma
+breast cancer	is hormone receptor positive in	some cases
+breast cancer	can be tested for	using genetic testing
+breast cancer	is associated with	environmental factors
+breast cancer	has a five-year survival rate of	varied percentage
+breast cancer	may require	chemotherapy and radiation therapy
+breast cancer	is linked to	obesity
+breast cancer	can be detected through	breast MRI
+breast cancer	is treated with	surgical removal of the tumor
+breast cancer	is more common in	postmenopausal women
+breast cancer	is less common in	men
+breast cancer	can be diagnosed with	biopsy
+breast cancer	is associated with	dense breast tissue
+breast cancer	is a risk factor for	bone fractures
+breast cancer	has a higher incidence in	developed countries
+breast cancer	is influenced by	genetic predisposition
+breast cancer	can be prevented through	lifestyle changes
+breast cancer	may cause	lymphedema
+breast cancer	can be treated with	hormone therapy
+breast cancer	is associated with	smoking
+breast cancer	has a survival rate affected by	early detection
+breast cancer	is correlated with	alcohol consumption
+breast cancer	can lead to	bone pain
+breast cancer	is affected by	BRCA gene mutations
+breast cancer	has a higher prevalence in	older women
+breast cancer	has a higher mortality rate in	African American women
+breast cancer	can cause	changes in breast appearance
+breast cancer	is influenced by	physical activity
+breast cancer	is associated with	radiation exposure
+breast cancer	has a lower survival rate in	metastatic cases
+breast cancer	can be controlled with	hormone therapy
+breast cancer	is a leading cause of	cancer death in women
+breast cancer	has a higher incidence in	women with early menarche
+breast cancer	is associated with	prolonged hormone replacement therapy
+breast cancer	is linked to	alcohol consumption
+breast cancer	is more common in	women with late menopause
+breast cancer	is affected by	use of oral contraceptives
+breast cancer	can affect	lymph nodes
+breast cancer	is related to	exposure to ionizing radiation
+breast cancer	is influenced by	breastfeeding history
+breast cancer	can lead to	fatigue
+breast cancer	is correlated with	shift work
+breast cancer	is associated with	reproductive history
+breast cancer	has a higher incidence in	women with dense breast tissue
+breast cancer	is affected by	exposure to diethylstilbestrol
+breast cancer	has a lower survival rate in	women with comorbidities
+breast cancer	can cause	breast pain
+breast cancer	is influenced by	exposure to endocrine disruptors
+breast cancer	is correlated with	higher socioeconomic status
+breast cancer	has a lower survival rate in	women with triple-negative subtype
+breast cancer	is associated with	radiation therapy to the chest
+breast cancer	is influenced by	parity
+breast cancer	can result in	anxiety and depression
+breast cancer	is correlated with	environmental pollution
+breast cancer	is affected by	history of benign breast disease
+breast cancer	has a higher prevalence in	women with high bone density
+breast cancer	is linked to	certain dietary patterns
+breast cancer	is influenced by	physical inactivity
+breast cancer	is correlated with	high fat diet
+breast cancer	has a lower survival rate in	women with large tumor size
+breast cancer	can cause	skin changes
+breast cancer	is associated with	use of combined hormone therapy
+breast cancer	is influenced by	exposure to pesticides
+breast cancer	is correlated with	night shift work
+breast cancer	is affected by	use of des)	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

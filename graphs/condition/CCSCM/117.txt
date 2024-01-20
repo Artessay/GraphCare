@@ -1,0 +1,76 @@
+other circulatory disease	includes	peripheral artery disease
+other circulatory disease	can lead to	heart failure
+atherosclerosis	is a common cause of	other circulatory disease
+other circulatory disease	may require	angioplasty
+angina	is a symptom of	other circulatory disease
+hypertension	is a risk factor for	other circulatory disease
+other circulatory disease	increases risk of	stroke
+other circulatory disease	can be managed with	medication
+coronary artery bypass grafting	is a surgical treatment for	other circulatory disease
+other circulatory disease	is associated with	high cholesterol levels
+peripheral artery disease	is a type of	other circulatory disease
+other circulatory disease	affects	blood vessels
+other circulatory disease	is linked to	diabetes
+other circulatory disease	leads to	reduced blood flow
+other circulatory disease	is a significant cause of	morbidity and mortality
+other circulatory disease	increases the risk of	amputation
+other circulatory disease	can result in	gangrene
+other circulatory disease	can cause	venous thrombosis
+other circulatory disease	is often accompanied by	edema
+other circulatory disease	can result in	ischemic tissue damage
+other circulatory disease	is a leading cause of	disability
+other circulatory disease	may require	surgical intervention
+other circulatory disease	is linked to	smoking
+other circulatory disease	is associated with	obesity
+other circulatory disease	can lead to	arrhythmias
+other circulatory disease	is diagnosed through	imaging studies
+other circulatory disease	may present with	chest pain
+other circulatory disease	is a risk factor for	kidney disease
+other circulatory disease	is commonly seen in	older adults
+other circulatory disease	increases the risk of	blood clots
+other circulatory disease	is a precursor to	cardiovascular disease
+other circulatory disease	may result in	heart attack
+other circulatory disease	can be managed with	exercise
+other circulatory disease	causes	poor circulation
+other circulatory disease	is associated with	inflammation
+other circulatory disease	is a cause of	aneurysm
+other circulatory disease	leads to	tissue necrosis
+other circulatory disease	may require	limb revascularization
+other circulatory disease	can lead to	intermittent claudication
+other circulatory disease	can cause	chronic wounds
+other circulatory disease	may require	amputation
+other circulatory disease	is linked to	varicose veins
+other circulatory disease	may lead to	pulmonary embolism
+other circulatory disease	contributes to	cardiovascular events
+other circulatory disease	is associated with	metabolic syndrome
+other circulatory disease	is a significant cause of	healthcare costs
+other circulatory disease	is a risk factor for	vascular dementia
+other circulatory disease	affects	circulation
+other circulatory disease	can result in	organ damage
+other circulatory disease	is a common comorbidity in	diabetes
+other circulatory disease	can cause	dyspnea
+other circulatory disease	may lead to	leg ulcers
+other circulatory disease	is often asymptomatic in	early stages
+other circulatory disease	may necessitate	anticoagulant therapy
+other circulatory disease	is linked to	hyperlipidemia
+other circulatory disease	can result in	angina pectoris
+other circulatory disease	can be exacerbated by	stress
+other circulatory disease	is associated with	heart valve disease
+other circulatory disease	is a risk factor for	aortic aneurysm
+other circulatory disease	can cause	ischemic stroke
+other circulatory disease	may require	lifestyle modifications
+other circulatory disease	is worsened by	uncontrolled hypertension
+other circulatory disease	can lead to	chronic kidney disease
+other circulatory disease	increases the risk of	peripheral neuropathy
+other circulatory disease	is associated with	prolonged sitting
+other circulatory disease	may result in	organ failure
+other circulatory disease	is a common finding in	physical examination
+other circulatory disease	can lead to	venous insufficiency
+other circulatory disease	may necessitate	antihypertensive medication
+other circulatory disease	is a risk factor for	atherosclerosis
+other circulatory disease	can result in	cardiac arrest
+other circulatory disease	may require	vascular surgery
+other circulatory disease	is associated with	sedentary lifestyle
+other circulatory disease	is a known cause of	deep vein thrombosis
+other circulatory disease	can lead to	congestive heart failure
+other circulatory disease	is a primary cause of	limb loss

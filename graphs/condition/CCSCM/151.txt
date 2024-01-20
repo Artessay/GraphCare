@@ -1,0 +1,35 @@
+other liver diseases	can cause	cirrhosis
+cirrhosis	may lead to	liver failure
+liver failure	can cause	hepatic encephalopathy
+hepatic encephalopathy	is a complication of	liver disease
+liver disease	is associated with	jaundice
+jaundice	may indicate	liver dysfunction
+liver dysfunction	can lead to	portal hypertension
+portal hypertension	can cause	ascites
+ascites	is a sign of	liver disease
+liver disease	is linked to	hepatocellular carcinoma
+hepatocellular carcinoma	is a type of	liver cancer
+liver cancer	can lead to	metastasis
+metastasis	can occur in	liver disease
+liver disease	is a risk factor for	hepatorenal syndrome
+hepatorenal syndrome	is a complication of	liver disease
+liver disease	is managed with	liver transplantation
+liver transplantation	is a treatment for	end-stage liver disease
+end-stage liver disease	is a late complication of	liver disease
+liver disease	can lead to	liver cirrhosis
+liver cirrhosis	is a complication of	liver disease
+liver disease	may result from	viral hepatitis
+viral hepatitis	is a cause of	liver disease
+liver disease	can be caused by	alcohol abuse
+alcohol abuse	is a risk factor for	liver disease
+liver disease	is associated with	fatty liver
+fatty liver	is a type of	liver disease
+liver disease	is a risk factor for	liver fibrosis
+liver fibrosis	is a condition in	liver disease
+liver disease	is related to	liver inflammation
+liver inflammation	can lead to	liver damage
+liver damage	is a consequence of	liver disease
+liver disease	may be diagnosed with	liver function tests
+liver function tests	are used to assess	liver disease
+liver disease	can lead to	liver transplant surgery
+liver transplant surgery	is a treatment for	end-stage liver disease

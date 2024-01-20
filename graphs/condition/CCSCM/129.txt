@@ -1,0 +1,205 @@
+aspiration pneumonitis	is a type of	pneumonitis
+aspiration pneumonitis	can lead to	pneumonia
+patient with aspiration pneumonitis	may present with	cough and shortness of breath
+aspiration pneumonitis	can be caused by	food/vomitus
+aspiration pneumonitis	is diagnosed by	chest x-ray
+aspiration pneumonitis	is treated with	antibiotics
+aspiration pneumonitis	may result in	respiratory failure
+aspiration pneumonitis	can lead to	sepsis
+aspiration pneumonitis	is a risk factor for	aspiration pneumonia
+patient with aspiration pneumonitis	has an increased risk of	mortality
+aspiration pneumonitis	may require	mechanical ventilation
+aspiration pneumonitis	increases the likelihood of	hospital readmission
+aspiration pneumonitis	may cause	lung abscesses
+aspiration pneumonitis	can lead to	respiratory distress syndrome
+aspiration pneumonitis	is associated with	gastroesophageal reflux
+aspiration pneumonitis	may result in	ARDS (acute respiratory distress syndrome)
+aspiration pneumonitis	can lead to	pulmonary fibrosis
+aspiration pneumonitis	can be prevented by	maintaining proper airway protection
+aspiration pneumonitis	is often complicated by	pleural effusion
+aspiration pneumonitis	may lead to	bronchiectasis
+aspiration pneumonitis	is linked to	decreased lung function
+elderly patients with aspiration pneumonitis	are at higher risk of	morbidity and mortality
+aspiration pneumonitis	can cause	chronic cough
+aspiration pneumonitis	increases the risk of	bacterial pneumonia
+aspiration pneumonitis	is associated with	impaired swallowing function
+aspiration pneumonitis	can result in	lung scarring
+aspiration pneumonitis	is frequently seen in	patients with altered mental status
+aspiration pneumonitis	can lead to	hypoxia
+aspiration pneumonitis	may occur in	patients with neurological disorders
+aspiration pneumonitis	is a complication of	anesthesia
+aspiration pneumonitis	is linked to	decreased quality of life
+aspiration pneumonitis	may require	bronchoscopy
+aspiration pneumonitis	can result in	atelectasis
+aspiration pneumonitis	is common in	patients with dysphagia
+aspiration pneumonitis	may lead to	pleurisy
+aspiration pneumonitis	can cause	respiratory insufficiency
+aspiration pneumonitis	is a risk factor for	aspiration of gastric contents
+aspiration pneumonitis	requires	respiratory support
+aspiration pneumonitis	can lead to	acute lung injury
+aspiration pneumonitis	is associated with	prolonged hospital stay
+aspiration pneumonitis	may require	enteral feeding
+aspiration pneumonitis	can result in	chronic respiratory failure
+aspiration pneumonitis	may lead to	tracheobronchitis
+aspiration pneumonitis	can cause	death
+aspiration pneumonitis	is often a result of	impaired cough reflex
+aspiration pneumonitis	can lead to	pulmonary edema
+aspiration pneumonitis	is characterized by	inflammatory changes in the lungs
+aspiration pneumonitis	may require	intubation
+aspiration pneumonitis	can result in	bronchospasm
+aspiration pneumonitis	is a risk for	chemical pneumonitis
+aspiration pneumonitis	requires	close monitoring
+aspiration pneumonitis	may lead to	respiratory arrest
+aspiration pneumonitis	is associated with	gastric acid aspiration
+aspiration pneumonitis	can cause	asphyxiation
+aspiration pneumonitis	is a consequence of	impaired swallowing reflex
+aspiration pneumonitis	may result in	septic shock
+aspiration pneumonitis	can lead to	aspergillosis
+aspiration pneumonitis	is linked to	poor oral hygiene
+aspiration pneumonitis	may require	supportive care
+aspiration pneumonitis	can lead to	chronic lung disease
+aspiration pneumonitis	is associated with	aspiration of gastric contents
+aspiration pneumonitis	may lead to	acute respiratory failure
+aspiration pneumonitis	can cause	lung injury
+aspiration pneumonitis	is a risk factor for	silent aspiration
+aspiration pneumonitis	is a complication of	feeding tube placement
+aspiration pneumonitis	requires	oxygen therapy
+aspiration pneumonitis	may result in	lung abscess
+aspiration pneumonitis	can lead to	pneumothorax
+aspiration pneumonitis	is associated with	increased healthcare utilization
+aspiration pneumonitis	can cause	ventilator-associated pneumonia
+aspiration pneumonitis	is characterized by	chemical injury to the lungs
+aspiration pneumonitis	may result in	fat embolism syndrome
+aspiration pneumonitis	can lead to	respiratory compromise
+aspiration pneumonitis	is linked to	decreased respiratory function
+aspiration pneumonitis	may require	chest physiotherapy
+aspiration pneumonitis	is a risk for	bronchoesophageal fistula
+aspiration pneumonitis	requires	tracheostomy
+aspiration pneumonitis	may result in	pulmonary hemorrhage
+aspiration pneumonitis	can cause	lung abscess formation
+aspiration pneumonitis	is associated with	bacterial colonization of the airways
+aspiration pneumonitis	is often complicated by	pulmonary embolism
+aspiration pneumonitis	may lead to	lung fibrosis
+aspiration pneumonitis	can lead to	respiratory muscle weakness
+aspiration pneumonitis	is linked to	loss of lung volume
+aspiration pneumonitis	may require	chest tube insertion
+aspiration pneumonitis	can result in	bronchiolitis obliterans
+aspiration pneumonitis	is associated with	pulmonary hypertension
+aspiration pneumonitis	may lead to	aspiration of debris into the lungs
+aspiration pneumonitis	can cause	lung inflammation
+aspiration pneumonitis	is a risk factor for	polymicrobial infection
+aspiration pneumonitis	requires	multidisciplinary care
+aspiration pneumonitis	may result in	lung necrosis
+aspiration pneumonitis	can lead to	respiratory acidosis
+aspiration pneumonitis	is linked to	impaired gas exchange
+aspiration pneumonitis	may require	diaphragmatic pacing
+aspiration pneumonitis	is a risk for	ventilator dependency
+aspiration pneumonitis	is associated with	decreased lung compliance
+aspiration pneumonitis	can cause	lung scarring
+aspiration pneumonitis	is often a result of	impaired cough reflex
+aspiration pneumonitis	can lead to	pulmonary edema
+aspiration pneumonitis	is characterized by	inflammatory changes in the lungs
+aspiration pneumonitis	may require	intubation
+aspiration pneumonitis	can result in	bronchospasm
+aspiration pneumonitis	is a risk for	chemical pneumonitis
+aspiration pneumonitis	requires	close monitoring
+aspiration pneumonitis	may lead to	respiratory arrest
+aspiration pneumonitis	is associated with	gastric acid aspiration
+aspiration pneumonitis	can cause	asphyxiation
+aspiration pneumonitis	is a consequence of	impaired swallowing reflex
+aspiration pneumonitis	may result in	septic shock
+aspiration pneumonitis	can lead to	aspergillosis
+aspiration pneumonitis	is linked to	poor oral hygiene
+aspiration pneumonitis	may require	supportive care
+aspiration pneumonitis	can lead to	chronic lung disease
+aspiration pneumonitis	is associated with	aspiration of gastric contents
+aspiration pneumonitis	may lead to	acute respiratory failure
+aspiration pneumonitis	can cause	lung injury
+aspiration pneumonitis	is a risk factor for	silent aspiration
+aspiration pneumonitis	is a complication of	feeding tube placement
+aspiration pneumonitis	requires	oxygen therapy
+aspiration pneumonitis	may result in	lung abscess
+aspiration pneumonitis	can lead to	pneumothorax
+aspiration pneumonitis	is associated with	increased healthcare utilization
+aspiration pneumonitis	can cause	ventilator-associated pneumonia
+aspiration pneumonitis	is characterized by	chemical injury to the lungs
+aspiration pneumonitis	may result in	fat embolism syndrome
+aspiration pneumonitis	can lead to	respiratory compromise
+aspiration pneumonitis	is linked to	decreased respiratory function
+aspiration pneumonitis	may require	chest physiotherapy
+aspiration pneumonitis	is a risk for	bronchoesophageal fistula
+aspiration pneumonitis	requires	tracheostomy
+aspiration pneumonitis	may result in	pulmonary hemorrhage
+aspiration pneumonitis	can cause	lung abscess formation
+aspiration pneumonitis	is associated with	bacterial colonization of the airways
+aspiration pneumonitis	is often complicated by	pulmonary embolism
+aspiration pneumonitis	may lead to	lung fibrosis
+aspiration pneumonitis	can lead to	respiratory muscle weakness
+aspiration pneumonitis	is linked to	loss of lung volume
+aspiration pneumonitis	may require	chest tube insertion
+aspiration pneumonitis	can result in	bronchiolitis obliterans
+aspiration pneumonitis	is associated with	pulmonary hypertension
+aspiration pneumonitis	may lead to	aspiration of debris into the lungs
+aspiration pneumonitis	can cause	lung inflammation
+aspiration pneumonitis	is a risk factor for	polymicrobial infection
+aspiration pneumonitis	requires	multidisciplinary care
+aspiration pneumonitis	may result in	lung necrosis
+aspiration pneumonitis	can lead to	respiratory acidosis
+aspiration pneumonitis	is linked to	impaired gas exchange
+aspiration pneumonitis	may require	diaphragmatic pacing
+aspiration pneumonitis	is a risk for	ventilator dependency
+aspiration pneumonitis	is associated with	decreased lung compliance
+aspiration pneumonitis	can cause	lung scarring
+aspiration pneumonitis	is often a result of	impaired cough reflex
+aspiration pneumonitis	can lead to	pulmonary edema
+aspiration pneumonitis	is characterized by	inflammatory changes in the lungs
+aspiration pneumonitis	may require	intubation
+aspiration pneumonitis	can result in	bronchospasm
+aspiration pneumonitis	is a risk for	chemical pneumonitis
+aspiration pneumonitis	requires	close monitoring
+aspiration pneumonitis	may lead to	respiratory arrest
+aspiration pneumonitis	is associated with	gastric acid aspiration
+aspiration pneumonitis	can cause	asphyxiation
+aspiration pneumonitis	is a consequence of	impaired swallowing reflex
+aspiration pneumonitis	may result in	septic shock
+aspiration pneumonitis	can lead to	aspergillosis
+aspiration pneumonitis	is linked to	poor oral hygiene
+aspiration pneumonitis	may require	supportive care
+aspiration pneumonitis	can lead to	chronic lung disease
+aspiration pneumonitis	is associated with	aspiration of gastric contents
+aspiration pneumonitis	may lead to	acute respiratory failure
+aspiration pneumonitis	can cause	lung injury
+aspiration pneumonitis	is a risk factor for	silent aspiration
+aspiration pneumonitis	is a complication of	feeding tube placement
+aspiration pneumonitis	requires	oxygen therapy
+aspiration pneumonitis	may result in	lung abscess
+aspiration pneumonitis	can lead to	pneumothorax
+aspiration pneumonitis	is associated with	increased healthcare utilization
+aspiration pneumonitis	can cause	ventilator-associated pneumonia
+aspiration pneumonitis	is characterized by	chemical injury to the lungs
+aspiration pneumonitis	may result in	fat embolism syndrome
+aspiration pneumonitis	can lead to	respiratory compromise
+aspiration pneumonitis	is linked to	decreased respiratory function
+aspiration pneumonitis	may require	chest physiotherapy
+aspiration pneumonitis	is a risk for	bronchoesophageal fistula
+aspiration pneumonitis	requires	tracheostomy
+aspiration pneumonitis	may result in	pulmonary hemorrhage
+aspiration pneumonitis	can cause	lung abscess formation
+aspiration pneumonitis	is associated with	bacterial colonization of the airways
+aspiration pneumonitis	is often complicated by	pulmonary embolism
+aspiration pneumonitis	may lead to	lung fibrosis
+aspiration pneumonitis	can lead to	respiratory muscle weakness
+aspiration pneumonitis	is linked to	loss of lung volume
+aspiration pneumonitis	may require	chest tube insertion
+aspiration pneumonitis	can result in	bronchiolitis obliterans
+aspiration pneumonitis	is associated with	pulmonary hypertension
+aspiration pneumonitis	may lead to	aspiration of debris into the lungs
+aspiration pneumonitis	can cause	lung inflammation
+aspiration pneumonitis	is a risk factor for	polymicrobial infection
+aspiration pneumonitis	requires	multidisciplinary care
+aspiration pneumonitis	may result in	lung necrosis
+aspiration pneumonitis	can lead to	respiratory acidosis
+aspiration pneumonitis	is linked to	impaired gas exchange
+aspiration pneumonitis	may require	diaphragmatic pacing
+aspiration pneumonitis	is a risk for	ventilator dependency
+aspiration pneumonitis	is associated with	decreased lung compliance

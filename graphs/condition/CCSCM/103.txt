@@ -1,0 +1,104 @@
+pulmonary heart disease	is a type of	heart disease
+pulmonary heart disease	can lead to	right heart failure
+chronic obstructive pulmonary disease	is a risk factor for	pulmonary heart disease
+pulmonary heart disease	is diagnosed using	echocardiogram
+pulmonary heart disease	is treated with	diuretics
+pulmonary heart disease	may require	oxygen therapy
+pulmonary heart disease	can be a complication of	pulmonary hypertension
+pulmonary heart disease	has a high risk of	mortality
+patients with pulmonary heart disease	may experience	dyspnea
+pulmonary heart disease	increases the risk of	hospital readmission
+pulmonary heart disease	is associated with	elevated pulmonary artery pressure
+pulmonary heart disease	may result in	right ventricular hypertrophy
+pulmonary heart disease	is commonly caused by	chronic lung diseases
+pulmonary heart disease	can lead to	cardiomegaly
+pulmonary heart disease	has a higher prevalence in	older adults
+pulmonary heart disease	is characterized by	increased pulmonary vascular resistance
+pulmonary heart disease	is managed with	anticoagulants
+pulmonary heart disease	can cause	arrhythmias
+pulmonary heart disease	may require	lung transplantation
+pulmonary heart disease	is associated with	poor prognosis
+pulmonary heart disease	often coexists with	chronic bronchitis
+pulmonary heart disease	can result in	right atrial enlargement
+pulmonary heart disease	may lead to	cor pulmonale
+pulmonary heart disease	can be exacerbated by	high altitude
+pulmonary heart disease	is linked to	pulmonary fibrosis
+pulmonary heart disease	may be complicated by	pulmonary embolism
+pulmonary heart disease	is commonly seen in	patients with COPD
+pulmonary heart disease	increases the risk of	stroke
+pulmonary heart disease	is associated with	reduced exercise tolerance
+pulmonary heart disease	is often accompanied by	chronic cough
+pulmonary heart disease	is exacerbated by	smoking
+pulmonary heart disease	may lead to	right ventricular failure
+pulmonary heart disease	can be worsened by	air pollution
+pulmonary heart disease	can cause	chest pain
+pulmonary heart disease	is linked to	sleep apnea
+pulmonary heart disease	increases the risk of	blood clots
+pulmonary heart disease	is often complicated by	respiratory infections
+pulmonary heart disease	may be associated with	obesity
+pulmonary heart disease	can result in	decreased cardiac output
+pulmonary heart disease	is characterized by	pulmonary artery dilation
+pulmonary heart disease	is a major cause of	morbidity and mortality
+pulmonary heart disease	can lead to	pulmonary edema
+pulmonary heart disease	is often accompanied by	wheezing
+pulmonary heart disease	is associated with	chronic hypoxemia
+pulmonary heart disease	is linked to	sleep disturbances
+pulmonary heart disease	is characterized by	increased pulmonary vascular permeability
+pulmonary heart disease	is associated with	increased sympathetic nervous system activity
+pulmonary heart disease	may be exacerbated by	respiratory irritants
+pulmonary heart disease	is a risk factor for	atrial fibrillation
+pulmonary heart disease	is linked to	reduced quality of life
+pulmonary heart disease	can lead to	right ventricular dilatation
+pulmonary heart disease	can cause	fatigue
+pulmonary heart disease	is associated with	decreased cardiac reserve
+pulmonary heart disease	may require	pulmonary rehabilitation
+pulmonary heart disease	is associated with	exertional dyspnea
+pulmonary heart disease	is a complication of	chronic obstructive lung disease
+pulmonary heart disease	is associated with	impaired gas exchange
+pulmonary heart disease	may result in	hypoxemia
+pulmonary heart disease	can lead to	pulmonary hypertension crisis
+pulmonary heart disease	is often accompanied by	abnormal chest X-ray findings
+pulmonary heart disease	is related to	decreased lung compliance
+pulmonary heart disease	can cause	syncope
+pulmonary heart disease	can be exacerbated by	high altitude travel
+pulmonary heart disease	may cause	peripheral edema
+pulmonary heart disease	is characterized by	decreased exercise capacity
+pulmonary heart disease	is associated with	increased pulmonary capillary wedge pressure
+pulmonary heart disease	is linked to	decreased diffusion capacity
+pulmonary heart disease	may result in	reduced stroke volume
+pulmonary heart disease	can lead to	right ventricular hypertrophy
+pulmonary heart disease	is associated with	decreased arterial oxygen saturation
+pulmonary heart disease	is characterized by	increased pulmonary artery pressure
+pulmonary heart disease	is linked to	elevated pulmonary vascular resistance
+pulmonary heart disease	may require	heart valve surgery
+pulmonary heart disease	is associated with	exercise-induced desaturation
+pulmonary heart disease	is linked to	right ventricular strain
+pulmonary heart disease	can cause	jugular venous distention
+pulmonary heart disease	is associated with	elevated B-type natriuretic peptide levels
+pulmonary heart disease	may result in	systemic hypoxemia
+pulmonary heart disease	can lead to	tricuspid regurgitation
+pulmonary heart disease	is linked to	increased pulmonary arterial pressure
+pulmonary heart disease	is associated with	reduced pulmonary artery compliance
+pulmonary heart disease	may require	heart-lung transplantation
+pulmonary heart disease	is characterized by	impaired right ventricular function
+pulmonary heart disease	is linked to	decreased cardiac index
+pulmonary heart disease	is associated with	increased pulmonary vascular resistance
+pulmonary heart disease	may result in	pulmonary embolism
+pulmonary heart disease	can cause	increased jugular venous pressure
+pulmonary heart disease	is associated with	decreased mixed venous oxygen saturation
+pulmonary heart disease	is linked to	elevated central venous pressure
+pulmonary heart disease	may require	implantation of a pacemaker
+pulmonary heart disease	can lead to	right heart hypertrophy
+pulmonary heart disease	is associated with	elevated pulmonary capillary pressure
+pulmonary heart disease	may result in	peripheral edema
+pulmonary heart disease	is linked to	reduced pulmonary vascular compliance
+pulmonary heart disease	is characterized by	impaired left ventricular function
+pulmonary heart disease	is associated with	increased right ventricular afterload
+pulmonary heart disease	may require	combination therapy
+pulmonary heart disease	is related to	increased pulmonary arterial wedge pressure
+pulmonary heart disease	may result in	left heart failure
+pulmonary heart disease	can lead to	right bundle branch block
+pulmonary heart disease	is characterized by	elevated right atrial pressure
+pulmonary heart disease	is associated with	increased mean pulmonary artery pressure
+pulmonary heart disease	may require	lung volume reduction surgery
+pulmonary heart disease	is linked to	reduced arterial oxygen content

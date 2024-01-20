@@ -1,0 +1,85 @@
+glaucoma	is an	eye condition
+glaucoma	can lead to	vision loss
+tonometry	is a test for	glaucoma
+glaucoma	is treated with	eye drops
+prostaglandin analogs	are a type of	eye drops
+glaucoma	can be managed with	surgery
+trabeculectomy	is a type of	surgery for glaucoma
+family history	is a risk factor for	glaucoma
+age	is a risk factor for	glaucoma
+African descent	is a risk factor for	glaucoma
+glaucoma	is linked to	increased intraocular pressure
+visual field test	is used to monitor	glaucoma progression
+glaucoma	increases the risk of	falls
+glaucoma	is associated with	optic nerve damage
+glaucoma	is a leading cause of	blindness worldwide
+glaucoma	is more common in	older adults
+glaucoma	is often asymptomatic in	early stages
+glaucoma	is more prevalent in	individuals with diabetes
+ophthalmologists	specialize in treating	glaucoma
+glaucoma	requires lifelong	monitoring and treatment
+glaucoma	is a chronic	progressive condition
+glaucoma	is classified into	open-angle and closed-angle types
+carbonic anhydrase inhibitors	are another type of	eye drops for glaucoma
+glaucoma	is a leading cause of	irreversible blindness
+regular eye exams	are important for	early detection of glaucoma
+glaucoma	is more common in people with	nearsightedness
+glaucoma	is less common in people with	farsightedness
+glaucoma	is more common in	women
+glaucoma	has a higher prevalence in	Japan
+glaucoma	is associated with	high blood pressure
+glaucoma	requires compliance with	medication regimen
+glaucoma	has a higher incidence in	individuals with a thin cornea
+glaucoma	is associated with	sleep apnea
+glaucoma	is a multifactorial	disease
+glaucoma	is associated with	smoking
+glaucoma	can be exacerbated by	corticosteroids
+glaucoma	is more common in	individuals of Hispanic descent
+glaucoma	has a higher prevalence in	Scandinavia
+glaucoma	can lead to	optic nerve atrophy
+glaucoma	is correlated with	thinner retinal nerve fiber layer
+glaucoma	may be linked to	cerebrospinal fluid pressure
+glaucoma	is associated with	certain genetic mutations
+glaucoma	is linked to	inflammation in the eye
+glaucoma	is more common in	people who have had eye injuries
+interdisciplinary care	is important for	glaucoma management
+glaucoma	is a leading cause of	visual impairment
+glaucoma	is prevalent in	individuals with low socioeconomic status
+glaucoma	can be exacerbated by	vasodilator medications
+glaucoma	is associated with	vascular dysregulation
+glaucoma	has a higher prevalence in	certain geographic regions
+glaucoma	is linked to	oxidative stress
+glaucoma	is more common in	individuals with migraine
+glaucoma	has a higher incidence in	people with obstructive sleep apnea
+glaucoma	is related to	aging changes in the eye
+glaucoma	is associated with	increased risk of cataracts
+glaucoma	can cause	halos around lights
+glaucoma	is more common in	individuals with high myopia
+glaucoma	increases the risk of	angle closure
+glaucoma	is associated with	primary angle closure
+glaucoma	has a higher prevalence in	individuals with thinner corneas
+glaucoma	is linked to	changes in the optic nerve head
+glaucoma	may be linked to	certain medications
+glaucoma	is associated with	psychological distress
+glaucoma	has a higher incidence in	individuals with low blood pressure
+glaucoma	can be affected by	hormonal changes
+glaucoma	is more common in	individuals with obstructive sleep apnea
+glaucoma	is associated with	myopia
+glaucoma	has a higher prevalence in	individuals with high intraocular pressure
+glaucoma	has a higher incidence in	individuals with a family history of glaucoma
+glaucoma	can be exacerbated by	anticholinergic medications
+glaucoma	is linked to	changes in the optic nerve anatomy
+glaucoma	is related to	disruptions in aqueous humor flow
+glaucoma	has a higher prevalence in	individuals with a history of eye trauma
+glaucoma	is associated with	thinning of the retinal nerve fiber layer
+glaucoma	can cause	peripheral vision loss
+glaucoma	is more common in	individuals with high cholesterol
+glaucoma	is linked to	changes in the anterior chamber angle
+glaucoma	is related to	abnormalities in the trabecular meshwork
+glaucoma	is correlated with	reduced blood flow to the optic nerve
+glaucoma	has a higher prevalence in	individuals with low ocular perfusion pressure
+glaucoma	is associated with	fluctuations in intraocular pressure
+glaucoma	has a higher incidence in	individuals with a history of uveitis
+glaucoma	is linked to	abnormalities in the ciliary body
+glaucoma	is related to	disturbances in the corneoscleral meshwork
+glaucoma	can be exacerbated by	anticoagulant medications

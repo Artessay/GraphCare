@@ -1,0 +1,69 @@
+diabetes	can lead to	gestational diabetes
+gestational diabetes	increases the risk of	cesarean section
+insulin	is used to treat	gestational diabetes
+obesity	is a risk factor for	gestational diabetes
+gestational diabetes	can cause	macrosomia
+macrosomia	increases the risk of	birth injuries
+gestational diabetes	may lead to	type 2 diabetes later in life
+pregnancy	can exacerbate	pre-existing diabetes
+pre-existing diabetes	can lead to	preeclampsia
+preeclampsia	increases the risk of	preterm birth
+diabetes	may require	induced labor
+glucose tolerance test	is used to screen for	gestational diabetes
+gestational diabetes	is managed with	diet and exercise
+monitoring blood sugar	is important for	managing gestational diabetes
+gestational diabetes	may necessitate	fetal monitoring
+diabetes	increases the risk of	stillbirth
+gestational diabetes	is associated with	neonatal hypoglycemia
+gestational diabetes	is a	type of diabetes mellitus
+gestational diabetes	is treated with	insulin therapy
+obesity	is a risk factor for	type 2 diabetes
+gestational diabetes	is a	temporary form of diabetes
+gestational diabetes	can affect	the health of the baby
+gestational diabetes	can lead to	preterm birth
+gestational diabetes	increases the risk of	hypertension
+gestational diabetes	is diagnosed through	blood sugar tests
+gestational diabetes	can cause	high birth weight
+gestational diabetes	increases the risk of	metabolic syndrome
+gestational diabetes	can contribute to	maternal mortality
+gestational diabetes	is linked to	pregnancy-induced hypertension
+gestational diabetes	can result in	hypoglycemia
+gestational diabetes	increases the risk of	birth defects
+gestational diabetes	is influenced by	maternal age
+gestational diabetes	requires	specialized prenatal care
+gestational diabetes	is associated with	excessive amniotic fluid
+gestational diabetes	is more common in	certain ethnic groups
+gestational diabetes	is associated with	preterm labor
+gestational diabetes	is a	common pregnancy complication
+gestational diabetes	increases the risk of	type 2 diabetes in the mother
+gestational diabetes	can lead to	shoulder dystocia
+gestational diabetes	is managed with	regular physical activity
+gestational diabetes	is a risk factor for	pre-eclampsia
+gestational diabetes	can cause	low blood sugar in the newborn
+gestational diabetes	is linked to	congenital malformations
+gestational diabetes	is more common in	older pregnant women
+gestational diabetes	increases the risk of	macrosomia
+gestational diabetes	is associated with	an increased risk of stillbirth
+gestational diabetes	can lead to	type 2 diabetes later in life
+gestational diabetes	requires	close monitoring of blood sugar levels
+gestational diabetes	increases the risk of	postpartum depression
+gestational diabetes	can result in	birth trauma
+gestational diabetes	is more common in	women with a family history of diabetes
+gestational diabetes	is linked to	fetal macrosomia
+gestational diabetes	can lead to	respiratory distress syndrome in the newborn
+gestational diabetes	is associated with	an increased risk of obesity in the child
+gestational diabetes	is more common in	women with a history of gestational diabetes
+gestational diabetes	is a	separate condition from type 1 or type 2 diabetes
+gestational diabetes	increases the risk of	polyhydramnios
+gestational diabetes	is associated with	a higher risk of stillbirth in the third trimester
+gestational diabetes	can lead to	hypocalcemia in the newborn
+gestational diabetes	is associated with	gestational hypertension
+gestational diabetes	increases the risk of	neonatal jaundice
+gestational diabetes	is managed with	frequent prenatal appointments
+gestational diabetes	can result in	nerve damage in the baby
+gestational diabetes	may increase the risk of	the mother developing type 2 diabetes in the future
+gestational diabetes	can cause	preterm birth
+gestational diabetes	is linked to	fetal growth restriction
+gestational diabetes	can lead to	an increased risk of cardiovascular disease in the mother
+gestational diabetes	is a	common pregnancy complication
+gestational diabetes	can affect	the health of the baby

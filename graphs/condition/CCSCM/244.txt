@@ -1,0 +1,97 @@
+other injuries and conditions due to external causes	can result in	fractures
+fractures	may require	surgery
+surgery	increases the risk of	infection
+infection	can lead to	sepsis
+sepsis	is treated with	antibiotics
+antibiotics	may cause	gastrointestinal upset
+gastrointestinal upset	can be managed with	anti-nausea medication
+anti-nausea medication	can interact with	certain pain medications
+certain pain medications	should be used cautiously with	anti-nausea medication
+anti-nausea medication	is prescribed for	chemotherapy patients
+chemotherapy patients	may experience	hair loss
+hair loss	can be managed with	wigs
+wigs	may cause	scalp irritation
+scalp irritation	can be relieved with	medicated shampoos
+medicated shampoos	may contain	corticosteroids
+corticosteroids	can lead to	skin thinning
+skin thinning	increases the risk of	skin tears
+skin tears	can be prevented by	using emollient creams
+emollient creams	are also used for	eczema treatment
+eczema treatment	may involve	phototherapy
+phototherapy	carries the risk of	skin damage
+skin damage	is treated with	topical ointments
+topical ointments	can cause	allergic reactions
+allergic reactions	may require	antihistamines
+antihistamines	should be used cautiously with	alcohol consumption
+alcohol consumption	can exacerbate	liver disease
+liver disease	is managed with	diet and medication
+diet and medication	can help prevent	liver failure
+liver failure	may lead to	liver transplant
+liver transplant	carries the risk of	rejection
+rejection	is treated with	immunosuppressants
+immunosuppressants	increase the risk of	infection
+infection	can lead to	sepsis
+sepsis	is treated with	antibiotics
+antibiotics	may cause	gastrointestinal upset
+gastrointestinal upset	can be managed with	anti-nausea medication
+anti-nausea medication	can interact with	certain pain medications
+certain pain medications	should be used cautiously with	anti-nausea medication
+anti-nausea medication	is prescribed for	chemotherapy patients
+chemotherapy patients	may experience	hair loss
+hair loss	can be managed with	wigs
+wigs	may cause	scalp irritation
+scalp irritation	can be relieved with	medicated shampoos
+medicated shampoos	may contain	corticosteroids
+corticosteroids	can lead to	skin thinning
+skin thinning	increases the risk of	skin tears
+skin tears	can be prevented by	using emollient creams
+emollient creams	are also used for	eczema treatment
+eczema treatment	may involve	phototherapy
+phototherapy	carries the risk of	skin damage
+skin damage	is treated with	topical ointments
+topical ointments	can cause	allergic reactions
+allergic reactions	may require	antihistamines
+antihistamines	should be used cautiously with	alcohol consumption
+alcohol consumption	can exacerbate	liver disease
+liver disease	is managed with	diet and medication
+diet and medication	can help prevent	liver failure
+liver failure	may lead to	liver transplant
+liver transplant	carries the risk of	rejection
+rejection	is treated with	immunosuppressants
+immunosuppressants	increase the risk of	infection
+infection	can lead to	sepsis
+sepsis	is treated with	antibiotics
+antibiotics	may cause	gastrointestinal upset
+gastrointestinal upset	can be managed with	anti-nausea medication
+anti-nausea medication	can interact with	certain pain medications
+certain pain medications	should be used cautiously with	anti-nausea medication
+anti-nausea medication	is prescribed for	chemotherapy patients
+chemotherapy patients	may experience	hair loss
+hair loss	can be managed with	wigs
+wigs	may cause	scalp irritation
+scalp irritation	can be relieved with	medicated shampoos
+medicated shampoos	may contain	corticosteroids
+corticosteroids	can lead to	skin thinning
+skin thinning	increases the risk of	skin tears
+skin tears	can be prevented by	using emollient creams
+emollient creams	are also used for	eczema treatment
+eczema treatment	may involve	phototherapy
+phototherapy	carries the risk of	skin damage
+skin damage	is treated with	topical ointments
+topical ointments	can cause	allergic reactions
+allergic reactions	may require	antihistamines
+antihistamines	should be used cautiously with	alcohol consumption
+alcohol consumption	can exacerbate	liver disease
+liver disease	is managed with	diet and medication
+diet and medication	can help prevent	liver failure
+liver failure	may lead to	liver transplant
+liver transplant	carries the risk of	rejection
+rejection	is treated with	immunosuppressants
+immunosuppressants	increase the risk of	infection
+infection	can lead to	sepsis
+sepsis	is treated with	antibiotics
+antibiotics	may cause	gastrointestinal upset
+gastrointestinal upset	can be managed with	anti-nausea medication
+anti-nausea medication	can interact with	certain pain medications
+certain pain medications	should be used cautiously with	anti-nausea medication
+anti-nausea medication	is prescribed for	chemotherapy patients

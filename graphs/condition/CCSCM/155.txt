@@ -1,0 +1,93 @@
+other gastrointestinal disorders	can cause	malabsorption
+malabsorption	can lead to	nutrient deficiencies
+nutrient deficiencies	can lead to	anemia
+anemia	can cause	fatigue
+fatigue	can lead to	decreased physical activity
+decreased physical activity	can lead to	weight gain
+weight gain	can lead to	obesity
+obesity	is a risk factor for	type 2 diabetes
+type 2 diabetes	can lead to	neuropathy
+neuropathy	can cause	foot ulcers
+foot ulcers	can lead to	amputation
+obesity	is a risk factor for	cardiovascular disease
+cardiovascular disease	can lead to	heart failure
+heart failure	can lead to	hospitalization
+hospitalization	can lead to	increased healthcare costs
+type 2 diabetes	can lead to	kidney disease
+kidney disease	can lead to	dialysis
+dialysis	can lead to	decreased quality of life
+obesity	is a risk factor for	fatty liver disease
+fatty liver disease	can lead to	liver failure
+liver failure	can lead to	liver transplant
+liver transplant	can lead to	complications
+complications	can lead to	mortality
+type 2 diabetes	is treated with	metformin
+metformin	can cause	gastrointestinal side effects
+gastrointestinal disorders	can be diagnosed with	endoscopy
+endoscopy	can detect	ulcers
+ulcers	can be treated with	proton pump inhibitors
+proton pump inhibitors	can lead to	nutrient deficiencies
+gastrointestinal disorders	can lead to	malnutrition
+malnutrition	can lead to	muscle wasting
+muscle wasting	can lead to	weakness
+weakness	can lead to	falls
+falls	can lead to	fractures
+fractures	can lead to	immobility
+immobility	can lead to	pressure ulcers
+pressure ulcers	can lead to	infection
+infection	can lead to	sepsis
+sepsis	can lead to	organ failure
+organ failure	can lead to	death
+metformin	is contraindicated in	kidney disease
+kidney disease	can lead to	electrolyte imbalances
+electrolyte imbalances	can lead to	cardiac arrhythmias
+cardiac arrhythmias	can lead to	sudden cardiac arrest
+gastrointestinal disorders	can cause	inflammation
+inflammation	can lead to	pain
+pain	can lead to	decreased quality of life
+gastrointestinal disorders	can be managed with	dietary modifications
+dietary modifications	can improve	symptoms
+symptoms	can be managed with	medications
+medications	can have	side effects
+side effects	can lead to	non-adherence
+non-adherence	can lead to	disease progression
+disease progression	can lead to	complications
+complications	can lead to	hospitalization
+hospitalization	can lead to	readmission
+readmission	can lead to	increased healthcare costs
+non-adherence	can lead to	treatment failure
+treatment failure	can lead to	disease exacerbation
+disease exacerbation	can lead to	decreased quality of life
+decreased quality of life	can lead to	depression
+depression	can lead to	decreased compliance with treatment
+decreased compliance with treatment	can lead to	poor outcomes
+poor outcomes	can lead to	decreased quality of life
+gastrointestinal disorders	can affect	mental health
+mental health	can impact	physical health
+physical health	can impact	mental health
+gastrointestinal disorders	can lead to	psychosocial distress
+psychosocial distress	can impact	quality of life
+quality of life	can be improved with	support services
+support services	can improve	coping skills
+coping skills	can improve	quality of life
+quality of life	can impact	healthcare utilization
+healthcare utilization	can impact	healthcare costs
+healthcare costs	can impact	financial burden
+financial burden	can impact	access to care
+access to care	can impact	health outcomes
+health outcomes	can impact	quality of life
+gastrointestinal disorders	can be associated with	other chronic conditions
+other chronic conditions	can impact	disease management
+disease management	can impact	overall health
+overall health	can impact	life expectancy
+life expectancy	can be affected by	comorbidities
+comorbidities	can impact	mortality
+mortality	can be predicted by	risk factors
+risk factors	can be identified through	screening
+screening	can lead to	early detection
+early detection	can lead to	better outcomes
+better outcomes	can improve	quality of life
+gastrointestinal disorders	can increase the risk of	complications
+complications	can be prevented with	early intervention
+early intervention	can improve	outcomes
+outcomes	can be measured by	healthcare metrics

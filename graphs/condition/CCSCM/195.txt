@@ -1,0 +1,100 @@
+Postpartum hemorrhage	can occur during	puerperium
+Puerperal sepsis	is a complication of	puerperium
+Retained placenta	can lead to	postpartum hemorrhage
+Puerperal mastitis	can occur during	puerperium
+Perineal tear	can occur during	birth
+Uterine atony	is a leading cause of	postpartum hemorrhage
+Eclampsia	is a pregnancy complication affecting	management of mother
+Pre-eclampsia	is a risk factor for	postpartum hemorrhage
+Maternal diabetes	may complicate	puerperium
+Maternal hypertension	can complicate	puerperium
+Neonatal jaundice	can affect the	management of mother
+Neonatal respiratory distress syndrome	may complicate	puerperium
+Maternal obesity	can increase the risk of	birth complications
+Gestational diabetes	can complicate the	management of mother
+Chorioamnionitis	can lead to	sepsis in mother
+Maternal anemia	can affect the	management of mother
+Placental abruption	can lead to	postpartum hemorrhage
+Puerperal depression	may affect	management of mother
+Preterm birth	increases the risk of	neonatal complications
+Maternal drug use	can complicate the	management of mother
+Intrauterine growth restriction	can lead to	maternal hypertension
+Cesarean section	can lead to	postpartum complications
+Uterine rupture	can result in	postpartum hemorrhage
+Maternal age	can affect the	management of mother
+Amniotic fluid embolism	is a rare but serious	birth complication
+Polyhydramnios	can lead to	maternal respiratory issues
+Oligohydramnios	can lead to	fetal growth restriction
+Hyperemesis gravidarum	can lead to	maternal dehydration
+Preeclampsia	can lead to	eclampsia
+Gestational hypertension	can complicate the	management of mother
+Uterine infection	can lead to	sepsis in mother
+Fetal macrosomia	can lead to	birth trauma
+Umbilical cord prolapse	can lead to	birth complications
+Placenta previa	can lead to	postpartum hemorrhage
+Intrauterine fetal demise	can lead to	maternal psychological issues
+Postpartum thyroiditis	can affect the	management of mother
+Maternal smoking	can lead to	fetal growth restriction
+Prolonged labor	can lead to	birth complications
+Maternal heart disease	can complicate the	management of mother
+Maternal infection	can lead to	complications in the puerperium
+Maternal obesity	can lead to	gestational diabetes
+Postpartum endometritis	can complicate the	puerperium
+Amniotic fluid infection	can lead to	sepsis in mother
+Episiotomy	can lead to	perineal complications
+Obstetric fistula	can complicate the	management of mother
+Maternal trauma	can lead to	birth complications
+Congenital anomalies in the infant	can impact the	management of the mother
+Maternal malnutrition	can lead to	fetal growth restriction
+Pregnancy-induced hypertension	can lead to	maternal hypertension
+Placental insufficiency	can lead to	intrauterine growth restriction
+Maternal drug abuse	can complicate the	management of mother
+Gestational thrombocytopenia	can lead to	bleeding complications
+Maternal liver disease	can complicate the	management of mother
+Fetal distress	can lead to	emergency birth procedures
+Uterine prolapse	can complicate the	management of mother
+Maternal HIV infection	can lead to	neonatal complications
+Puerperal urinary tract infection	can lead to	sepsis in mother
+Maternal anemia	can lead to	postpartum complications
+Maternal renal disease	can complicate the	management of mother
+Maternal substance abuse	can lead to	neonatal withdrawal syndrome
+Maternal hyperthyroidism	can affect the	management of mother
+Maternal hypothyroidism	can lead to	fetal neurodevelopmental issues
+Pregnancy-induced cholestasis	can lead to	maternal liver issues
+Fetal macrosomia	can lead to	maternal birth complications
+Maternal autoimmune disease	can complicate the	management of mother
+Maternal mental health issues	can affect the	management of mother
+Prolonged rupture of membranes	can lead to	maternal infection
+Maternal antenatal steroids	can impact the	management of the puerperium
+Maternal thrombophilia	can lead to	pregnancy complications
+Maternal epilepsy	can affect the	management of mother
+Maternal lupus	can lead to	neonatal complications
+Maternal thrombocytopenia	can lead to	bleeding disorders in mother
+Maternal autoimmune hemolytic anemia	can lead to	neonatal anemia
+Maternal syphilis	can lead to	pregnancy complications
+Maternal varicella infection	can lead to	neonatal varicella
+Maternal tuberculosis	can lead to	neonatal tuberculosis
+Maternal chlamydia infection	can lead to	neonatal chlamydia
+Maternal rubella infection	can lead to	neonatal rubella
+Maternal hepatitis B infection	can lead to	neonatal hepatitis B
+Maternal cytomegalovirus infection	can lead to	neonatal cytomegalovirus
+Maternal toxoplasmosis	can lead to	neonatal toxoplasmosis
+Maternal Group B streptococcus infection	can lead to	neonatal Group B streptococcus
+Maternal HIV infection	can lead to	neonatal HIV
+Maternal herpes simplex virus infection	can lead to	neonatal herpes simplex virus
+Maternal Zika virus infection	can lead to	neonatal Zika virus
+Maternal COVID-19 infection	can lead to	neonatal COVID-19
+Maternal dengue fever infection	can lead to	neonatal dengue fever
+Maternal malaria infection	can lead to	neonatal malaria
+Maternal syphilis infection	can lead to	neonatal syphilis
+Maternal gonorrhea infection	can lead to	neonatal gonorrhea
+Maternal herpes simplex virus infection	can lead to	neonatal herpes simplex virus
+Maternal human papillomavirus infection	can lead to	neonatal human papillomavirus
+Maternal hepatitis C infection	can lead to	neonatal hepatitis C
+Maternal Epstein-Barr virus infection	can lead to	neonatal Epstein-Barr virus
+Maternal cytomegalovirus infection	can lead to	neonatal cytomegalovirus
+Maternal influenza infection	can lead to	neonatal influenza
+Maternal lyme disease	can lead to	neonatal lyme disease
+Maternal tuberculosis	can lead to	neonatal tuberculosis
+Maternal chickenpox infection	can lead to	neonatal chickenpox
+Maternal pertussis infection	can lead to	neonatal pertussis

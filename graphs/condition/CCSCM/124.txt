@@ -1,0 +1,5 @@
+acute and chronic tonsillitis	are	throat infections
+acute and chronic tonsillitis	can lead to	difficulty swallowing
+streptococcal bacteria	is a common cause of	acute and chronic tonsillitis
+tonsillectomy	is a surgical treatment for	chronic tonsillitis
+ibuprofen	can be used to relieve	pain associated with acute and chronic tonsillitis

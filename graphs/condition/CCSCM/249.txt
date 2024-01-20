@@ -1,0 +1,76 @@
+shock	is a	medical emergency
+septic shock	is a type of	shock
+hypovolemic shock	can be caused by	severe blood loss
+shock	can lead to	multiple organ failure
+norepinephrine	is used to treat	shock
+shock	increases the risk of	mortality
+patients in shock	may require	mechanical ventilation
+cardiogenic shock	is caused by	heart failure
+distributive shock	is characterized by	vasodilation
+septic shock	can result from	severe infection
+hypovolemic shock	leads to	decreased tissue perfusion
+shock	can cause	hypotension
+fluid resuscitation	is crucial in treating	shock
+patients with shock	need	hemodynamic monitoring
+septic shock	can lead to	sepsis-induced coagulopathy
+anaphylactic shock	is a severe	allergic reaction
+shock	can result in	metabolic acidosis
+neurogenic shock	is caused by	spinal cord injury
+cardiogenic shock	requires	treatment of the underlying heart condition
+shock	increases the risk of	acute respiratory distress syndrome
+patients with shock	may develop	disseminated intravascular coagulation
+septic shock	is associated with	high levels of inflammatory cytokines
+obstructive shock	is caused by	pulmonary embolism
+shock	can lead to	cardiac arrest
+patients in shock	may experience	altered mental status
+shock	disrupts	tissue oxygenation
+septic shock	is often accompanied by	hypotension
+patients with shock	may require	vasopressor therapy
+septic shock	can result in	acute kidney injury
+hemorrhagic shock	is caused by	severe bleeding
+shock	can result in	lactic acidosis
+shock	requires	immediate intervention
+patients in shock	are at risk of developing	sepsis
+shock	can induce	systemic inflammatory response syndrome
+septic shock	is a leading cause of	mortality
+patients with shock	require	close monitoring
+shock	can lead to	circulatory failure
+severe hypotension	is a hallmark of	shock
+shock	can lead to	tissue hypoperfusion
+shock	results in	decreased cardiac output
+shock	can lead to	multiple system organ failure
+shock	may be caused by	anaphylaxis
+shock	is characterized by	inadequate tissue perfusion
+shock	can trigger	compensatory mechanisms
+shock	can cause	distributive shock
+shock	can cause	hypovolemic shock
+shock	can cause	cardiogenic shock
+shock	can cause	obstructive shock
+shock	can result in	hypovolemia
+shock	can result in	decreased systemic vascular resistance
+shock	can result in	increased heart rate
+shock	can result in	cold and clammy skin
+shock	can result in	oliguria
+shock	can result in	tachypnea
+shock	can result in	altered mental status
+shock	can result in	hypothermia
+shock	can result in	hyperlactatemia
+shock	can lead to	tissue hypoxia
+shock	can lead to	cellular dysfunction
+shock	can lead to	organ dysfunction
+shock	can lead to	systemic hypoperfusion
+shock	can lead to	shock-related organ injury
+shock	can lead to	hyperinflammatory state
+shock	can lead to	microcirculatory dysfunction
+shock	can lead to	mitochondrial dysfunction
+shock	can lead to	endothelial dysfunction
+shock	can lead to	capillary leak syndrome
+shock	can lead to	hypercoagulability
+shock	can lead to	immunosuppression
+shock	can lead to	neuroendocrine dysregulation
+shock	can lead to	sympathetic nervous system activation
+shock	can lead to	cytokine release
+shock	can lead to	oxidative stress
+shock	can lead to	cellular damage
+shock	can lead to	organ failure
+shock	can lead to	sepsis

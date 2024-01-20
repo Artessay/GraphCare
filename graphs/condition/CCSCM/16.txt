@@ -1,0 +1,22 @@
+cancer of liver and intrahepatic bile duct	is a type of	cancer
+hepatitis B	is a risk factor for	cancer of liver and intrahepatic bile duct
+chronic alcohol consumption	is a risk factor for	cancer of liver and intrahepatic bile duct
+cirrhosis	predisposes to	cancer of liver and intrahepatic bile duct
+alpha-fetoprotein	is a tumor marker for	cancer of liver and intrahepatic bile duct
+surgical resection	is a treatment for	cancer of liver and intrahepatic bile duct
+transarterial chemoembolization	is a treatment for	cancer of liver and intrahepatic bile duct
+sorafenib	is a targeted therapy for	cancer of liver and intrahepatic bile duct
+cancer of liver and intrahepatic bile duct	can metastasize to	lung
+portal vein thrombosis	can occur in	cancer of liver and intrahepatic bile duct
+acute kidney injury	can occur in	cancer of liver and intrahepatic bile duct
+cancer of liver and intrahepatic bile duct	has a poor	prognosis
+hepatocellular carcinoma	is the most common type of	cancer of liver and intrahepatic bile duct
+intrahepatic cholangiocarcinoma	is a subtype of	cancer of liver and intrahepatic bile duct
+metastasis	commonly occurs in	cancer of liver and intrahepatic bile duct
+abdominal pain	is a symptom of	cancer of liver and intrahepatic bile duct
+jaundice	is a symptom of	cancer of liver and intrahepatic bile duct
+weight loss	is a symptom of	cancer of liver and intrahepatic bile duct
+liver transplant	may be a treatment option for	cancer of liver and intrahepatic bile duct
+diabetes mellitus	is a risk factor for	cancer of liver and intrahepatic bile duct
+cirrhosis	is a risk factor for	cancer of liver and intrahepatic bile duct
+biliary tract obstruction	can occur in	cancer of liver and intrahepatic bile duct

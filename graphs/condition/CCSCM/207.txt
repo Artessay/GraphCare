@@ -1,0 +1,52 @@
+pathological fracture	is a	type of fracture
+pathological fracture	can occur in	cancer patients
+radiation therapy	can cause	pathological fracture
+pathological fracture	may lead to	immobility
+immobility	increases the risk of	deep vein thrombosis
+deep vein thrombosis	can lead to	pulmonary embolism
+pulmonary embolism	can cause	death
+pathological fracture	is managed with	orthopedic surgery
+orthopedic surgery	may require	bone grafting
+bone grafting	can be done using	autograft or allograft
+autograft	uses	patient's own bone
+allograft	uses	donor bone
+pathological fracture	is a risk factor for	mortality
+mortality	can be predicted by	age and comorbidities
+age and comorbidities	affect	mortality rate
+mortality rate	can be lowered with	early intervention
+early intervention	includes	pain management and physical therapy
+physical therapy	helps in	regaining mobility
+regaining mobility	reduces the risk of	complications
+complications	can lead to	hospital readmission
+hospital readmission	is linked to	increased healthcare costs
+increased healthcare costs	can be reduced by	preventive measures
+preventive measures	include	education and support for patients and caregivers
+education and support	are important for	patient outcomes
+patient outcomes	can be improved with	coordinated care
+coordinated care	involves	communication between healthcare providers
+communication between healthcare providers	ensures	comprehensive treatment
+comprehensive treatment	leads to	better prognosis
+prognosis	depends on	the underlying condition and the patient's overall health
+the underlying condition and the patient's overall health	determine	treatment options
+treatment options	may include	chemotherapy	radiation therapy	or surgery
+chemotherapy	and	radiation therapy	are used in	cancer patients with pathological fractures
+surgery	is necessary for	stabilizing the bone
+stabilizing the bone	can improve	quality of life
+quality of life	is affected by	pain and mobility
+pain and mobility	impact	daily activities
+daily activities	can be adapted with	assistive devices and modifications
+assistive devices and modifications	help in	maintaining independence
+maintaining independence	is important for	mental well-being
+mental well-being	influences	overall health
+overall health	affects	recovery and rehabilitation
+recovery and rehabilitation	are crucial for	regaining function
+regaining function	requires	multidisciplinary approach
+multidisciplinary approach	involves	various healthcare professionals
+various healthcare professionals	collaborate in	patient care
+patient care	should be personalized to	individual needs
+individual needs	are unique for	each patient
+each patient	requires	tailored treatment plan
+tailored treatment plan	considers	patient's preferences and goals
+patient's preferences and goals	impact	treatment adherence
+treatment adherence	is essential for	successful outcome
+successful outcome	is the ultimate goal of	healthcare management

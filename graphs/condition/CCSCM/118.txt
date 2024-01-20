@@ -1,0 +1,25 @@
+phlebitis	is an inflammation of	veins
+phlebitis	may lead to	thrombophlebitis
+thrombophlebitis	can cause	deep vein thrombosis
+deep vein thrombosis	is a risk factor for	pulmonary embolism
+pulmonary embolism	can lead to	respiratory failure
+venous ultrasound	is used to diagnose	phlebitis
+thromboembolism	includes	pulmonary embolism
+thromboembolism	is a complication of	phlebitis
+compression stockings	are used to prevent	phlebitis
+anticoagulants	are used to treat	thromboembolism
+warfarin	is an example of	anticoagulant
+patient history of	deep vein thrombosis	is a risk factor for	phlebitis
+phlebitis	may lead to	sepsis
+sepsis	can cause	multiple organ failure
+multiple organ failure	can lead to	mortality
+cancer	is a risk factor for	phlebitis
+chemotherapy	can increase the risk of	phlebitis
+obesity	is a risk factor for	phlebitis
+smoking	is a risk factor for	thromboembolism
+venous insufficiency	predisposes to	phlebitis
+birth control pills	can increase the risk of	thromboembolism
+prolonged immobilization	increases the risk of	phlebitis
+aspirin	is not effective in preventing	thromboembolism
+thromboembolism	is a potential complication of	surgery
+oral contraceptives	are a risk factor for	thromboembolism

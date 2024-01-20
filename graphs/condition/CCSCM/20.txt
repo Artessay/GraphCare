@@ -1,0 +1,19 @@
+cancer	is a	medical condition
+cancer	can metastasize to	lungs
+lung cancer	is a type of	cancer
+chemotherapy	is a treatment for	lung cancer
+cisplatin	is a type of	chemotherapy
+cisplatin	can cause	nephrotoxicity
+nephrotoxicity	can lead to	kidney failure
+kidney failure	can result in	dialysis
+dialysis	is a treatment for	kidney failure
+radiation therapy	is a treatment for	lung cancer
+radiation therapy	can cause	pneumonitis
+pneumonitis	can lead to	respiratory distress
+respiratory distress	can result in	hospitalization
+hospitalization	can increase the risk of	infection
+infection	can lead to	sepsis
+sepsis	can result in	septic shock
+septic shock	can lead to	multi-organ failure
+multi-organ failure	can result in	death
+death	is an outcome of	cancer

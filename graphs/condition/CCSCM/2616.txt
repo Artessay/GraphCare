@@ -1,0 +1,10 @@
+e codes	are used for	coding adverse effects
+adverse effects	can result from	medical care
+adverse effects	can lead to	hospital readmission
+hospital readmission	is associated with	higher healthcare costs
+higher healthcare costs	can impact	healthcare spending
+healthcare spending	affects	healthcare budget
+adverse effects	may require	additional treatment
+additional treatment	may include	medication
+medication	can cause	adverse effects
+adverse effects	may require	e codes for coding

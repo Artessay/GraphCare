@@ -1,0 +1,22 @@
+prolonged pregnancy	is a risk factor for	cesarean section
+prolonged pregnancy	can lead to	macrosomia
+macrosomia	increases the risk of	birth injuries
+birth injuries	can cause	brachial plexus injury
+brachial plexus injury	may result in	weakness in the arm
+weakness in the arm	can lead to	physical therapy
+physical therapy	is recommended for	brachial plexus injury
+prolonged pregnancy	is associated with	increased risk of stillbirth
+prolonged pregnancy	is a reason for	induction of labor
+induction of labor	may lead to	increased risk of cesarean section
+prolonged pregnancy	may require	fetal monitoring
+fetal monitoring	can detect	signs of distress
+signs of distress	may prompt	emergency cesarean section
+prolonged pregnancy	is managed with	increased antenatal surveillance
+antenatal surveillance	involves	monitoring fetal growth
+monitoring fetal growth	helps in	assessing the wellbeing of the baby
+prolonged pregnancy	is a condition where	gestation exceeds 42 weeks
+prolonged pregnancy	may increase the risk of	meconium aspiration syndrome
+meconium aspiration syndrome	can cause	respiratory distress in newborns
+respiratory distress in newborns	requires	immediate medical intervention
+prolonged pregnancy	is linked to	elevated levels of amniotic fluid
+elevated levels of amniotic fluid	can lead to	increased risk of post-term complications

@@ -1,0 +1,91 @@
+cancer of uterus	is a	gynecological malignancy
+cancer of uterus	risk factors include	obesity
+hysterectomy	is a treatment for	cancer of uterus
+radiotherapy	is used for	cancer of uterus
+cancer of uterus	may metastasize to	ovaries
+cancer of uterus	symptoms include	abnormal vaginal bleeding
+cancer of uterus	is diagnosed using	endometrial biopsy
+hormonal therapy	is used in	cancer of uterus
+cancer of uterus	has a high mortality rate
+cancer of uterus	is more common in	postmenopausal women
+cancer of uterus	is associated with	estrogen exposure
+obesity	is associated with	increased risk of	cancer of uterus
+cancer of uterus	can lead to	urinary symptoms
+cancer of uterus	may require	lymph node dissection
+cancer of uterus	is treated with	chemotherapy
+cancer of uterus	recurrence rate is high
+cancer of uterus	prognosis depends on	stage at diagnosis
+cancer of uterus	is linked to	Lynch syndrome
+cancer of uterus	is often detected by	pelvic ultrasound
+cancer of uterus	can cause	pelvic pain
+cancer of uterus	can develop in	endometrial tissue
+cancer of uterus	is associated with	high estrogen levels
+cancer of uterus	has a genetic predisposition in	some families
+cancer of uterus	affects	reproductive system
+cancer of uterus	can spread to	lymph nodes
+cancer of uterus	has a better prognosis if	diagnosed early
+cancer of uterus	treatment may involve	hormone therapy
+aspirin	may reduce the risk of	cancer of uterus
+cancer of uterus	may lead to	anemia
+cancer of uterus	can be detected through	Pap smear
+cancer of uterus	may be genetic in	some cases
+cancer of uterus	is more common in	older women
+cancer of uterus	can lead to	infertility
+regular exercise	may reduce the risk of	cancer of uterus
+cancer of uterus	is associated with	abnormal endometrial cells
+cancer of uterus	has a higher incidence in	developed countries
+cancer of uterus	is more common in	women with diabetes
+cancer of uterus	is linked to	tamoxifen use
+cancer of uterus	is rare in	premenopausal women
+cancer of uterus	is more common in	women who have never had children
+cancer of uterus	may be related to	polycystic ovary syndrome
+cancer of uterus	is associated with	prolonged estrogen therapy
+cancer of uterus	prognosis is poorer in	advanced stage disease
+cancer of uterus	can lead to	weight loss
+cancer of uterus	has a higher incidence in	African American women
+cancer of uterus	may cause	deep vein thrombosis
+cancer of uterus	is associated with	unopposed estrogen
+cancer of uterus	is more common in	women with high blood pressure
+cancer of uterus	may require	oophorectomy
+cancer of uterus	can lead to	fatigue
+cancer of uterus	has a worse prognosis if	metastasized
+cancer of uterus	is linked to	Lynch syndrome
+obesity	is associated with	increased risk of	cancer of uterus
+cancer of uterus	can be detected through	transvaginal ultrasound
+high fiber diet	may reduce the risk of	cancer of uterus
+cancer of uterus	is more common in	women with personal history of breast cancer
+cancer of uterus	is associated with	estrogen-alone hormone replacement therapy
+cancer of uterus	is rare in	women who have used oral contraceptives
+cancer of uterus	can cause	constipation
+cancer of uterus	has a genetic predisposition in	some families
+cancer of uterus	has a higher incidence in	overweight women
+cancer of uterus	may require	pelvic lymphadenectomy
+progesterone therapy	may reduce the risk of	cancer of uterus
+cancer of uterus	may lead to	pelvic organ prolapse
+cancer of uterus	has a worse prognosis if	positive lymph nodes
+cancer of uterus	can be related to	exposure to diethylstilbestrol in utero
+cancer of uterus	is associated with	hereditary nonpolyposis colorectal cancer syndrome
+cancer of uterus	diagnosis may involve	dilation and curettage
+cancer of uterus	can cause	urinary incontinence
+cancer of uterus	has a higher incidence in	women with early onset menstruation
+cancer of uterus	may be linked to	exposure to radiation
+cancer of uterus	has a worse prognosis if	poorly differentiated
+cancer of uterus	is more common in	women with high levels of blood glucose
+cancer of uterus	may require	radical hysterectomy
+cancer of uterus	can lead to	depression
+cancer of uterus	has a genetic predisposition in	some families
+cancer of uterus	has a higher incidence in	women with late menopause
+cancer of uterus	may be related to	exposure to polychlorinated biphenyls
+cancer of uterus	has a worse prognosis if	invaded the cervical stroma
+cancer of uterus	is more common in	women with infertility
+cancer of uterus	may require	adjuvant therapy
+cancer of uterus	can lead to	sexual dysfunction
+cancer of uterus	has a higher incidence in	women with high levels of insulin
+cancer of uterus	is more common in	women with no history of breastfeeding
+cancer of uterus	may be related to	exposure to estrogen-like chemicals
+cancer of uterus	has a worse prognosis if	with distant metastases
+cancer of uterus	is more common in	women with a sedentary lifestyle
+cancer of uterus	may require	brachytherapy
+cancer of uterus	can lead to	anxiety
+cancer of uterus	is linked to	endometrial hyperplasia
+cancer of uterus	has a higher incidence in	women with high levels of androgens

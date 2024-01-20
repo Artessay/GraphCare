@@ -1,0 +1,27 @@
+intestinal infection	is a	common illness
+intestinal infection	can be caused by	bacteria
+probiotics	can help treat	intestinal infections
+intussusception	is a complication of	intestinal infection
+intestinal infection	may lead to	dehydration
+dehydration	can result in	hospitalization
+hospitalization	increases risk of	secondary infections
+antibiotics	are used to treat	severe intestinal infections
+intestinal infection	can be prevented by	proper hand hygiene
+intestinal infection	can lead to	malabsorption
+malabsorption	causes	nutrient deficiencies
+nutrient deficiencies	can lead to	fatigue
+fatigue	affects	daily functioning
+prolonged fatigue	may be a sign of	post-infectious syndrome
+post-infectious syndrome	is associated with	intestinal infections
+intestinal infections	increase the risk of	gastrointestinal diseases
+gastrointestinal diseases	may require	long-term treatment
+long-term treatment	can lead to	medication side effects
+medication side effects	may result in	hospital readmissions
+hospital readmissions	are associated with	increased healthcare costs
+increased healthcare costs	are linked to	economic burden
+economic burden	impacts	healthcare system funding
+intestinal infections	can be a risk factor for	inflammatory bowel disease
+inflammatory bowel disease	may lead to	surgery
+surgery	is associated with	complications
+complications	can increase	mortality risk
+mortality risk	is a concern for	patients with intestinal infections

@@ -1,0 +1,79 @@
+acute and unspecified renal failure	is a	medical condition
+acute and unspecified renal failure	can lead to	electrolyte imbalances
+acute and unspecified renal failure	may require	dialysis
+diuretics	can worsen	acute and unspecified renal failure
+acute and unspecified renal failure	has a higher risk of	mortality
+fluid restriction	is a treatment for	acute and unspecified renal failure
+acute and unspecified renal failure	is associated with	sepsis
+acute and unspecified renal failure	increases the risk of	hospital readmission
+acute and unspecified renal failure	is commonly caused by	acute tubular necrosis
+acute and unspecified renal failure	can progress to	chronic kidney disease
+acute and unspecified renal failure	is characterized by	decreased urine output
+acute and unspecified renal failure	may require	kidney biopsy
+acute and unspecified renal failure	can lead to	metabolic acidosis
+acute and unspecified renal failure	is a common complication of	sepsis
+acute and unspecified renal failure	can result from	urinary obstruction
+acute and unspecified renal failure	can be caused by	nephrotoxic drugs
+acute and unspecified renal failure	is linked to	aging
+acute and unspecified renal failure	increases the risk of	complications
+acute and unspecified renal failure	may require	renal replacement therapy
+acute and unspecified renal failure	may lead to	cardiovascular complications
+acute and unspecified renal failure	is diagnosed using	blood tests
+acute and unspecified renal failure	is associated with	high blood pressure
+acute and unspecified renal failure	can cause	uremia
+acute and unspecified renal failure	can result in	fluid overload
+acute and unspecified renal failure	can lead to	encephalopathy
+acute and unspecified renal failure	is a risk factor for	acute respiratory distress syndrome
+acute and unspecified renal failure	can lead to	hyperkalemia
+acute and unspecified renal failure	is linked to	diabetes
+acute and unspecified renal failure	has a higher incidence in	critically ill patients
+acute and unspecified renal failure	is treated with	intravenous fluids
+acute and unspecified renal failure	is associated with	urinary tract infections
+acute and unspecified renal failure	is a complication of	heart failure
+acute and unspecified renal failure	can result in	anemia
+acute and unspecified renal failure	is more common in	older adults
+acute and unspecified renal failure	is a risk factor for	pneumonia
+acute and unspecified renal failure	can cause	hyperphosphatemia
+acute and unspecified renal failure	is more prevalent in	males
+acute and unspecified renal failure	is a consequence of	major surgery
+acute and unspecified renal failure	can lead to	septic shock
+acute and unspecified renal failure	may require	vasopressors
+acute and unspecified renal failure	is associated with	liver disease
+acute and unspecified renal failure	has a higher risk of	delirium
+acute and unspecified renal failure	is characterized by	fluid retention
+acute and unspecified renal failure	is a complication of	dehydration
+acute and unspecified renal failure	can result in	pericarditis
+acute and unspecified renal failure	is linked to	urinary calculi
+acute and unspecified renal failure	is more common in	African American population
+acute and unspecified renal failure	can cause	hypertension
+acute and unspecified renal failure	is linked to	autoimmune diseases
+acute and unspecified renal failure	has a higher risk of	infection
+acute and unspecified renal failure	is associated with	nephrotoxicity
+acute and unspecified renal failure	is associated with	rhabdomyolysis
+acute and unspecified renal failure	can lead to	pulmonary edema
+acute and unspecified renal failure	can result in	thrombocytopenia
+acute and unspecified renal failure	increases the risk of	hyperglycemia
+acute and unspecified renal failure	is linked to	proteinuria
+acute and unspecified renal failure	is associated with	hematuria
+acute and unspecified renal failure	prevents	waste elimination
+acute and unspecified renal failure	can lead to	hypocalcemia
+acute and unspecified renal failure	has a higher risk of	sepsis
+acute and unspecified renal failure	increases the risk of	acute heart failure
+acute and unspecified renal failure	is associated with	multiple organ failure
+acute and unspecified renal failure	has a higher risk of	chronic kidney disease progression
+acute and unspecified renal failure	is a complication of	postoperative period
+acute and unspecified renal failure	is a risk factor for	hyperkalemia
+acute and unspecified renal failure	causes	azotemia
+acute and unspecified renal failure	is a consequence of	drug toxicity
+acute and unspecified renal failure	can result in	uremic neuropathy
+acute and unspecified renal failure	is linked to	sickle cell disease
+acute and unspecified renal failure	is associated with	cirrhosis
+acute and unspecified renal failure	can cause	osmotic diuresis
+acute and unspecified renal failure	is more prevalent in	hospitalized patients
+acute and unspecified renal failure	can lead to	urinary retention
+acute and unspecified renal failure	is linked to	hypokalemia
+acute and unspecified renal failure	is associated with	hypovolemia
+acute and unspecified renal failure	can result in	post-renal azotemia
+acute and unspecified renal failure	is characterized by	elevated creatinine levels
+acute and unspecified renal failure	is a complication of	acute pancreatitis
+acute and unspecified renal failure	is linked to	glomerulonephritis

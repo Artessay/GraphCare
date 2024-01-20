@@ -1,0 +1,11 @@
+other non-epithelial cancer of skin	is a type of	cancer
+other non-epithelial cancer of skin	may arise from	melanocytes
+surgical excision	is a treatment for	other non-epithelial cancer of skin
+other non-epithelial cancer of skin	has a	high recurrence rate
+regular dermatologic check-ups	are important for	patients with other non-epithelial cancer of skin
+other non-epithelial cancer of skin	may metastasize to	lymph nodes
+lymph node biopsy	is done to detect	metastasis in other non-epithelial cancer of skin
+other non-epithelial cancer of skin	is associated with	UV radiation exposure
+sunscreen use	can help prevent	other non-epithelial cancer of skin
+family history	is a risk factor for	other non-epithelial cancer of skin
+genetic counseling	is recommended for	individuals with family history of other non-epithelial cancer of skin

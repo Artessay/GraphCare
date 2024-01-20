@@ -1,0 +1,65 @@
+diabetes mellitus with complications	is a	chronic condition
+diabetes mellitus with complications	can lead to	cardiovascular disease
+insulin	is a treatment for	diabetes mellitus with complications
+diabetes mellitus with complications	is associated with	neuropathy
+neuropathy	can cause	foot ulcers
+foot ulcers	can lead to	amputation
+diabetes mellitus with complications	is diagnosed with	HbA1c test
+diabetes mellitus with complications	can result in	kidney failure
+kidney failure	requires	dialysis
+dialysis	is a treatment for	kidney failure
+diabetes mellitus with complications	increases the risk of	retinopathy
+retinopathy	can lead to	vision loss
+diabetes mellitus with complications	requires	regular monitoring
+regular monitoring	involves	blood glucose testing
+diabetes mellitus with complications	can lead to	diabetic ketoacidosis
+diabetic ketoacidosis	is a life-threatening	condition
+diabetes mellitus with complications	increases the risk of	infection
+infection	can lead to	sepsis
+sepsis	can result in	hospitalization
+hospitalization	may lead to	increased healthcare costs
+diabetes mellitus with complications	is managed with	lifestyle changes and medication
+medication	includes	oral hypoglycemic agents
+diabetes mellitus with complications	affects	quality of life
+quality of life	can be improved with	proper management
+proper management	involves	patient education
+patient education	is essential for	self-care
+self-care	includes	diet and exercise
+diabetes mellitus with complications	has a higher risk of	mortality
+mortality	can be reduced with	early intervention
+early intervention	includes	regular medical check-ups
+diabetes mellitus with complications	is a leading cause of	disability
+disability	requires	support and accommodation
+support and accommodation	improve	patient outcomes
+patient outcomes	are influenced by	social determinants of health
+social determinants of health	include	socioeconomic status
+socioeconomic status	affects	access to healthcare
+access to healthcare	is important for	disease management
+disease management	affects	healthcare utilization
+healthcare utilization	impacts	healthcare costs
+healthcare costs	are influenced by	insurance coverage
+insurance coverage	affects	access to medication
+access to medication	is important for	disease control
+disease control	impacts	long-term prognosis
+long-term prognosis	depends on	adherence to treatment
+adherence to treatment	is influenced by	patient motivation
+patient motivation	is influenced by	support from healthcare providers
+support from healthcare providers	includes	regular follow-up
+regular follow-up	is important for	disease monitoring
+disease monitoring	is essential for	preventing complications
+preventing complications	is crucial for	improving outcomes
+improving outcomes	requires	multidisciplinary approach
+multidisciplinary approach	involves	collaboration among healthcare professionals
+collaboration among healthcare professionals	enhances	patient care
+patient care	is crucial for	overall well-being
+overall well-being	is influenced by	physical and mental health
+physical and mental health	are interconnected
+interconnected physical and mental health	influence	disease management
+disease management	requires	holistic approach
+holistic approach	includes	addressing psychosocial needs
+addressing psychosocial needs	is important for	patient satisfaction
+patient satisfaction	is linked to	compliance with treatment
+compliance with treatment	leads to	better health outcomes
+better health outcomes	improve	quality of life
+quality of life	is the ultimate	goal
+goal	drives	healthcare decision-making

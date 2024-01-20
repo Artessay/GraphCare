@@ -1,0 +1,11 @@
+leukemias	are a type of	cancer
+chemotherapy	is used to treat	leukemias
+leukemias	can cause	anemia
+bone marrow transplant	is a treatment for	leukemias
+radiation therapy	is used to treat	leukemias
+leukemias	may present with	enlarged lymph nodes
+Gleevec	is a targeted therapy for	leukemias
+patients with leukemias	have a higher risk of	infection
+leukemias	can lead to	fatigue
+leukemias	increase the risk of	bleeding
+stem cell transplant	is a potential cure for	leukemias

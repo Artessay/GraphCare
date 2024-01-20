@@ -1,0 +1,54 @@
+deficiency anemia	is a type of	anemia
+iron	is used to treat	deficiency anemia
+vitamin B12	is used to treat	deficiency anemia
+deficiency anemia	can be caused by	inadequate diet
+pregnancy	can lead to	deficiency anemia
+deficiency anemia	may cause	fatigue
+deficiency anemia	is diagnosed through	blood tests
+deficiency anemia	can result in	pale skin
+deficiency anemia	increases the risk of	heart problems
+deficiency anemia	is associated with	low red blood cell count
+deficiency anemia	requires	iron supplementation
+deficiency anemia	can be a sign of	gastrointestinal bleeding
+deficiency anemia	can be caused by	malabsorption
+deficiency anemia	can lead to	cognitive impairment
+deficiency anemia	is linked to	menstrual blood loss
+deficiency anemia	may require	bone marrow biopsy
+deficiency anemia	can be caused by	genetic factors
+deficiency anemia	can result in	dizziness
+deficiency anemia	is often accompanied by	weakness
+deficiency anemia	may necessitate	blood transfusion
+deficiency anemia	can be exacerbated by	chronic illness
+deficiency anemia	is a risk factor for	infections
+deficiency anemia	is characterized by	low hemoglobin levels
+deficiency anemia	is treated with	dietary changes
+deficiency anemia	is associated with	decreased oxygen delivery to tissues
+deficiency anemia	can be caused by	parasites
+deficiency anemia	can lead to	rapid heartbeat
+deficiency anemia	is more common in	elderly population
+deficiency anemia	can be caused by	chronic kidney disease
+deficiency anemia	is linked to	unusual cravings for non-food items
+deficiency anemia	increases the risk of	preterm birth
+deficiency anemia	can cause	chest pain
+deficiency anemia	may be a sign of	bone marrow disorder
+deficiency anemia	can be a result of	chronic inflammation
+deficiency anemia	can be caused by	excessive blood loss
+deficiency anemia	can result in	headaches
+deficiency anemia	can cause	shortness of breath
+deficiency anemia	may require	folate supplementation
+deficiency anemia	is associated with	reduced exercise tolerance
+deficiency anemia	can be caused by	lead poisoning
+deficiency anemia	can lead to	pica
+deficiency anemia	may be due to	autoimmune destruction of red blood cells
+deficiency anemia	is linked to	fatigue and weakness
+deficiency anemia	is more common in	developing countries
+deficiency anemia	can result in	low blood pressure
+deficiency anemia	can be caused by	chronic alcoholism
+deficiency anemia	is associated with	impaired immune function
+deficiency anemia	can cause	confusion
+deficiency anemia	can lead to	slow growth in children
+deficiency anemia	can be a sign of	celiac disease
+deficiency anemia	is linked to	autoimmune gastritis
+deficiency anemia	can result in	irritability
+deficiency anemia	is associated with	thin	brittle nails
+deficiency anemia	can be caused by	folate deficiency

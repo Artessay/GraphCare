@@ -1,0 +1,84 @@
+osteoarthritis	is a	degenerative joint disease
+osteoarthritis	may cause	joint pain
+physical therapy	is recommended for	osteoarthritis
+osteoarthritis	is associated with	aging
+osteoarthritis	can lead to	joint stiffness
+osteoarthritis	is diagnosed with	X-ray
+over-the-counter pain relievers	are used to manage	osteoarthritis
+osteoarthritis	may require	joint replacement surgery
+obesity	is a risk factor for	osteoarthritis
+osteoarthritis	is characterized by	cartilage breakdown
+osteoarthritis	can result in	reduced range of motion
+osteoarthritis	is related to	joint inflammation
+osteoarthritis	is linked to	joint instability
+osteoarthritis	can cause	bone spurs
+osteoarthritis	may lead to	osteophyte formation
+osteoarthritis	is worsened by	repetitive stress on the joint
+osteoarthritis	is associated with	genetic factors
+osteoarthritis	is a common cause of	disability
+osteoarthritis	is managed with	lifestyle modifications
+osteoarthritis	is a chronic	condition
+osteoarthritis	is often treated with	nonsteroidal anti-inflammatory drugs
+osteoarthritis	is affected by	joint alignment
+osteoarthritis	is aggravated by	cold weather
+osteoarthritis	is alleviated by	joint rest
+osteoarthritis	can result in	osteochondral lesions
+osteoarthritis	is characterized by	joint swelling
+osteoarthritis	is influenced by	hormonal factors
+osteoarthritis	may lead to	joint deformity
+osteoarthritis	is associated with	metabolic syndrome
+osteoarthritis	is exacerbated by	high-impact exercise
+osteoarthritis	increases the risk of	falls
+osteoarthritis	can cause	joint instability
+osteoarthritis	can be a result of	joint trauma
+osteoarthritis	can lead to	muscle weakness
+osteoarthritis	is more common in	women
+osteoarthritis	is less common in	younger individuals
+osteoarthritis	is more prevalent in	certain ethnic groups
+osteoarthritis	is less common in	non-weight-bearing joints
+osteoarthritis	is more likely in	individuals with joint malformation
+osteoarthritis	is linked to	joint overuse
+osteoarthritis	is related to	joint malalignment
+osteoarthritis	can result from	joint infection
+osteoarthritis	is associated with	bone density loss
+osteoarthritis	is a risk factor for	joint instability
+osteoarthritis	is less common in	individuals with strong joint muscles
+osteoarthritis	may lead to	joint effusion
+osteoarthritis	can result in	joint crepitus
+osteoarthritis	is associated with	joint redness
+osteoarthritis	is a potential cause of	joint warmth
+osteoarthritis	is aggravated by	excessive weight
+osteoarthritis	is more prevalent in	older adults
+osteoarthritis	is influenced by	joint injury
+osteoarthritis	is linked to	joint surgery
+osteoarthritis	is associated with	joint inflammation
+osteoarthritis	is less common in	individuals with strong joint ligaments
+osteoarthritis	is related to	joint infection
+osteoarthritis	is a possible result of	joint fracture
+osteoarthritis	is more common in	individuals with joint hypermobility
+osteoarthritis	is influenced by	joint hyperflexibility
+osteoarthritis	is worsened by	joint dislocation
+osteoarthritis	is aggravated by	repetitive joint use
+osteoarthritis	is alleviated by	joint bracing
+osteoarthritis	is made worse by	joint malformation
+osteoarthritis	is linked to	joint pain perception
+osteoarthritis	is related to	joint range of motion
+osteoarthritis	is a potential cause of	joint swelling
+osteoarthritis	is a potential cause of	joint tenderness
+osteoarthritis	may result in	joint deformity
+osteoarthritis	can result in	joint instability
+osteoarthritis	is more prevalent in	individuals with joint laxity
+osteoarthritis	is associated with	joint effusion
+osteoarthritis	is related to	joint crepitus
+osteoarthritis	is a risk factor for	joint malalignment
+osteoarthritis	is less common in	individuals with previous joint injury
+osteoarthritis	is associated with	muscle weakness
+osteoarthritis	is influenced by	joint fracture
+osteoarthritis	may lead to	joint redness
+osteoarthritis	is linked to	bone spurs
+osteoarthritis	is characterized by	joint warmth
+osteoarthritis	is alleviated by	joint rest
+osteoarthritis	can cause	joint malalignment
+osteoarthritis	is improved with	weight loss
+osteoarthritis	is connected to	joint stiffness
+osteoarthritis	is associated with	joint instability

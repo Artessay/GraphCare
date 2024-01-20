@@ -1,0 +1,87 @@
+open wounds	can occur in	head
+open wounds	can occur in	neck
+open wounds	can occur in	trunk
+open wounds	may lead to	infection
+cleaning	is important for	open wounds
+open wounds	may require	sutures
+open wounds	can cause	scarring
+proper wound care	is essential for	open wounds
+open wounds	should be assessed for	depth
+pain management	is necessary for	open wounds
+open wounds	may require	debridement
+open wounds	can result in	bleeding
+risk of complications	is higher in	open wounds
+wound healing	may be delayed in	open wounds
+open wounds	are at risk of	contamination
+open wounds	can lead to	tissue damage
+open wounds	can be caused by	trauma
+open wounds	need to be monitored for	signs of infection
+open wounds	have a risk of	necrosis
+open wounds	can result in	disfigurement
+open wounds	may need	irrigation
+open wounds	can be a result of	surgery
+open wounds	can be complicated by	diabetes
+open wounds	are susceptible to	foreign bodies
+treatment	includes	dressing changes
+open wounds	may require	skin grafting
+open wounds	can be a result of	burns
+open wounds	can cause	pain
+open wounds	can lead to	psychological distress
+open wounds	can result in	impaired mobility
+open wounds	can lead to	muscle damage
+open wounds	can affect	quality of life
+open wounds	can result in	nerve damage
+open wounds	may require	wound culture
+open wounds	can result in	loss of sensation
+open wounds	may need	tetanus vaccination
+open wounds	can result in	erythema
+open wounds	can lead to	itching
+open wounds	are at risk of	hematoma formation
+open wounds	can be a result of	animal bites
+open wounds	may require	imaging studies
+open wounds	are susceptible to	secondary infection
+open wounds	may need	pain medication
+open wounds	can result in	inflammation
+open wounds	can impair	function
+open wounds	can lead to	contractures
+open wounds	can result in	exudate
+open wounds	may require	physical therapy
+treatment	depends on	wound location
+open wounds	can result in	lymphadenopathy
+open wounds	can lead to	fever
+open wounds	can result in	hyperpigmentation
+open wounds	may require	nutritional support
+open wounds	can result in	hypopigmentation
+open wounds	can cause	cellulitis
+open wounds	may require	antibiotics
+open wounds	can result in	seroma formation
+open wounds	can lead to	scar contracture
+open wounds	can cause	skin erosion
+open wounds	can result in	skin avulsion
+open wounds	can lead to	dehiscence
+open wounds	may require	consultation with plastic surgeon
+open wounds	can result in	keloid formation
+open wounds	can cause	hematoma
+open wounds	may require	referral to wound care center
+open wounds	may need	surgical debridement
+open wounds	can result in	wound dehiscence
+open wounds	can lead to	wound infection
+open wounds	can cause	subcutaneous emphysema
+open wounds	can result in	delayed wound healing
+management	involves	wound assessment
+open wounds	can cause	paresthesia
+open wounds	may require	advanced wound care
+open wounds	are at risk of	scarring
+open wounds	can result in	itching
+open wounds	may need	skin closure
+open wounds	can lead to	skin necrosis
+open wounds	may require	skin substitutes
+open wounds	can result in	hypertrophic scarring
+open wounds	can lead to	skin graft failure
+open wounds	may require	antimicrobial dressing
+open wounds	can result in	chronic wound formation
+open wounds	can cause	wound maceration
+open wounds	may require	surgical intervention
+open wounds	can lead to	wound debridement
+open wounds	may need	wound assessment
+open wounds	can cause	wound infection

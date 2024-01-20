@@ -1,0 +1,107 @@
+retinal detachments	can cause	vision loss
+defects	are related to	genetic abnormalities
+vascular occlusion	may result in	ischemia
+retinopathy	is a complication of	diabetes
+diabetic retinopathy	can lead to	blindness
+retinal detachments	may require	surgical repair
+scleral buckle	is a procedure for	retinal detachments
+retinopathy	is diagnosed with	fundoscopic examination
+vascular occlusion	is associated with	hypertension
+hypertension	increases the risk of	vascular occlusion
+retinopathy	is treated with	laser therapy
+laser therapy	is used for	retinal reattachment
+retinal detachments	can result in	macular puckers
+macular puckers	can cause	visual distortion
+defects	are often detected by	retinal imaging
+retinal imaging	can detect	retinal detachments
+vascular occlusion	is linked to	smoking
+diabetic retinopathy	is more common in	uncontrolled diabetes
+uncontrolled diabetes	is a risk factor for	retinopathy
+retinal detachments	have a higher incidence in	myopia
+myopia	is a risk factor for	retinal detachments
+retinopathy	is more common in	older adults
+older adults	are at higher risk for	retinopathy
+vascular occlusion	can be caused by	atherosclerosis
+atherosclerosis	can lead to	vascular occlusion
+diabetic retinopathy	is associated with	high blood sugar levels
+high blood sugar levels	can cause	diabetic retinopathy
+retinal detachments	are more common in	trauma patients
+trauma	can lead to	retinal detachments
+defects	can be related to	prenatal development
+retinopathy	can progress to	proliferative retinopathy
+proliferative retinopathy	can cause	vitreous hemorrhage
+vitreous hemorrhage	can lead to	vision loss
+vascular occlusion	is diagnosed with	fluorescein angiography
+fluorescein angiography	can show	vascular occlusion
+diabetic retinopathy	is more common in	patients with kidney disease
+kidney disease	is a risk factor for	diabetic retinopathy
+retinal detachments	are more common in	males
+retinopathy	is more common in	African American patients
+African American patients	have a higher risk for	retinopathy
+vascular occlusion	is associated with	high cholesterol levels
+high cholesterol levels	can lead to	vascular occlusion
+diabetic retinopathy	is more common in	patients with high blood pressure
+high blood pressure	increases the risk of	diabetic retinopathy
+retinal detachments	are more common in	Caucasian patients
+Caucasian patients	have a higher risk for	retinal detachments
+defects	can be caused by	genetic mutations
+retinopathy	can lead to	retinal edema
+retinal edema	can cause	vision distortion
+vascular occlusion	is associated with	heart disease
+heart disease	is a risk factor for	vascular occlusion
+diabetic retinopathy	is more common in	patients with obesity
+obesity	increases the risk of	diabetic retinopathy
+retinal detachments	are more common in	patients with systemic inflammatory conditions
+systemic inflammatory conditions	can lead to	retinal detachments
+defects	can be related to	developmental abnormalities
+retinopathy	is associated with	smoking
+smoking	increases the risk of	retinopathy
+vascular occlusion	is more common in	elderly patients
+elderly patients	are at higher risk for	vascular occlusion
+diabetic retinopathy	is more common in	patients with a family history of diabetes
+family history of diabetes	is a risk factor for	diabetic retinopathy
+retinal detachments	are more common in	patients with previous eye surgery
+previous eye surgery	is a risk factor for	retinal detachments
+defects	can be linked to	chromosomal abnormalities
+retinopathy	is associated with	high levels of inflammation
+high levels of inflammation	can cause	retinopathy
+vascular occlusion	can result in	ocular ischemic syndrome
+ocular ischemic syndrome	can lead to	irreversible vision loss
+diabetic retinopathy	is more common in	patients with gestational diabetes
+gestational diabetes	is a risk factor for	diabetic retinopathy
+retinal detachments	can be caused by	rhegmatogenous retinal detachment
+rhegmatogenous retinal detachment	can lead to	vision loss
+defects	may be detected by	genetic testing
+retinopathy	is more common in	patients with a sedentary lifestyle
+sedentary lifestyle	increases the risk of	retinopathy
+vascular occlusion	can be caused by	blood clots
+blood clots	can lead to	vascular occlusion
+diabetic retinopathy	is more common in	patients with gestational diabetes
+gestational diabetes	is a risk factor for	diabetic retinopathy
+retinal detachments	can be caused by	trauma
+trauma	can lead to	retinal detachments
+defects	can be related to	intrauterine growth restriction
+retinopathy	is associated with	systemic diseases
+systemic diseases	can cause	retinopathy
+vascular occlusion	is associated with	anemia
+anemia	can lead to	vascular occlusion
+diabetic retinopathy	is more common in	patients with diabetic nephropathy
+diabetic nephropathy	is a risk factor for	diabetic retinopathy
+retinal detachments	can be caused by	posterior vitreous detachment
+posterior vitreous detachment	can lead to	retinal detachments
+defects	can be related to	intrauterine infections
+retinopathy	is associated with	autoimmune diseases
+autoimmune diseases	can cause	retinopathy
+vascular occlusion	is associated with	coagulation disorders
+coagulation disorders	can lead to	vascular occlusion
+diabetic retinopathy	is more common in	patients with diabetic foot ulcers
+diabetic foot ulcers	are a risk factor for	diabetic retinopathy
+retinal detachments	can be caused by	lattice degeneration
+lattice degeneration	can lead to	retinal detachments
+defects	can be linked to	exposure to teratogens
+retinopathy	is associated with	high levels of oxidative stress
+high levels of oxidative stress	can cause	retinopathy
+vascular occlusion	is associated with	vasculitis
+vasculitis	can lead to	vascular occlusion
+diabetic retinopathy	is more common in	patients with high levels of blood lipids
+high levels of blood lipids	are a risk factor for	diabetic retinopathy

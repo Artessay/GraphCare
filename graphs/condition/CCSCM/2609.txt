@@ -1,0 +1,72 @@
+e codes	classify	pedestrian accidents
+pedestrian accidents	are related to	not mvt
+not mvt	can result in	pedestrian injuries
+pedestrian injuries	may lead to	hospitalization
+hospitalization	increases the risk of	medical complications
+medical complications	can result in	readmission
+readmission	is associated with	increased healthcare costs
+increased healthcare costs	can lead to	financial burden
+financial burden	may impact	recovery
+recovery	depends on	rehabilitation
+rehabilitation	requires	physical therapy
+physical therapy	is essential for	restoring mobility
+restoring mobility	is crucial for	quality of life
+quality of life	is affected by	pedestrian accidents
+pedestrian accidents	can cause	emotional distress
+emotional distress	requires	psychological support
+psychological support	is important for	mental health
+mental health	influences	overall well-being
+overall well-being	affects	recovery
+recovery	can be hindered by	complications
+complications	may lead to	long-term disability
+long-term disability	impacts	daily life
+daily life	is affected by	mobility limitations
+mobility limitations	can result in	dependence
+dependence	increases the need for	caregiver support
+caregiver support	is crucial for	maintaining independence
+maintaining independence	is important for	quality of life
+quality of life	is influenced by	social interaction
+social interaction	plays a role in	emotional well-being
+emotional well-being	is essential for	recovery
+recovery	is linked to	rehabilitation
+rehabilitation	promotes	functional independence
+functional independence	is necessary for	daily activities
+daily activities	impact	overall health
+overall health	is affected by	physical activity
+physical activity	is important for	well-being
+well-being	is crucial for	recovery
+recovery	relies on	medical care
+medical care	is essential for	treating injuries
+treating injuries	involves	pain management
+pain management	is necessary for	improving comfort
+improving comfort	is important for	patient satisfaction
+patient satisfaction	influences	healthcare outcomes
+healthcare outcomes	determine	quality of care
+quality of care	affects	patient outcomes
+patient outcomes	can be influenced by	medical interventions
+medical interventions	include	surgical procedures
+surgical procedures	carry	risks
+risks	can result in	complications
+complications	may lead to	prolonged hospitalization
+prolonged hospitalization	increases the likelihood of	readmission
+readmission	is associated with	higher healthcare costs
+higher healthcare costs	create	financial challenges
+financial challenges	may impact	access to care
+access to care	is important for	ongoing treatment
+ongoing treatment	is necessary for	recovery
+recovery	depends on	patient adherence
+patient adherence	ensures	effectiveness of treatment
+effectiveness of treatment	contributes to	improved health outcomes
+improved health outcomes	lead to	better quality of life
+better quality of life	is the goal of	healthcare interventions
+healthcare interventions	aim to	improve patient well-being
+patient well-being	is influenced by	multidisciplinary care
+multidisciplinary care	involves	healthcare professionals
+healthcare professionals	collaborate for	integrated care
+integrated care	leads to	better outcomes
+better outcomes	contribute to	overall patient satisfaction
+overall patient satisfaction	is a measure of	healthcare quality
+healthcare quality	impacts	patient trust
+patient trust	is important for	continuity of care
+continuity of care	supports	long-term recovery
+long-term recovery	is the ultimate goal of	healthcare management

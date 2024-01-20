@@ -1,0 +1,78 @@
+e codes	classify	pedal cyclist injury
+pedal cyclist injury	may result in	fractures
+fractures	can lead to	hospitalization
+hospitalization	may cause	physical therapy
+physical therapy	is provided by	healthcare professionals
+healthcare professionals	include	physical therapists
+physical therapists	help with	rehabilitation
+rehabilitation	is important for	recovery
+recovery	reduces	readmission risk
+readmission risk	is associated with	inadequate rehabilitation
+inadequate rehabilitation	leads to	poor outcomes
+poor outcomes	may result in	disability
+disability	can lead to	long-term care
+long-term care	requires	support services
+support services	include	home healthcare
+home healthcare	helps with	daily activities
+daily activities	affect	quality of life
+quality of life	is important for	overall well-being
+overall well-being	influences	healthcare utilization
+healthcare utilization	impacts	healthcare costs
+healthcare costs	affect	healthcare delivery
+healthcare delivery	is influenced by	funding
+funding	is provided by	government and private entities
+government and private entities	allocate	resources
+resources	are used for	medical treatments
+medical treatments	are recommended by	healthcare providers
+healthcare providers	rely on	evidence-based guidelines
+evidence-based guidelines	are developed by	professional organizations
+professional organizations	collaborate with	researchers
+researchers	conduct	clinical trials
+clinical trials	evaluate	new interventions
+new interventions	may include	drugs
+drugs	are regulated by	government agencies
+government agencies	approve	medications
+medications	are prescribed by	physicians
+physicians	educate	patients
+patients	play a role in	self-management
+self-management	is important for	chronic conditions
+chronic conditions	require	ongoing care
+ongoing care	involves	regular check-ups
+regular check-ups	help with	monitoring health
+monitoring health	is essential for	prevention
+prevention	is key for	public health
+public health	relies on	population-based strategies
+population-based strategies	aim to	improve health outcomes
+improve health outcomes	reduce	healthcare disparities
+healthcare disparities	impact	access to care
+access to care	is influenced by	socio-economic factors
+socio-economic factors	affect	health status
+health status	is linked to	mortality
+mortality	is a measure of	healthcare effectiveness
+healthcare effectiveness	is evaluated by	healthcare organizations
+healthcare organizations	strive to	improve patient care
+improve patient care	leads to	better health outcomes
+better health outcomes	result in	patient satisfaction
+patient satisfaction	is related to	healthcare experience
+healthcare experience	is influenced by	communication
+communication	is essential for	patient-provider relationship
+patient-provider relationship	impacts	treatment adherence
+treatment adherence	affects	treatment effectiveness
+treatment effectiveness	is monitored by	healthcare professionals
+healthcare professionals	adjust	treatment plans
+treatment plans	may include	interdisciplinary care
+interdisciplinary care	involves	multiple healthcare providers
+multiple healthcare providers	coordinate	patient care
+patient care	is tailored to	individual needs
+individual needs	vary based on	patient preferences
+patient preferences	should be respected by	healthcare team
+healthcare team	includes	patient advocates
+patient advocates	support	patient empowerment
+patient empowerment	leads to	better health outcomes
+better health outcomes	reduce	healthcare costs
+healthcare costs	impact	healthcare delivery
+healthcare delivery	is influenced by	funding
+funding	is provided by	government and private entities
+government and private entities	allocate	resources
+resources	are used for	medical treatments
+medical treatments	are recommended by	healthcare providers

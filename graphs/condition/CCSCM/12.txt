@@ -1,0 +1,156 @@
+cancer of esophagus	is a type of	cancer
+cancer of esophagus	is associated with	smoking
+esophagectomy	is a treatment for	cancer of esophagus
+cancer of esophagus	may cause	dysphagia
+radiation therapy	is used for	cancer of esophagus
+cancer of esophagus	has a high mortality rate
+chemotherapy	is a treatment for	cancer of esophagus
+aspiration pneumonia	is a complication of	cancer of esophagus
+cancer of esophagus	is diagnosed with	endoscopy
+barrett's esophagus	is a risk factor for	cancer of esophagus
+cancer of esophagus	has poor prognosis
+weight loss	is a symptom of	cancer of esophagus
+esophageal stent	is used to relieve	dysphagia in cancer of esophagus
+cancer of esophagus	is more common in	older adults
+cancer of esophagus	is staged using	TNM system
+cancer of esophagus	can metastasize to	lymph nodes
+cancer of esophagus	is more common in	males
+cancer of esophagus	is linked to	alcohol consumption
+cancer of esophagus	is treated with	surgery
+endoscopic mucosal resection	is a treatment for	cancer of esophagus
+cancer of esophagus	is detected with	barium swallow
+cancer of esophagus	is caused by	gastroesophageal reflux disease
+cancer of esophagus	has a higher incidence in	certain geographic areas
+cancer of esophagus	is preventable by	quitting smoking
+diet high in fruits and vegetables	is associated with	lower risk of	cancer of esophagus
+cancer of esophagus	is linked to	obesity
+immunotherapy	is being studied as a treatment for	cancer of esophagus
+cancer of esophagus	is linked to	poor nutrition
+cancer of esophagus	is more common in	African Americans
+thermal ablation	can be used for	cancer of esophagus
+cancer of esophagus	is caused by	chronic irritation of the esophagus
+heredity	is a risk factor for	cancer of esophagus
+cancer of esophagus	develops from	precancerous lesions
+cancer of esophagus	is associated with	HPV infection
+cancer of esophagus	has a high risk of	recurrence
+ultrasound	can be used to assess	tumor stage in cancer of esophagus
+cancer of esophagus	can cause	hoarseness
+cancer of esophagus	can lead to	esophageal stricture
+cancer of esophagus	is more common in	people with achalasia
+cancer of esophagus	is correlated with	Barrett's esophagus
+cancer of esophagus	is linked to	smoking pipes or cigars
+cancer of esophagus	has a higher incidence in	people with lye strictures of the esophagus
+cancer of esophagus	can be detected with	PET scan
+cancer of esophagus	is associated with	occupational exposure to certain chemicals
+cancer of esophagus	is more common in	people with Plummer-Vinson syndrome
+cancer of esophagus	is diagnosed through	biopsy
+cancer of esophagus	can cause	anemia
+cancer of esophagus	can lead to	weight loss
+cancer of esophagus	is linked to	poor dental hygiene
+cancer of esophagus	is more common in	people with tylosis
+cancer of esophagus	is linked to	frequent consumption of hot beverages
+cancer of esophagus	has a higher incidence in	people with iron deficiency anemia
+cancer of esophagus	can cause	jaundice
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or scleroderma
+cancer of esophagus	is associated with	poor oral health
+cancer of esophagus	has a higher incidence in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	esophageal stricture and difficulty swallowing
+cancer of esophagus	is associated with	low intake of fruits and vegetables
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is associated with	bile reflux
+cancer of esophagus	is linked to	Plummer-Vinson syndrome
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is associated with	poor oral hygiene
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	difficulty swallowing
+cancer of esophagus	is associated with	low fruit and vegetable intake
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is linked to	bile reflux
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is associated with	poor oral hygiene
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	difficulty swallowing
+cancer of esophagus	is associated with	low fruit and vegetable intake
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is linked to	bile reflux
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is associated with	poor oral hygiene
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	difficulty swallowing
+cancer of esophagus	is associated with	low fruit and vegetable intake
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is linked to	bile reflux
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is associated with	poor oral hygiene
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	difficulty swallowing
+cancer of esophagus	is associated with	low fruit and vegetable intake
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is linked to	bile reflux
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is associated with	poor oral hygiene
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	difficulty swallowing
+cancer of esophagus	is associated with	low fruit and vegetable intake
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is linked to	bile reflux
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is associated with	poor oral hygiene
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	difficulty swallowing
+cancer of esophagus	is associated with	low fruit and vegetable intake
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is linked to	bile reflux
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is associated with	poor oral hygiene
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	difficulty swallowing
+cancer of esophagus	is associated with	low fruit and vegetable intake
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is linked to	bile reflux
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus
+cancer of esophagus	is associated with	poor oral hygiene
+cancer of esophagus	is linked to	malnutrition
+cancer of esophagus	can lead to	difficulty swallowing
+cancer of esophagus	is associated with	low fruit and vegetable intake
+cancer of esophagus	can cause	regurgitation
+cancer of esophagus	is more common in	esophageal squamous cell carcinoma
+cancer of esophagus	is linked to	bile reflux
+cancer of esophagus	has a higher incidence in	people with gastroesophageal reflux disease
+cancer of esophagus	can cause	coughing
+cancer of esophagus	is correlated with	Plummer-Vinson syndrome
+cancer of esophagus	is more common in	people with achalasia or lye strictures of the esophagus

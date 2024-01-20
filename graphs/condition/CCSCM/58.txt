@@ -1,0 +1,36 @@
+other nutritional; endocrine; and metabolic disorders	are related to	obesity
+obesity	is a risk factor for	type 2 diabetes
+type 2 diabetes	can lead to	diabetic neuropathy
+diabetic neuropathy	causes	nerve damage
+nerve damage	results in	loss of sensation
+loss of sensation	increases the risk of	foot ulcers
+foot ulcers	can lead to	lower limb amputation
+other nutritional; endocrine; and metabolic disorders	are linked to	hyperthyroidism
+hyperthyroidism	is associated with	weight loss
+weight loss	can lead to	malnutrition
+malnutrition	leads to	vitamin deficiencies
+vitamin deficiencies	result in	various symptoms
+various symptoms	require	specific nutritional supplements
+other nutritional; endocrine; and metabolic disorders	are associated with	hypothyroidism
+hypothyroidism	is linked to	weight gain
+weight gain	increases the risk of	obesity
+obesity	is a risk factor for	cardiovascular diseases
+cardiovascular diseases	contribute to	mortality
+other nutritional; endocrine; and metabolic disorders	can cause	electrolyte imbalances
+electrolyte imbalances	lead to	fluid retention
+fluid retention	can result in	edema
+edema	may cause	difficulty breathing
+difficulty breathing	is a symptom of	heart failure
+heart failure	increases the risk of	hospital readmission
+other nutritional; endocrine; and metabolic disorders	are linked to	bone mineral density loss
+bone mineral density loss	increases the risk of	fractures
+fractures	can lead to	disability
+disability	may result in	decreased quality of life
+other nutritional; endocrine; and metabolic disorders	are associated with	vitamin D deficiency
+vitamin D deficiency	can lead to	osteoporosis
+osteoporosis	increases the risk of	bone fractures
+bone fractures	can lead to	immobility
+immobility	is a risk factor for	pressure ulcers
+pressure ulcers	increase the risk of	infection
+infection	may result in	sepsis
+sepsis	is a life-threatening condition

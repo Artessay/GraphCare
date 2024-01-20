@@ -1,0 +1,79 @@
+melanomas of skin	are	types of cancer
+melanomas of skin	can metastasize to	lymph nodes
+melanomas of skin	are diagnosed by	biopsy
+melanomas of skin	are treated with	surgery
+melanomas of skin	may spread to	liver
+melanomas of skin	have a high	mortality rate
+melanomas of skin	are linked to	UV exposure
+melanomas of skin	are often	pigmented
+melanomas of skin	can be	aggressive
+melanomas of skin	have a high	recurrence rate
+melanomas of skin	are more common in	fair-skinned individuals
+melanomas of skin	are associated with	BRAF mutations
+vemurafenib	is a	targeted therapy for melanomas of skin
+melanomas of skin	are characterized by	abnormal growth of melanocytes
+melanomas of skin	can develop from	moles
+melanomas of skin	are often	asymmetrical
+melanomas of skin	can be caused by	genetic factors
+melanomas of skin	have a higher risk of	spreading in older individuals
+immunotherapy	is a	treatment option for melanomas of skin
+melanomas of skin	can occur in	any part of the body
+melanomas of skin	are more common in	males
+melanomas of skin	are associated with	sunburns
+melanomas of skin	have a lower	survival rate in advanced stages
+melanomas of skin	have a higher	survival rate if detected early
+melanomas of skin	can cause	changes in mole appearance
+melanomas of skin	can be	fatal if untreated
+melanomas of skin	can be	recurring
+melanomas of skin	can be detected using	dermoscopy
+melanomas of skin	are less common in	darker-skinned individuals
+melanomas of skin	are linked to	familial history of melanoma
+radiation therapy	is used for	advanced melanomas of skin
+melanomas of skin	are often	irregular in shape
+melanomas of skin	are associated with	immune suppression
+melanomas of skin	are diagnosed at	older age
+melanomas of skin	can present as	nodular lesions
+melanomas of skin	are often	itchy
+melanomas of skin	can affect	nail beds
+melanomas of skin	can be confused with	benign moles
+melanomas of skin	have a higher	risk of metastasis in thinner lesions
+melanomas of skin	are more common in	countries with high UV index
+melanomas of skin	can be	multifocal
+melanomas of skin	are associated with	dysplastic nevi
+melanomas of skin	are more common in	individuals with a personal history of melanoma
+melanomas of skin	have a higher	risk of recurrence in patients with multiple primary melanomas
+melanomas of skin	are associated with	chronic sun exposure
+melanomas of skin	may arise in	existing moles
+melanomas of skin	are more common in	outdoor workers
+melanomas of skin	can mimic	benign skin lesions
+melanomas of skin	are often	raised and firm to the touch
+melanomas of skin	can be	mistaken for a blood blister
+melanomas of skin	have a lower	survival rate in older patients
+melanomas of skin	are more common in	geographical regions closer to the equator
+tumor-infiltrating lymphocytes	are associated with	improved survival in melanomas of skin
+melanomas of skin	can have	ulceration
+melanomas of skin	are more common in	individuals with fair hair
+melanomas of skin	can have	satellitosis
+melanomas of skin	are more common in	individuals with blue or green eyes
+melanomas of skin	have a higher	risk of recurrence in patients with lymph node involvement
+melanomas of skin	can be	diagnosed by a dermatologist
+melanomas of skin	can have	microsatellites
+melanomas of skin	have a higher	survival rate in patients with negative sentinel lymph node biopsy
+melanomas of skin	are more common in	individuals with a history of severe sunburns
+melanomas of skin	can have	angiolymphatic invasion
+melanomas of skin	have a higher	risk of metastasis in thicker lesions
+melanomas of skin	are more common in	individuals with a history of indoor tanning
+melanomas of skin	have a higher	survival rate in patients with localized disease
+melanomas of skin	can have	perineural invasion
+melanomas of skin	are associated with	vitamin D deficiency
+melanomas of skin	have a higher	risk of recurrence in patients with positive sentinel lymph node biopsy
+melanomas of skin	are more common in	individuals with a history of actinic keratosis
+melanomas of skin	have a higher	survival rate in patients with thinner lesions
+melanomas of skin	are more common in	individuals with a history of organ transplantation
+melanomas of skin	can have	regressed areas
+melanomas of skin	are more common in	individuals with a history of xeroderma pigmentosum
+melanomas of skin	have a higher	risk of recurrence in patients with desmoplastic melanomas
+melanomas of skin	can recur at	the original site
+melanomas of skin	have a lower	survival rate in patients with BRAF mutations
+melanomas of skin	are more common in	individuals with a history of Li-Fraumeni syndrome
+melanomas of skin	have a higher	risk of recurrence in patients with spindle cell melanomas

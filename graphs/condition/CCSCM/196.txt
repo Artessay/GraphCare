@@ -1,0 +1,108 @@
+pregnancy	increases risk of	gestational diabetes
+gestational diabetes	can lead to	macrosomia
+macrosomia	increases risk of	birth complications
+pregnancy	increases risk of	preeclampsia
+preeclampsia	can lead to	eclampsia
+eclampsia	increases risk of	maternal mortality
+pregnancy	can result in	preterm birth
+preterm birth	increases risk of	neonatal complications
+pregnancy	increases risk of	postpartum depression
+postpartum depression	can lead to	maternal and infant bonding issues
+pregnancy	can result in	cesarean delivery
+cesarean delivery	increases risk of	surgical complications
+pregnancy	increases risk of	venous thromboembolism
+venous thromboembolism	increases risk of	maternal mortality
+pregnancy	can result in	vaginal delivery
+vaginal delivery	increases risk of	perineal tears
+pregnancy	increases risk of	gestational hypertension
+gestational hypertension	can lead to	maternal and fetal complications
+pregnancy	is a risk factor for	gestational trophoblastic disease
+gestational trophoblastic disease	requires	chemotherapy
+chemotherapy	can lead to	infertility
+pregnancy	is a risk factor for	placental abruption
+placental abruption	can lead to	fetal distress
+fetal distress	increases risk of	neonatal mortality
+pregnancy	increases risk of	uterine rupture
+uterine rupture	results in	maternal hemorrhage
+maternal hemorrhage	increases risk of	maternal mortality
+pregnancy	increases risk of	stillbirth
+stillbirth	can lead to	maternal psychological trauma
+pregnancy	increases risk of	postpartum hemorrhage
+postpartum hemorrhage	leads to	maternal morbidity
+pregnancy	increases risk of	hyperemesis gravidarum
+hyperemesis gravidarum	leads to	dehydration
+dehydration	increases risk of	hospital readmission
+pregnancy	is a risk factor for	postpartum psychosis
+postpartum psychosis	requires	psychiatric intervention
+psychiatric intervention	reduces risk of	harm to self or others
+pregnancy	increases risk of	anemia
+anemia	requires	iron supplementation
+iron supplementation	reduces risk of	maternal and fetal complications
+pregnancy	increases risk of	urinary tract infections
+urinary tract infections	can lead to	preterm labor
+preterm labor	increases risk of	neonatal complications
+pregnancy	is a risk factor for	peripartum cardiomyopathy
+peripartum cardiomyopathy	can lead to	heart failure
+heart failure	increases risk of	maternal mortality
+pregnancy	increases risk of	fetal growth restriction
+fetal growth restriction	increases risk of	neonatal complications
+pregnancy	increases risk of	maternal weight gain
+maternal weight gain	can lead to	gestational diabetes
+gestational diabetes	increases risk of	birth complications
+pregnancy	increases risk of	polyhydramnios
+polyhydramnios	increases risk of	fetal distress
+pregnancy	increases risk of	oligohydramnios
+oligohydramnios	increases risk of	fetal growth restriction
+pregnancy	increases risk of	teratogenic effects
+teratogenic effects	can lead to	birth defects
+birth defects	increase risk of	neonatal complications
+pregnancy	is a risk factor for	postpartum urinary retention
+postpartum urinary retention	leads to	bladder complications
+bladder complications	increase risk of	urinary tract infections
+pregnancy	increases risk of	peripartum depression
+peripartum depression	can lead to	impaired maternal-infant bonding
+impaired maternal-infant bonding	increases risk of	developmental delays in the infant
+pregnancy	is a risk factor for	postpartum hair loss
+postpartum hair loss	resolves with	time
+time	is needed for	hormonal changes to normalize
+hormonal changes	can lead to	postpartum complications
+postpartum complications	require	medical attention
+medical attention	reduces risk of	maternal morbidity
+pregnancy	can result in	multiple gestation
+multiple gestation	increases risk of	preterm birth
+pregnancy	increases risk of	postpartum incontinence
+postpartum incontinence	requires	pelvic floor exercises
+pelvic floor exercises	improve	bladder control
+pregnancy	is a risk factor for	postpartum thyroiditis
+postpartum thyroiditis	can lead to	thyroid dysfunction
+thyroid dysfunction	requires	hormone replacement therapy
+hormone replacement therapy	reduces risk of	long-term complications
+pregnancy	is a risk factor for	postpartum joint pain
+postpartum joint pain	is managed with	pain medication
+pain medication	can have	side effects
+side effects	should be	monitored for
+pregnancy	increases risk of	birth trauma
+birth trauma	can lead to	long-term physical and psychological effects
+pregnancy	increases risk of	postpartum constipation
+postpartum constipation	requires	dietary and lifestyle modifications
+dietary and lifestyle modifications	can improve	bowel function
+bowel function	is important for	overall health
+overall health	contributes to	maternal well-being
+pregnancy	is a risk factor for	postpartum thrombosis
+postpartum thrombosis	requires	anticoagulant therapy
+anticoagulant therapy	reduces risk of	thromboembolic events
+pregnancy	can result in	subinvolution of the uterus
+subinvolution of the uterus	increases risk of	postpartum hemorrhage
+pregnancy	is a risk factor for	postpartum endometritis
+postpartum endometritis	requires	antibiotic treatment
+antibiotic treatment	reduces risk of	complications
+pregnancy	is a risk factor for	postpartum anemia
+postpartum anemia	requires	iron supplementation
+iron supplementation	improves	maternal energy levels
+maternal energy levels	are important for	caregiving and recovery
+pregnancy	increases risk of	postpartum body changes
+postpartum body changes	can lead to	body image issues
+body image issues	can contribute to	postpartum depression
+pregnancy	can result in	postpartum infections
+postpartum infections	require	prompt medical attention
+prompt medical attention	reduces risk of	complications

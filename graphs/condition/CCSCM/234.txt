@@ -1,0 +1,20 @@
+crushing injury	can lead to	compartment syndrome
+internal injury	may result in	internal bleeding
+trauma	is a common cause of	internal injury
+crushing injury	can cause	fracture
+internal injury	may lead to	organ damage
+compartment syndrome	can cause	tissue necrosis
+internal bleeding	can result in	hypovolemic shock
+organ damage	can lead to	organ failure
+fracture	can lead to	compartment syndrome
+hypovolemic shock	can result in	death
+tissue necrosis	can lead to	amputation
+organ failure	can lead to	death
+amputation	can result in	disability
+trauma	is a risk factor for	internal bleeding
+tissue necrosis	can result in	sepsis
+compartment syndrome	may require	emergency fasciotomy
+fracture	may require	surgical intervention
+hypovolemic shock	requires	immediate medical attention
+organ failure	may require	organ transplant
+sepsis	may require	aggressive antibiotic therapy

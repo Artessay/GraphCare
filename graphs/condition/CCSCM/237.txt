@@ -1,0 +1,100 @@
+Complication of device	can occur after	surgery
+Infection	is a common	complication of device
+Implant	may cause	allergic reaction
+Graft	can lead to	rejection by the body
+Complication of device	can result in	readmission to the hospital
+Blood clot	is a potential	complication of device
+Pain	is a common	symptom of complication of device
+Fever	can indicate	infection from complication of device
+Implant	requires	regular monitoring
+Graft	needs	immunosuppressive therapy
+Complication of device	may lead to	removal of the device
+Inflammation	is a sign of	complication of device
+Complication of device	can cause	tissue damage
+Implant	may require	additional surgeries
+Graft	is used in	organ transplantation
+Complication of device	can result in	chronic pain
+Implant	needs	proper care and maintenance
+Graft	can be	from a living or deceased donor
+Complication of device	increases the risk of	blood clots
+Complication of device	may lead to	sepsis
+Implant	can have	mechanical failure
+Graft	may lead to	organ failure
+Complication of device	requires	close monitoring by healthcare providers
+Antibiotics	are used to	treat infection from complication of device
+Implant	may cause	tissue rejection
+Graft	requires	tissue matching for transplantation
+Complication of device	can be	life-threatening
+Cellulitis	can develop as a	complication of device
+Implant	may shift	position in the body
+Graft	needs	long-term follow-up after transplantation
+Complication of device	can lead to	implant failure
+Implant	can lead to	bone loss
+Graft	may result in	donor site complications
+Complication of device	can cause	psychological distress
+Implant	can lead to	skin irritation at the site
+Graft	requires	immunosuppressive drugs
+Complication of device	may require	specialized care
+Implant	can result in	nerve damage
+Graft	can lead to	infection at the surgical site
+Complication of device	may require	imaging studies for diagnosis
+Implant	can cause	muscle weakness
+Graft	can result in	bone marrow suppression
+Complication of device	can lead to	loss of function in the affected area
+Implant	may require	surgical revision
+Graft	may result in	fluid collection at the site
+Complication of device	increases the risk of	complications from anesthesia
+Implant	can result in	damage to adjacent structures
+Graft	may lead to	scarring at the transplantation site
+Complication of device	can impair	mobility
+Implant	may cause	implant-related inflammation
+Graft	can lead to	graft-versus-host disease in stem cell transplantation
+Complication of device	can cause	chronic swelling
+Implant	may result in	limited range of motion in the affected area
+Graft	may result in	rejection by the recipient's immune system
+Complication of device	can lead to	nerve compression
+Implant	can cause	foreign body reaction
+Graft	requires	tissue typing for compatibility
+Complication of device	may require	physical therapy for rehabilitation
+Implant	can cause	implant migration
+Graft	may result in	vascular complications at the transplantation site
+Complication of device	can cause	chronic inflammation at the site
+Implant	may result in	implant-related pain
+Graft	can lead to	graft failure
+Complication of device	can result in	impaired wound healing
+Implant	can cause	implant-related infection
+Graft	may lead to	thrombosis in the transplanted organ
+Complication of device	can lead to	deformity in the affected area
+Implant	can result in	implant-related complications
+Graft	can cause	organ dysfunction in the recipient
+Complication of device	may require	drainage of fluid collection at the site
+Implant	can lead to	implant-related discomfort
+Graft	requires	monitoring for signs of rejection or infection
+Complication of device	can cause	chronic drainage at the surgical site
+Implant	may result in	implant-related swelling
+Graft	may lead to	chronic graft dysfunction
+Complication of device	can lead to	implant-related fibrosis
+Implant	can cause	implant-related seroma formation
+Graft	can result in	chronic graft-versus-host disease in allogeneic transplantation
+Complication of device	may require	surgical intervention for resolution
+Implant	may cause	implant-related muscle atrophy
+Graft	may lead to	chronic rejection in solid organ transplantation
+Complication of device	can result in	implant-related hematoma
+Implant	can lead to	implant-related nerve injury
+Graft	may result in	chronic antibody-mediated rejection in transplantation
+Complication of device	can cause	chronic implant-related erythema
+Implant	may result in	implant-related osteolysis
+Graft	can lead to	chronic organ failure in the recipient
+Complication of device	may require	implant removal for resolution
+Implant	can cause	implant-related numbness
+Graft	may result in	chronic transplant vasculopathy
+Complication of device	can lead to	implant-related contracture
+Implant	may result in	implant-related joint stiffness
+Graft	can cause	chronic graft fibrosis
+Complication of device	may require	additional surgical procedures for resolution
+Implant	can lead to	implant-related limited mobility
+Graft	may result in	chronic post-transplant lymphoproliferative disorder
+Complication of device	can cause	chronic wound dehiscence at the surgical site
+Implant	may cause	implant-related tissue overgrowth
+Graft	can lead to	chronic graft necrosis
+Complication of device	increases the risk of	device-related mortality

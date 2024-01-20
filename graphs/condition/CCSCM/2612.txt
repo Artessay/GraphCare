@@ -1,0 +1,75 @@
+e codes	are used for	medical classification
+overexertion	is a cause of	musculoskeletal injuries
+overexertion	can lead to	muscle strain
+muscle strain	may result in	pain
+pain	can be relieved with	rest
+rest	is recommended for	recovery
+recovery	is necessary for	healing
+healing	takes time for	completion
+completion	of healing	prevents further complications
+complications	may lead to	disability
+disability	can result in	loss of income
+loss of income	may lead to	financial stress
+financial stress	can impact	mental health
+mental health	is important for	overall well-being
+overall well-being	is essential for	quality of life
+quality of life	can be affected by	physical health
+physical health	is influenced by	exercise habits
+exercise habits	should be balanced for	injury prevention
+injury prevention	is crucial for	maintaining mobility
+maintaining mobility	is important for	independence
+independence	can contribute to	mental well-being
+mental well-being	affects	emotional health
+emotional health	is linked to	social relationships
+social relationships	play a role in	support system
+support system	is important for	recovery
+recovery	is necessary for	rehabilitation
+rehabilitation	is crucial for	regaining function
+regaining function	is essential for	daily activities
+daily activities	contribute to	quality of life
+quality of life	impacts	overall well-being
+overall well-being	can be supported by	healthcare services
+healthcare services	include	rehabilitation programs
+rehabilitation programs	focus on	restoring function
+restoring function	is crucial for	independence
+independence	is important for	quality of life
+quality of life	is affected by	physical health
+physical health	influences	mental well-being
+mental well-being	is connected to	emotional health
+emotional health	impacts	social relationships
+social relationships	play a role in	support system
+support system	is important for	recovery
+recovery	is necessary for	rehabilitation
+rehabilitation	is crucial for	regaining function
+regaining function	is essential for	daily activities
+daily activities	contribute to	quality of life
+quality of life	impacts	overall well-being
+overall well-being	can be supported by	healthcare services
+healthcare services	include	rehabilitation programs
+rehabilitation programs	focus on	restoring function
+restoring function	is crucial for	independence
+independence	is important for	quality of life
+quality of life	is affected by	physical health
+physical health	influences	mental well-being
+mental well-being	is connected to	emotional health
+emotional health	impacts	social relationships
+social relationships	play a role in	support system
+support system	is important for	recovery
+recovery	is necessary for	rehabilitation
+rehabilitation	is crucial for	regaining function
+regaining function	is essential for	daily activities
+daily activities	contribute to	quality of life
+quality of life	impacts	overall well-being
+overall well-being	can be supported by	healthcare services
+healthcare services	include	rehabilitation programs
+rehabilitation programs	focus on	restoring function
+restoring function	is crucial for	independence
+independence	is important for	quality of life
+quality of life	is affected by	physical health
+physical health	influences	mental well-being
+mental well-being	is connected to	emotional health
+emotional health	impacts	social relationships
+social relationships	play a role in	support system
+support system	is important for	recovery
+recovery	is necessary for	rehabilitation
+rehabilitation	is crucial for	regaining function

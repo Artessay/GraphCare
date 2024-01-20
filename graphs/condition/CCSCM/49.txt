@@ -1,0 +1,11 @@
+diabetes mellitus without complication	is a	chronic condition
+diabetes mellitus without complication	can lead to	diabetic retinopathy
+diabetes mellitus without complication	is managed with	diet and exercise
+diabetes mellitus without complication	can result in	peripheral neuropathy
+insulin	is a	treatment for	diabetes mellitus without complication
+diabetes mellitus without complication	increases the risk of	cardiovascular disease
+diabetes mellitus without complication	is associated with	obesity
+diabetes mellitus without complication	is diagnosed with	fasting blood sugar test
+diabetes mellitus without complication	can cause	kidney disease
+diabetes mellitus without complication	is linked to	poor wound healing
+diabetes mellitus without complication	requires regular	monitoring

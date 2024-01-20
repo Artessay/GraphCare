@@ -1,0 +1,58 @@
+diseases of mouth	can cause	difficulty swallowing
+diseases of mouth	may lead to	oral cancer
+oral cancer	is treated with	surgery
+surgery	can result in	temporary difficulty speaking
+temporary difficulty speaking	may require	speech therapy
+speech therapy	helps with	communication skills
+communication skills	are important for	social interaction
+social interaction	can impact	mental health
+mental health	is linked to	overall well-being
+overall well-being	is important for	quality of life
+quality of life	is affected by	oral health
+oral health	is a factor in	systemic health
+systemic health	can impact	mortality rates
+high mortality rates	may lead to	increased healthcare spending
+increased healthcare spending	puts pressure on	healthcare systems
+healthcare systems	require	funding
+funding	is allocated by	government
+government	policy impacts	healthcare access
+healthcare access	influences	health outcomes
+health outcomes	are indicators of	disease burden
+disease burden	affects	public health
+public health	is a concern for	health organizations
+health organizations	collaborate with	researchers
+researchers	study	disease prevention
+disease prevention	is important for	community health
+community health	impacts	population growth
+population growth	affects	economic development
+economic development	can improve	healthcare infrastructure
+healthcare infrastructure	enhances	healthcare delivery
+healthcare delivery	affects	patient satisfaction
+patient satisfaction	is a measure of	healthcare quality
+healthcare quality	determines	healthcare accreditation
+healthcare accreditation	influences	hospital reputation
+hospital reputation	affects	patient trust
+patient trust	is essential for	successful treatment
+successful treatment	leads to	improved health
+improved health	reduces	disease incidence
+disease incidence	influences	public health
+public health	is a concern for	government
+government	allocates resources for	public health
+public health	depends on	disease prevention
+disease prevention	is a focus of	public health campaigns
+public health campaigns	aim to	educate the public
+educated public	can make	informed health decisions
+informed health decisions	contribute to	disease prevention
+disease prevention	reduces	healthcare costs
+healthcare costs	impact	government finances
+government finances	affect	resource allocation
+resource allocation	influences	public health
+public health	is a concern for	policymakers
+policymakers	shape	public health policies
+public health policies	impact	healthcare access
+healthcare access	affects	health outcomes
+health outcomes	are indicators of	disease burden
+disease burden	affects	public health
+public health	is a concern for	health organizations
+health organizations	collaborate with	researchers
+researchers	study	disease prevention

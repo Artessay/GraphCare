@@ -1,0 +1,20 @@
+hemorrhage during pregnancy	can lead to	maternal mortality
+abruptio placenta	is a type of	hemorrhage during pregnancy
+placenta previa	is a type of	hemorrhage during pregnancy
+abruptio placenta	is associated with	preterm birth
+placenta previa	is associated with	multiparity
+hemorrhage during pregnancy	is a risk factor for	fetal distress
+abruptio placenta	can cause	fetal hypoxia
+placenta previa	can lead to	postpartum hemorrhage
+maternal age	is a risk factor for	placenta previa
+abruptio placenta	is diagnosed by	ultrasound
+placenta previa	is diagnosed by	vaginal examination
+c-section	is the delivery method for	placenta previa
+abruptio placenta	may require	blood transfusion
+placenta previa	may result in	cesarean hysterectomy
+hemorrhage during pregnancy	can lead to	neonatal intensive care admission
+abruptio placenta	is more common in	smokers
+placenta previa	is more common in	women with previous c-section
+hemorrhage during pregnancy	requires	close monitoring
+abruptio placenta	leads to	retroplacental clot formation
+placenta previa	results in	low-lying placenta

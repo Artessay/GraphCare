@@ -1,0 +1,111 @@
+asthma	is a	chronic respiratory condition
+asthma	can be triggered by	allergies
+inhaled corticosteroids	are used for	asthma treatment
+asthma	increases the risk of	respiratory infections
+exercise-induced asthma	is a type of	asthma
+asthma	is associated with	airway inflammation
+bronchodilators	are used to	relieve asthma symptoms
+smoking	can worsen	asthma symptoms
+asthma	is diagnosed using	spirometry tests
+asthma	is a risk factor for	anxiety and depression
+asthma	is more common in	children with eczema
+asthma	can lead to	emergency room visits
+asthma medication	can cause	oral thrush
+asthma	is linked to	obesity
+pregnant women with asthma	are at higher risk for	complications during pregnancy
+asthma	can be managed with	proper medication and avoidance of triggers
+asthma	is characterized by	wheezing and shortness of breath
+asthma	can lead to	decreased lung function
+asthma	can be worsened by	cold air
+asthma	can be triggered by	exercise
+asthma	is often treated by	primary care physicians
+asthma	is a leading cause of	school absences
+asthma	is more common in	urban areas
+children with asthma	are at higher risk for	hospitalization
+asthma	is more common in	individuals with a family history of the condition
+asthma	is associated with	GERD (gastroesophageal reflux disease)
+asthma	can be aggravated by	certain medications
+asthma	can lead to	sleep disturbances
+asthma	can affect	daily activities
+asthma	can cause	wheezing during exercise
+asthma	is diagnosed based on	symptoms and lung function tests
+asthma	is a risk factor for	developing COPD (chronic obstructive pulmonary disease)
+asthma	is more prevalent in	low-income populations
+asthma	can lead to	permanent narrowing of the airways
+asthma	is more common in	smokers
+asthmatic children	are at higher risk for	academic underachievement
+asthma	is associated with	increased healthcare utilization
+asthma	is linked to	decreased quality of life
+asthma	is a risk factor for	pneumonia
+asthma	is a risk factor for	bronchitis
+asthma	is associated with	increased hospital admissions
+asthma	is a risk factor for	lung infections
+asthma	is more common in	individuals with obesity
+asthma	is associated with	increased risk of bronchiolitis in infants
+asthma	may be exacerbated by	airborne pollutants
+asthma	is related to	increased airway responsiveness
+asthma	is a risk factor for	developing allergies
+asthma	is associated with	increased risk of anaphylaxis
+asthma	is a risk factor for	recurrent respiratory infections
+asthma	may be triggered by	viral infections
+asthma	is a risk factor for	developing sinusitis
+asthma	can lead to	chest tightness
+asthma	can lead to	coughing
+asthma	can lead to	difficulty breathing
+asthma	is associated with	exercise intolerance
+asthma	can be triggered by	strong odors
+asthma	is a risk factor for	developing GERD (gastroesophageal reflux disease)
+asthma	is linked to	increased risk of developing obstructive sleep apnea
+asthma	is a risk factor for	developing pulmonary hypertension
+asthma	can lead to	respiratory failure
+asthma	is more common in	individuals with hay fever
+asthma	is associated with	increased risk of developing atopic dermatitis
+asthma	is linked to	increased risk of developing food allergies
+asthma	is a risk factor for	developing allergic rhinitis
+asthma	is associated with	increased risk of developing chronic sinusitis
+chronic obstructive pulmonary disease	is a risk factor for	developing asthma
+asthma	is a risk factor for	developing sleep-disordered breathing
+asthma	is linked to	increased risk of developing chronic obstructive pulmonary disease
+asthma	can lead to	exacerbations requiring oral corticosteroids
+asthma	is a risk factor for	developing vocal cord dysfunction
+asthma	is associated with	increased risk of developing cystic fibrosis
+asthma	is linked to	increased risk of developing bronchiectasis
+asthma	is a risk factor for	developing obliterative bronchiolitis
+asthma	is associated with	increased risk of developing interstitial lung disease
+asthma	is linked to	increased risk of developing marginal zone lymphoma
+asthma	may lead to	decreased lung function in later life
+asthma	is a risk factor for	developing obstructive sleep apnea
+asthma	is associated with	increased risk of developing pulmonary embolism
+asthma	is linked to	increased risk of developing chronic bronchitis
+asthma	is a risk factor for	developing emphysema
+asthma	is associated with	increased risk of developing lung cancer
+asthma	is linked to	increased risk of developing pulmonary fibrosis
+asthma	can lead to	hospital readmissions
+asthma	is a risk factor for	developing pneumothorax
+asthma	can cause	anxiety and panic attacks
+asthma	is associated with	increased risk of developing vocal cord dysfunction
+asthma	is linked to	increased risk of developing sarcoidosis
+asthma	is a risk factor for	developing tuberculosis
+asthma	is associated with	increased risk of developing pulmonary tuberculosis
+asthma	is linked to	increased risk of developing lung abscess
+asthma	is a risk factor for	developing pneumonia
+asthma	can lead to	life-threatening asthma attacks
+asthma	is a risk factor for	developing respiratory failure
+asthma	is associated with	increased risk of developing acute respiratory distress syndrome
+asthma	is linked to	increased risk of developing lung abscess
+asthma	is a risk factor for	developing lung cancer
+asthma	is associated with	increased risk of developing lung metastasis
+asthma	is linked to	increased risk of developing Kaposi's sarcoma
+asthma	is a risk factor for	developing lung nodules
+asthma	is associated with	increased risk of developing pleural effusion
+asthma	can lead to	dyspnea
+asthma	is linked to	increased risk of developing lung fibrosis
+asthma	is a risk factor for	developing lung scarring
+asthma	is associated with	increased risk of developing lung infections
+asthma	is linked to	increased risk of developing chronic lung disease
+asthma	is a risk factor for	developing lung tumors
+asthma	is associated with	increased risk of developing lung diseases
+asthma	is linked to	increased risk of developing respiratory diseases
+asthma	is a risk factor for	developing breathing difficulties
+asthma	can lead to	restricted airflow
+asthma	is associated with	increased risk of developing pulmonary disorders

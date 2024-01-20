@@ -1,0 +1,81 @@
+encephalitis	is an	inflammation
+viral infection	can cause	encephalitis
+encephalitis	may lead to	brain damage
+encephalitis	is diagnosed through	MRI
+encephalitis	is treated with	antiviral medications
+acyclovir	is an	antiviral medication
+encephalitis	can cause	seizures
+encephalitis	can result in	coma
+encephalitis	may cause	memory loss
+encephalitis	is associated with	fever
+encephalitis	can lead to	cognitive impairment
+encephalitis	is linked to	headaches
+encephalitis	can cause	neurological deficits
+encephalitis	may result in	personality changes
+encephalitis	is a risk factor for	mortality
+encephalitis	is a cause of	hospitalization
+encephalitis	is a risk factor for	readmission
+encephalitis	is a complication of	immunosuppression
+encephalitis	may be a consequence of	herpes simplex virus infection
+encephalitis	is associated with	inflammation of the brain
+encephalitis	is a possible cause of	fatigue
+encephalitis	is a potential cause of	speech difficulties
+encephalitis	can result in	behavioral changes
+encephalitis	is a risk factor for	long-term disability
+encephalitis	can cause	muscle weakness
+encephalitis	is a cause of	encephalopathy
+encephalitis	is associated with	confusion
+encephalitis	may lead to	difficulty in concentration
+encephalitis	is a risk factor for	cognitive decline
+encephalitis	is a complication of	travel to endemic areas
+encephalitis	may cause	hallucinations
+encephalitis	is associated with	drowsiness
+encephalitis	is a potential cause of	vision problems
+encephalitis	can result in	hearing loss
+encephalitis	is a cause of	mood disturbances
+encephalitis	is a risk factor for	learning disabilities
+encephalitis	can cause	irritability
+encephalitis	may lead to	balance and coordination problems
+encephalitis	is associated with	neurological symptoms
+encephalitis	is a complication of	weakened immune system
+encephalitis	is a risk factor for	speech impairment
+encephalitis	can result in	depression
+encephalitis	is a potential cause of	anxiety
+encephalitis	can cause	emotional lability
+encephalitis	may cause	sleep disturbances
+encephalitis	is a risk factor for	behavioral problems
+encephalitis	is a complication of	insect bites
+encephalitis	is a risk factor for	mood swings
+encephalitis	may lead to	social skills impairment
+encephalitis	is associated with	executive function deficits
+encephalitis	is a potential cause of	post-encephalitic Parkinsonism
+encephalitis	can cause	memory problems
+encephalitis	is a cause of	personality disorders
+encephalitis	is associated with	motor impairment
+encephalitis	is a risk factor for	obsessive-compulsive disorder
+encephalitis	is a complication of	West Nile virus infection
+encephalitis	may cause	coordination difficulties
+encephalitis	is associated with	decrease in cognitive abilities
+encephalitis	is a risk factor for	encephalomyelitis
+encephalitis	is a complication of	measles virus infection
+encephalitis	is a risk factor for	aphasia
+encephalitis	may cause	social interaction difficulties
+encephalitis	is a potential cause of	attention deficit
+encephalitis	can result in	executive dysfunction
+encephalitis	is a cause of	behavioral disorders
+encephalitis	is associated with	difficulty in decision making
+encephalitis	is a risk factor for	schizophrenia
+encephalitis	may cause	spatial awareness impairment
+encephalitis	is a potential cause of	involuntary movements
+encephalitis	can result in	cognitive inflexibility
+encephalitis	is a risk factor for	insomnia
+encephalitis	is a complication of	tick-borne encephalitis virus infection
+encephalitis	is a risk factor for	impaired memory consolidation
+encephalitis	is associated with	intellectual disability
+encephalitis	is a potential cause of	neuralgia
+encephalitis	can cause	attention impairment
+encephalitis	may lead to	emotional regulation difficulties
+encephalitis	is a cause of	neurodevelopmental disorders
+encephalitis	is associated with	decreased processing speed
+encephalitis	is a risk factor for	obsessive thoughts
+encephalitis	is a complication of	Japanese encephalitis virus infection

@@ -1,0 +1,11 @@
+cardiac dysrhythmias	can lead to	heart failure
+atrial fibrillation	is a type of	cardiac dysrhythmias
+cardiac dysrhythmias	are diagnosed using	electrocardiogram
+beta blockers	are used to treat	cardiac dysrhythmias
+cardiac dysrhythmias	increase the risk of	stroke
+pacemaker	may be implanted for	cardiac dysrhythmias
+cardiac dysrhythmias	can be triggered by	excessive alcohol consumption
+scar tissue	can cause	cardiac dysrhythmias
+cardiac dysrhythmias	are associated with	sudden cardiac death
+calcium channel blockers	can be used to control	cardiac dysrhythmias
+stress	can exacerbate	cardiac dysrhythmias

@@ -1,0 +1,42 @@
+systemic lupus erythematosus	is an	autoimmune condition
+connective tissue disorders	are associated with	systemic lupus erythematosus
+systemic lupus erythematosus	may cause	rheumatoid arthritis
+rheumatoid arthritis	is a	type of arthritis
+type of arthritis	can lead to	joint pain
+joint pain	can result in	limited mobility
+limited mobility	increases the risk of	falls
+falls	can lead to	fractures
+fractures	are associated with	osteoporosis
+osteoporosis	increases the risk of	fractures
+fractures	can result in	hospitalization
+hospitalization	is linked to	increased healthcare costs
+increased healthcare costs	can lead to	financial strain
+financial strain	is associated with	increased stress
+increased stress	can exacerbate	autoimmune conditions
+systemic lupus erythematosus	is treated with	immunosuppressants
+immunosuppressants	can increase the risk of	infections
+infections	can lead to	hospitalization
+hospitalization	can result in	higher mortality rates
+higher mortality rates	are linked to	poorer outcomes
+poorer outcomes	lead to	decreased quality of life
+decreased quality of life	is associated with	depression
+depression	can exacerbate	autoimmune conditions
+autoimmune conditions	may be managed with	lifestyle changes
+lifestyle changes	include	exercise
+exercise	can improve	mobility
+mobility	is important for	independence
+independence	is important for	quality of life
+quality of life	can be improved with	support systems
+support systems	include	family and friends
+family and friends	can provide	emotional support
+emotional support	is important for	overall well-being
+overall well-being	can impact	disease management
+disease management	is crucial for	improved outcomes
+improved outcomes	lead to	better prognosis
+better prognosis	is associated with	improved quality of life
+improved quality of life	can result in	decreased healthcare utilization
+decreased healthcare utilization	is linked to	cost savings
+cost savings	can reduce	financial strain
+financial strain	is associated with	increased stress
+increased stress	can exacerbate	autoimmune conditions
+autoimmune conditions	are associated with	systemic lupus erythematosus

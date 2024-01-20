@@ -1,0 +1,100 @@
+Acute bronchitis	is a	respiratory condition
+Viral infection	can cause	acute bronchitis
+Cough	is a symptom of	acute bronchitis
+Acute bronchitis	can lead to	bronchospasm
+Acute bronchitis	is often treated with	bronchodilators
+Albuterol	is a	bronchodilator
+Acute bronchitis	can result in	hospitalization
+Smoking	is a risk factor for	acute bronchitis
+Acute bronchitis	may lead to	pneumonia
+Acute bronchitis	can be diagnosed with	chest X-ray
+Fever	is a common sign of	acute bronchitis
+Acute bronchitis	is more common in	children
+Acute bronchitis	can cause	fatigue
+Acute bronchitis	is characterized by	inflammation of the bronchial tubes
+Acute bronchitis	is different from	chronic bronchitis
+Acute bronchitis	can be aggravated by	air pollution
+Acute bronchitis	increases the risk of	asthma exacerbation
+Acute bronchitis	can cause	wheezing
+Acute bronchitis	can lead to	respiratory failure
+Antibiotics	are not usually prescribed for	acute bronchitis
+Acute bronchitis	can cause	chest discomfort
+Acute bronchitis	is often accompanied by	nasal congestion
+Acute bronchitis	is more common in	winter
+Acute bronchitis	can be exacerbated by	allergens
+Acute bronchitis	can be a complication of	influenza
+Acute bronchitis	is diagnosed based on	symptoms and physical exam
+Acute bronchitis	can cause	shortness of breath
+Acute bronchitis	can be triggered by	respiratory irritants
+Acute bronchitis	can be a result of	viral infection
+Acute bronchitis	can lead to	bronchial hyperresponsiveness
+Acute bronchitis	can be accompanied by	productive cough
+Acute bronchitis	can be a precursor to	COPD
+Acute bronchitis	can cause	phlegm production
+Acute bronchitis	may require	respiratory therapy
+Acute bronchitis	is characterized by	acute inflammation of the airways
+Acute bronchitis	is more common in	individuals with weakened immune systems
+Acute bronchitis	can be exacerbated by	cold air
+Acute bronchitis	is associated with	increased risk of hospital readmission
+Acute bronchitis	can cause	respiratory distress
+Acute bronchitis	can be accompanied by	malaise
+Acute bronchitis	can result in	bronchial constriction
+Acute bronchitis	is often accompanied by	sore throat
+Acute bronchitis	can cause	chest tightness
+Infection	is a common trigger for	acute bronchitis
+Acute bronchitis	may lead to	impaired gas exchange
+Acute bronchitis	can be exacerbated by	smoking cessation
+Acute bronchitis	can cause	bronchial irritation
+Acute bronchitis	can be complicated by	sinusitis
+Acute bronchitis	can result in	mucous hypersecretion
+Acute bronchitis	can be accompanied by	hoarseness
+Acute bronchitis	can cause	airway inflammation
+Acute bronchitis	can result in	respiratory insufficiency
+Acute bronchitis	may require	oxygen therapy
+Acute bronchitis	can be accompanied by	chest pain
+Acute bronchitis	can lead to	inflammation of the bronchial lining
+Acute bronchitis	can cause	difficulty breathing
+Acute bronchitis	is more common in	individuals with allergies
+Acute bronchitis	can be triggered by	viral respiratory infections
+Acute bronchitis	is often accompanied by	fatigue
+Acute bronchitis	can result in	bronchial edema
+Acute bronchitis	can cause	bronchial hypersecretion
+Acute bronchitis	can lead to	airway obstruction
+Acute bronchitis	can be exacerbated by	environmental pollutants
+Acute bronchitis	is associated with	increased risk of pneumonia
+Acute bronchitis	can cause	bronchial swelling
+Acute bronchitis	may require	fluid and electrolyte replacement
+Acute bronchitis	can be accompanied by	fever
+Acute bronchitis	can result in	bronchial hyperemia
+Acute bronchitis	can cause	bronchial hyperreactivity
+Acute bronchitis	is more common in	individuals with asthma
+Acute bronchitis	can be exacerbated by	respiratory infections
+Acute bronchitis	is often accompanied by	phlegm production
+Acute bronchitis	can result in	bronchial plugging
+Acute bronchitis	can cause	bronchial constriction
+Acute bronchitis	may require	chest physiotherapy
+Acute bronchitis	can be accompanied by	chest discomfort
+Acute bronchitis	can lead to	airway inflammation
+Acute bronchitis	can cause	bronchial hyperresponsiveness
+Acute bronchitis	is associated with	increased risk of respiratory failure
+Acute bronchitis	can be complicated by	bacterial infection
+Acute bronchitis	can result in	bronchial irritation
+Acute bronchitis	can cause	dyspnea
+Acute bronchitis	may require	bronchial hygiene therapy
+Acute bronchitis	can be accompanied by	nasal discharge
+Acute bronchitis	can lead to	airway obstruction
+Acute bronchitis	can cause	bronchospasm
+Acute bronchitis	is more common in	individuals with weakened immune systems
+Acute bronchitis	can be exacerbated by	cold weather
+Acute bronchitis	is associated with	increased risk of asthma exacerbation
+Acute bronchitis	can be complicated by	sinusitis
+Acute bronchitis	can result in	impaired gas exchange
+Acute bronchitis	can cause	mucous hypersecretion
+Infection	is a common trigger for	acute bronchitis
+Acute bronchitis	may require	oxygen therapy
+Acute bronchitis	can be accompanied by	chest pain
+Acute bronchitis	can lead to	bronchial edema
+Acute bronchitis	can cause	bronchial hypersecretion
+Acute bronchitis	is associated with	increased risk of pneumonia
+Acute bronchitis	can be a complication of	COPD
+Acute bronchitis	is diagnosed based on	duration of symptoms and physical examination

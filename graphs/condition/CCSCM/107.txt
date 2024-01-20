@@ -1,0 +1,107 @@
+cardiac arrest	can lead to	ventricular fibrillation
+ventricular fibrillation	causes	sudden loss of consciousness
+defibrillation	is used to treat	ventricular fibrillation
+cardiopulmonary resuscitation	is performed during	cardiac arrest
+epinephrine	is administered in	cardiac arrest
+arrhythmia	increases the risk of	cardiac arrest
+heart failure	can lead to	ventricular fibrillation
+electrocardiogram	is used to diagnose	ventricular fibrillation
+hypoxia	can cause	ventricular fibrillation
+ventricular arrhythmias	are a common cause of	cardiac arrest
+ischemic heart disease	increases the risk of	cardiac arrest
+malignant arrhythmias	can lead to	ventricular fibrillation
+sudden cardiac death	is a consequence of	ventricular fibrillation
+heart attack	can trigger	ventricular fibrillation
+lack of circulation	leads to	cardiac arrest
+electrical shock	can cause	ventricular fibrillation
+severe electrolyte imbalances	can lead to	ventricular fibrillation
+asphyxia	may result in	cardiac arrest
+obesity	is a risk factor for	ventricular fibrillation
+hypertrophic cardiomyopathy	can cause	ventricular fibrillation
+drug overdose	can lead to	cardiac arrest
+arrhythmogenic right ventricular dysplasia	is a rare cause of	ventricular fibrillation
+brugada syndrome	predisposes to	ventricular fibrillation
+long QT syndrome	can lead to	ventricular fibrillation
+amyloidosis	can cause	ventricular fibrillation
+cardiomyopathies	can lead to	ventricular fibrillation
+inherited heart conditions	can predispose to	ventricular fibrillation
+cardiac surgery	can lead to	ventricular fibrillation
+heart rhythm disorders	can result in	cardiac arrest
+electric shock	can trigger	ventricular fibrillation
+tachycardia	can lead to	ventricular fibrillation
+ventricular tachycardia	can degenerate into	ventricular fibrillation
+hyperkalemia	can cause	ventricular fibrillation
+sodium channel blocker medications	can increase the risk of	ventricular fibrillation
+digoxin	toxicity can lead to	ventricular fibrillation
+hypothermia	can trigger	ventricular fibrillation
+acute myocardial infarction	can cause	ventricular fibrillation
+myocarditis	can lead to	ventricular fibrillation
+ventricular assist devices	can lead to	ventricular fibrillation
+pericarditis	can cause	ventricular fibrillation
+amiodarone	is used to treat	ventricular fibrillation
+abnormal heart rhythms	increase the risk of	cardiac arrest
+ventricular dysrhythmias	are a cause of	ventricular fibrillation
+cardiac tamponade	can cause	ventricular fibrillation
+sick sinus syndrome	can lead to	ventricular fibrillation
+left ventricular hypertrophy	can lead to	ventricular fibrillation
+cardiogenic shock	can lead to	ventricular fibrillation
+impaired blood flow to the heart	can lead to	ventricular fibrillation
+acute coronary syndrome	can cause	ventricular fibrillation
+ventricular ectopic beats	can lead to	ventricular fibrillation
+electrical heart disorders	can result in	cardiac arrest
+defibrillator implants	can prevent	ventricular fibrillation
+ion channelopathies	can lead to	ventricular fibrillation
+hypertension	increases the risk of	cardiac arrest
+low potassium levels	can lead to	ventricular fibrillation
+high calcium levels	can lead to	ventricular fibrillation
+idiopathic ventricular fibrillation	has no known	cause
+hyperthyroidism	increases the risk of	ventricular fibrillation
+congestive heart failure	can lead to	ventricular fibrillation
+hypocalcemia	can lead to	ventricular fibrillation
+postoperative complications	can lead to	ventricular fibrillation
+catecholaminergic polymorphic ventricular tachycardia	can lead to	ventricular fibrillation
+cardiac conduction disorders	can lead to	ventricular fibrillation
+hypercapnia	can lead to	ventricular fibrillation
+stress-induced cardiomyopathy	can lead to	ventricular fibrillation
+cardiomyopathy	can lead to	ventricular fibrillation
+impaired left ventricular function	can lead to	ventricular fibrillation
+emotional stress	can lead to	ventricular fibrillation
+left bundle branch block	can lead to	ventricular fibrillation
+certain medications	can increase the risk of	ventricular fibrillation
+alcohol abuse	can lead to	ventricular fibrillation
+cardiac valvular disease	can lead to	ventricular fibrillation
+electrical abnormalities	can lead to	ventricular fibrillation
+sepsis	can lead to	ventricular fibrillation
+hyperkalemic periodic paralysis	can lead to	ventricular fibrillation
+peripartum cardiomyopathy	can lead to	ventricular fibrillation
+abnormal automaticity of cardiac muscle cells	can lead to	ventricular fibrillation
+myocardial contusion	can lead to	ventricular fibrillation
+hyperventilation	can lead to	ventricular fibrillation
+traumatic cardiac injury	can lead to	ventricular fibrillation
+hypomagnesemia	can lead to	ventricular fibrillation
+pulmonary embolism	can lead to	ventricular fibrillation
+overdose of certain medications	can lead to	ventricular fibrillation
+arrhythmogenic right ventricular cardiomyopathy	can lead to	ventricular fibrillation
+inflammatory heart diseases	can lead to	ventricular fibrillation
+tumor infiltration of the heart	can lead to	ventricular fibrillation
+endocarditis	can lead to	ventricular fibrillation
+congenital heart defects	can lead to	ventricular fibrillation
+ventricular hypertrophy	can lead to	ventricular fibrillation
+myocardial bridging	can lead to	ventricular fibrillation
+previous heart attack	can lead to	ventricular fibrillation
+electrolyte imbalances	can lead to	ventricular fibrillation
+electrical abnormalities in the heart	can lead to	ventricular fibrillation
+pericardial effusion	can lead to	ventricular fibrillation
+diabetes	increases the risk of	cardiac arrest
+cardiac sarcoidosis	can lead to	ventricular fibrillation
+anaphylaxis	can lead to	ventricular fibrillation
+idioventricular rhythms	can lead to	ventricular fibrillation
+end-stage renal disease	increases the risk of	ventricular fibrillation
+pulmonary hypertension	can lead to	ventricular fibrillation
+certain genetic conditions	can predispose to	ventricular fibrillation
+cardiac abrasion	can lead to	ventricular fibrillation
+syncope	can be a symptom of	ventricular fibrillation
+radiofrequency ablation	can be used to treat	ventricular fibrillation
+cognitive impairment	is a consequence of	cardiac arrest
+sudden cardiac arrest	can lead to	ventricular fibrillation
+acute pericarditis	can lead to	ventricular fibrillation
